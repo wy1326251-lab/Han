@@ -52,6 +52,85 @@ function getTier(job) {
   return 4;
 }
 
+// ===== 城市名统一 =====
+//
+// 各个招聘网站写城市的方式五花八门：有的写"北京"，有的写"北京市"，
+// 有的干脆写成区名（"番禺区""南山区"），还有的写"合肥高新技术产业开发区"。
+// 不统一的话，同一个城市会在筛选框里出现好几次，用起来很乱。
+// 下面这些代码就是把它们都归到同一个名字上。
+
+// 区名 → 所属城市
+const DISTRICT_TO_CITY = {
+  // 北京
+  东城区: "北京", 西城区: "北京", 朝阳区: "北京", 海淀区: "北京",
+  丰台区: "北京", 石景山区: "北京", 门头沟区: "北京", 房山区: "北京",
+  通州区: "北京", 顺义区: "北京", 昌平区: "北京", 大兴区: "北京",
+  怀柔区: "北京", 平谷区: "北京", 密云区: "北京", 延庆区: "北京",
+  // 上海
+  黄浦区: "上海", 徐汇区: "上海", 长宁区: "上海", 静安区: "上海",
+  普陀区: "上海", 虹口区: "上海", 杨浦区: "上海", 闵行区: "上海",
+  宝山区: "上海", 嘉定区: "上海", 浦东新区: "上海", 金山区: "上海",
+  松江区: "上海", 青浦区: "上海", 奉贤区: "上海", 崇明区: "上海",
+  // 广州
+  越秀区: "广州", 海珠区: "广州", 荔湾区: "广州", 天河区: "广州",
+  白云区: "广州", 黄埔区: "广州", 番禺区: "广州", 花都区: "广州",
+  南沙区: "广州", 从化区: "广州", 增城区: "广州",
+  // 深圳
+  福田区: "深圳", 罗湖区: "深圳", 南山区: "深圳", 宝安区: "深圳",
+  龙岗区: "深圳", 龙华区: "深圳", 坪山区: "深圳", 光明区: "深圳",
+  盐田区: "深圳",
+  // 杭州
+  上城区: "杭州", 拱墅区: "杭州", 西湖区: "杭州", 滨江区: "杭州",
+  萧山区: "杭州", 余杭区: "杭州", 富阳区: "杭州", 临平区: "杭州",
+  钱塘区: "杭州",
+  // 成都
+  锦江区: "成都", 青羊区: "成都", 金牛区: "成都", 武侯区: "成都",
+  成华区: "成都", 龙泉驿区: "成都", 双流区: "成都", 郫都区: "成都",
+  // 南京
+  玄武区: "南京", 秦淮区: "南京", 建邺区: "南京", 鼓楼区: "南京",
+  栖霞区: "南京", 雨花台区: "南京", 江宁区: "南京", 浦口区: "南京",
+  // 武汉
+  江岸区: "武汉", 江汉区: "武汉", 硚口区: "武汉", 汉阳区: "武汉",
+  武昌区: "武汉", 青山区: "武汉", 洪山区: "武汉", 东西湖区: "武汉",
+  // 西安
+  新城区: "西安", 碑林区: "西安", 莲湖区: "西安", 雁塔区: "西安",
+  未央区: "西安", 长安区: "西安",
+  // 其他
+  香洲区: "珠海", 金湾区: "珠海", 姑苏区: "苏州", 工业园区: "苏州",
+  思明区: "厦门", 湖里区: "厦门", 渝中区: "重庆", 江北区: "重庆",
+};
+
+function normalizeCityName(raw) {
+  if (!raw) return null;
+  let name = raw.trim();
+  if (!name) return null;
+
+  // "合肥高新技术产业开发区" 这类，取前面的城市名
+  const devZone = name.match(
+    /^(.+?)(高新技术产业开发区|经济技术开发区|经济开发区|高新区|开发区)$/
+  );
+  if (devZone && devZone[1]) name = devZone[1];
+
+  if (DISTRICT_TO_CITY[name]) return DISTRICT_TO_CITY[name];
+
+  // 去掉结尾的"市"，让"北京市"和"北京"合并成一个
+  if (name.length > 2 && name.endsWith("市")) name = name.slice(0, -1);
+
+  return DISTRICT_TO_CITY[name] || name;
+}
+
+// 一个岗位可能挂着多个城市（"北京/上海"），这里拆开、规整、去重。
+// 排过序之后，"北京/上海"和"上海/北京"就会变成同一个东西。
+function cityListOf(rawCity) {
+  if (!rawCity) return [];
+  const out = [];
+  for (const part of String(rawCity).split("/")) {
+    const name = normalizeCityName(part);
+    if (name && !out.includes(name)) out.push(name);
+  }
+  return out.sort();
+}
+
 async function loadData() {
   const results = await Promise.all(
     DATA_SOURCES.map((url) =>
@@ -63,6 +142,13 @@ async function loadData() {
 
   const validResults = results.filter(Boolean);
   allJobs = validResults.flatMap((r) => r.jobs || []);
+
+  // 先把每个岗位的城市规整好存起来，后面筛选和显示都直接用，
+  // 不用每次都重新算一遍
+  allJobs.forEach((job) => {
+    job.cities = cityListOf(job.city);
+    job.cityText = job.cities.join(" / ");
+  });
 
   const latestUpdate = validResults
     .map((r) => r.updated_at)
@@ -79,14 +165,23 @@ async function loadData() {
 }
 
 function populateFilterOptions() {
-  const cities = [...new Set(allJobs.map((j) => j.city).filter(Boolean))].sort();
+  // 统计每个城市有多少个岗位。一个挂着"北京/上海"的岗位，
+  // 在北京和上海下面各算一次，这样选哪个都能找到它。
+  const cityCount = new Map();
+  allJobs.forEach((job) => {
+    job.cities.forEach((c) => cityCount.set(c, (cityCount.get(c) || 0) + 1));
+  });
+
+  // 岗位多的城市排前面，省得每次都要在长长的列表里翻找北京、上海
+  const cities = [...cityCount.entries()].sort((a, b) => b[1] - a[1]);
+
   const companies = [...new Set(allJobs.map((j) => j.company).filter(Boolean))].sort();
 
   const citySelect = document.getElementById("citySelect");
-  cities.forEach((city) => {
+  cities.forEach(([city, count]) => {
     const opt = document.createElement("option");
     opt.value = city;
-    opt.textContent = city;
+    opt.textContent = `${city}（${count}）`;
     citySelect.appendChild(opt);
   });
 
@@ -106,7 +201,8 @@ function jobHeadline(job) {
 }
 
 function matchesFilters(job, keyword, city, company, newOnly, tier, officialOnly) {
-  if (city && job.city !== city) return false;
+  // 一个岗位可能在多个城市招人，只要包含你选的那个就算匹配
+  if (city && !job.cities.includes(city)) return false;
   if (company && job.company !== company) return false;
   if (newOnly && !job.is_new) return false;
   if (officialOnly && !job.is_campus_official) return false;
@@ -117,6 +213,7 @@ function matchesFilters(job, keyword, city, company, newOnly, tier, officialOnly
       job.title,
       job.company,
       job.city,
+      job.cityText,
       job.industry,
       job.search_keyword,
       ...(job.tags || []),
@@ -202,7 +299,7 @@ function render() {
     meta.className = "job-meta";
     const metaParts = [
       `<span class="company">${job.company || "未知公司"}</span>`,
-      job.city || "地点未知",
+      job.cityText || "地点未知",
       job.salary || "",
       job.publish_date ? `发布于 ${job.publish_date}` : "",
       job.source || "",
