@@ -1,0 +1,7 @@
+# Python 虚拟环境（本地跑脚本用的，不需要传到 GitHub）
+venv/
+__pycache__/
+*.pyc
+
+# 系统自动生成的文件
+.DS_Store

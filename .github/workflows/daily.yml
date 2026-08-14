@@ -1,0 +1,54 @@
+# 这个文件是给 GitHub 看的"定时任务说明书"。
+# 它告诉 GitHub：每天到点了，帮我找台电脑跑一次抓取脚本，
+# 把抓到的新岗位存回仓库，网页就会自动更新。
+# 你自己的电脑不需要开机。
+
+name: 每天自动抓取岗位
+
+on:
+  schedule:
+    # 这里的时间是「世界标准时间」，比北京时间晚 8 小时。
+    # 1:00 UTC = 北京时间早上 9 点
+    - cron: "0 1 * * *"
+  # 加上这个之后，你可以随时在 GitHub 网页上手动点一下按钮立刻跑一次，
+  # 不用等到第二天
+  workflow_dispatch:
+
+# 允许这个任务把抓到的数据写回仓库
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    # 抓取全部来源大概十几分钟，这里给到 30 分钟上限，
+    # 万一某个网站卡住不响应，超时就会自动停掉，不会一直挂着
+    timeout-minutes: 30
+
+    steps:
+      - name: 取出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 准备 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装脚本需要的工具包
+        run: pip install -r requirements.txt
+
+      - name: 运行抓取
+        run: python run_all.py
+
+      - name: 把新抓到的岗位存回仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          # 如果今天岗位没有任何变化，就不用提交了
+          if git diff --staged --quiet; then
+            echo "今天岗位没有变化，不需要更新"
+          else
+            git commit -m "自动更新岗位数据 $(date +'%Y-%m-%d')"
+            git push
+          fi

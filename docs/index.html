@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>秋招实习岗位聚合</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top-bar">
+  <h1>秋招实习岗位聚合</h1>
+  <p class="update-info" id="updateInfo">数据加载中…</p>
+</header>
+
+<main>
+  <section class="controls">
+    <input id="searchInput" type="text" placeholder="搜索职位类型 / 公司 / 标签，例如：产品、字节跳动、五险一金" />
+    <select id="citySelect">
+      <option value="">全部城市</option>
+    </select>
+    <select id="companySelect">
+      <option value="">全部公司</option>
+    </select>
+    <select id="tierSelect">
+      <option value="">全部档位</option>
+      <option value="1">秋招可转正</option>
+      <option value="2">大厂实习</option>
+      <option value="3">中厂实习</option>
+      <option value="4">普通实习</option>
+    </select>
+    <label class="new-only-label">
+      <input type="checkbox" id="newOnlyCheckbox" />
+      只看新职位
+    </label>
+    <label class="new-only-label">
+      <input type="checkbox" id="officialOnlyCheckbox" />
+      只看官网校招
+    </label>
+  </section>
+
+  <p class="result-count" id="resultCount"></p>
+
+  <section id="jobList" class="job-list"></section>
+
+  <p id="emptyMessage" class="empty-message" hidden>没有找到符合条件的职位，换个关键词试试？</p>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
