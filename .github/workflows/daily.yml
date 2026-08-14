@@ -21,9 +21,10 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    # 抓取全部来源大概十几分钟，这里给到 30 分钟上限，
-    # 万一某个网站卡住不响应，超时就会自动停掉，不会一直挂着
-    timeout-minutes: 30
+    # 抓取全部来源大概 15-20 分钟（实习僧那部分最慢，要逐个访问职位详情页）。
+    # 这里给到 45 分钟上限，万一某个网站卡住不响应，超时会自动停掉不会一直挂着。
+    # 公开仓库的 GitHub Actions 时长是免费不限量的，不用担心费用。
+    timeout-minutes: 45
 
     steps:
       - name: 取出仓库代码
