@@ -5,12 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>秋招实习岗位聚合</title>
 <link rel="stylesheet" href="style.css">
+<script>
+  // 这段要放在页面最前面、样式表之后立刻执行：
+  // 先把上次选的主题应用上，再开始画页面。
+  // 否则会出现"先闪一下白色再变黑"的情况，很刺眼。
+  (function () {
+    var saved = localStorage.getItem("theme");
+    if (saved === "dark" || saved === "light") {
+      document.documentElement.setAttribute("data-theme", saved);
+    }
+  })();
+</script>
 </head>
 <body>
 
 <header class="top-bar">
-  <h1>秋招实习岗位聚合</h1>
-  <p class="update-info" id="updateInfo">数据加载中…</p>
+  <div>
+    <h1>秋招实习岗位聚合</h1>
+    <p class="update-info" id="updateInfo">数据加载中…</p>
+  </div>
+  <button type="button" id="themeToggle" class="theme-toggle">🌙 夜间</button>
 </header>
 
 <main>

@@ -225,6 +225,49 @@ function render() {
   }
 }
 
+// ===== 白天 / 夜间 主题切换 =====
+//
+// 一共有三种状态：
+//   1. 你没做过选择 —— 跟着手机/电脑的系统设置走（系统深色，网页就深色）
+//   2. 你手动选了夜间 —— 一直深色
+//   3. 你手动选了白天 —— 一直浅色
+// 你的选择会记在这台设备的浏览器里，下次打开还是你选的那个。
+
+const themeToggle = document.getElementById("themeToggle");
+
+function currentlyDark() {
+  const saved = document.documentElement.getAttribute("data-theme");
+  if (saved === "dark") return true;
+  if (saved === "light") return false;
+  // 没手动选过，就看系统是不是深色
+  return window.matchMedia("(prefers-color-scheme: dark)").matches;
+}
+
+function updateToggleLabel() {
+  // 按钮上显示的是"点了之后会变成什么"，而不是"现在是什么"
+  themeToggle.textContent = currentlyDark() ? "☀️ 白天" : "🌙 夜间";
+}
+
+themeToggle.addEventListener("click", () => {
+  const next = currentlyDark() ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next);
+  localStorage.setItem("theme", next);
+  updateToggleLabel();
+});
+
+// 如果你没手动选过，而系统主题变了（比如到了晚上自动切深色），
+// 网页要跟着变，按钮文字也要跟着更新
+window
+  .matchMedia("(prefers-color-scheme: dark)")
+  .addEventListener("change", () => {
+    if (!document.documentElement.hasAttribute("data-theme")) {
+      updateToggleLabel();
+    }
+  });
+
+updateToggleLabel();
+
+// ===== 筛选控件 =====
 document.getElementById("searchInput").addEventListener("input", render);
 document.getElementById("citySelect").addEventListener("change", render);
 document.getElementById("companySelect").addEventListener("change", render);

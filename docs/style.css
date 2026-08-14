@@ -1,13 +1,75 @@
+/* 颜色统一在这里定义，浅色和深色各一套。
+   下面的样式只引用这些名字，所以切换主题时整个页面会一起变。 */
+
+/* 浅色模式（白天） */
 :root {
   --bg: #f6f7f9;
   --card-bg: #ffffff;
   --border: #e3e5e8;
+  --hover-border: #cfd4db;
   --text: #1f2328;
   --text-muted: #6b7280;
   --brand: #2563eb;
   --new-badge: #ef4444;
   --tag-bg: #eef2ff;
   --tag-text: #3730a3;
+  --tier1: #d97706;
+  --tier1-bg: #fffbeb;
+  --tier3: #0d9488;
+  --tier4: #9ca3af;
+  --official: #7c3aed;
+  --shadow: rgba(0, 0, 0, 0.06);
+  /* 小圆标签上的文字颜色。浅色模式下标签底色偏深，用白字 */
+  --badge-text: #ffffff;
+}
+
+/* 深色模式（夜间）。
+   下面两段内容是一样的，区别只在什么时候生效：
+   - 第一段：跟随系统设置（你手机/电脑开了深色，网页就自动变深色）
+   - 第二段：你手动点了切换按钮，以你的选择为准
+   颜色不是简单地把黑白对调，而是重新挑过的：深色下背景用偏蓝的深灰而不是纯黑，
+   彩色标签也调亮了一些，否则在深色背景上会显得脏、看不清。 */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1216;
+    --card-bg: #181c22;
+    --border: #2a3038;
+    --hover-border: #3d4652;
+    --text: #e6e9ee;
+    --text-muted: #9aa4b2;
+    --brand: #60a5fa;
+    --new-badge: #f87171;
+    --tag-bg: #262d3a;
+    --tag-text: #a5b4fc;
+    --tier1: #fbbf24;
+    --tier1-bg: #2a2113;
+    --tier3: #2dd4bf;
+    --tier4: #9ca3af;
+    --official: #a78bfa;
+    --shadow: rgba(0, 0, 0, 0.5);
+    /* 深色模式下标签底色是亮的，改用深色文字才看得清 */
+    --badge-text: #0f1216;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #0f1216;
+  --card-bg: #181c22;
+  --border: #2a3038;
+  --hover-border: #3d4652;
+  --text: #e6e9ee;
+  --text-muted: #9aa4b2;
+  --brand: #60a5fa;
+  --new-badge: #f87171;
+  --tag-bg: #262d3a;
+  --tag-text: #a5b4fc;
+  --tier1: #fbbf24;
+  --tier1-bg: #2a2113;
+  --tier3: #2dd4bf;
+  --tier4: #9ca3af;
+  --official: #a78bfa;
+  --shadow: rgba(0, 0, 0, 0.5);
+  --badge-text: #0f1216;
 }
 
 * {
@@ -25,11 +87,33 @@ body {
   background: var(--card-bg);
   border-bottom: 1px solid var(--border);
   padding: 20px 24px;
+  /* 标题在左，主题切换按钮在右 */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
 }
 
 .top-bar h1 {
   margin: 0 0 6px 0;
   font-size: 22px;
+}
+
+/* 白天/黑夜 切换按钮 */
+.theme-toggle {
+  flex-shrink: 0;
+  padding: 8px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.theme-toggle:hover {
+  border-color: var(--hover-border);
 }
 
 .update-info {
@@ -51,12 +135,20 @@ main {
   margin-bottom: 12px;
 }
 
+/* 输入框和下拉框如果不指定颜色，深色模式下会保持系统默认的白底，
+   跟页面格格不入，所以这里明确指定跟着主题走 */
 #searchInput {
   flex: 1 1 280px;
   padding: 10px 12px;
   border: 1px solid var(--border);
   border-radius: 8px;
   font-size: 14px;
+  background: var(--card-bg);
+  color: var(--text);
+}
+
+#searchInput::placeholder {
+  color: var(--text-muted);
 }
 
 #citySelect, #companySelect, #tierSelect {
@@ -65,6 +157,12 @@ main {
   border-radius: 8px;
   font-size: 14px;
   background: var(--card-bg);
+  color: var(--text);
+}
+
+/* 让勾选框本身也跟着主题变色，不然深色下会是刺眼的白方块 */
+.new-only-label input[type="checkbox"] {
+  accent-color: var(--brand);
 }
 
 .new-only-label {
@@ -101,14 +199,14 @@ main {
 }
 
 .job-card:hover {
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-  border-color: #cfd4db;
+  box-shadow: 0 2px 10px var(--shadow);
+  border-color: var(--hover-border);
 }
 
 /* 档位1：秋招可转正实习 —— 金色，优先级最高 */
 .job-card.tier-1 {
-  border-left-color: #d97706;
-  background: #fffbeb;
+  border-left-color: var(--tier1);
+  background: var(--tier1-bg);
 }
 
 /* 档位2：大厂日常实习 —— 深蓝色 */
@@ -118,14 +216,14 @@ main {
 
 /* 档位3：中厂日常实习 —— 浅一点的蓝绿色，跟大厂做区分 */
 .job-card.tier-3 {
-  border-left-color: #0d9488;
+  border-left-color: var(--tier3);
 }
 
 /* 档位4：普通日常实习 —— 不特殊上色，默认样式 */
 
 .official-badge {
-  background: #7c3aed;
-  color: white;
+  background: var(--official);
+  color: var(--badge-text);
   font-size: 11px;
   font-weight: 600;
   padding: 2px 7px;
@@ -139,11 +237,11 @@ main {
   padding: 2px 7px;
   border-radius: 999px;
   flex-shrink: 0;
-  color: white;
+  color: var(--badge-text);
 }
 
 .tier-badge.tier-1 {
-  background: #d97706;
+  background: var(--tier1);
 }
 
 .tier-badge.tier-2 {
@@ -151,11 +249,11 @@ main {
 }
 
 .tier-badge.tier-3 {
-  background: #0d9488;
+  background: var(--tier3);
 }
 
 .tier-badge.tier-4 {
-  background: #9ca3af;
+  background: var(--tier4);
 }
 
 .job-card-top {
@@ -173,7 +271,7 @@ main {
 
 .new-badge {
   background: var(--new-badge);
-  color: white;
+  color: var(--badge-text);
   font-size: 11px;
   font-weight: 600;
   padding: 2px 7px;
@@ -216,7 +314,19 @@ main {
   .controls {
     flex-direction: column;
   }
+  /* 竖排的时候，搜索框那个 280px 会被当成"高度"用，
+     导致输入框变成一个巨大的方块，所以这里要取消掉 */
+  #searchInput {
+    flex: none;
+    width: 100%;
+  }
   #citySelect, #companySelect, #tierSelect {
     width: 100%;
+  }
+  .top-bar {
+    padding: 16px;
+  }
+  .top-bar h1 {
+    font-size: 19px;
   }
 }
