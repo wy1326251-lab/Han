@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14 17:29:25",
-  "job_count": 319,
+  "updated_at": "2026-08-14 11:00:49",
+  "job_count": 321,
   "excluded_count": 0,
   "jobs": [
     {
@@ -287,6 +287,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_moonshot_e3a6bf00-f9bd-4daa-a03a-f965220c6bf1",
+      "title": "【校招】大模型算法研究员/工程师（预训练）",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e3a6bf00-f9bd-4daa-a03a-f965220c6bf1",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-14 17:41:35",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": true
     },
     {
       "id": "moka_moonshot_c3f01bba-856e-4d74-a07b-45e2d39108eb",
@@ -1768,7 +1787,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_9a4f04e3-fc04-4f0a-8927-13ee9100c12d",
@@ -1806,7 +1825,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_164c9eed-40a6-410e-88b3-7302562867b5",
@@ -2221,6 +2240,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_hypergryph_32dd53ce-9b73-4438-ab37-a617f286d875",
+      "title": "AI算法开发-语音生成方向",
+      "company": "鹰角网络",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/hypergryph/26326#/job/32dd53ce-9b73-4438-ab37-a617f286d875",
+      "search_keyword": null,
+      "source": "鹰角网络官网",
+      "publish_date": "2026-08-14 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": true
     },
     {
       "id": "moka_hypergryph_566b2d77-35be-4e21-a721-ebca59bce8eb",
@@ -4694,7 +4732,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_001ae122-5971-4dd3-a691-8ee7e5abfa21",

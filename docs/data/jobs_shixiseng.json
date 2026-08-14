@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 17:26:40",
+  "updated_at": "2026-08-14 10:56:58",
   "job_count": 344,
   "excluded_count": 0,
   "jobs": [
@@ -46,7 +46,7 @@
       "offers_fulltime": true,
       "salary": "50-80/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ditfcx1jzoef",
@@ -915,7 +915,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xne81prukfpe",
@@ -1914,28 +1914,6 @@
       "is_new": false
     },
     {
-      "id": "inn_0apnvu7qtzip",
-      "title": "互动直播中台-直播策略运营实习生",
-      "company": "小红书",
-      "city": "上海",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "免费三餐",
-        "环境好",
-        "宠物日",
-        "下午茶"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_0apnvu7qtzip",
-      "search_keyword": "直播",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "inn_d52uprr6rk3m",
       "title": "国际化直播营收运营实习生-TikTok直播",
       "company": "字节跳动",
@@ -1949,6 +1927,28 @@
         "弹性工作"
       ],
       "link": "https://www.shixiseng.com/intern/inn_d52uprr6rk3m",
+      "search_keyword": "直播",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "inn_0apnvu7qtzip",
+      "title": "互动直播中台-直播策略运营实习生",
+      "company": "小红书",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "免费三餐",
+        "环境好",
+        "宠物日",
+        "下午茶"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_0apnvu7qtzip",
       "search_keyword": "直播",
       "source": "实习僧",
       "publish_date": null,
@@ -1998,7 +1998,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_timk5nu36r3r",
@@ -2175,6 +2175,31 @@
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "inn_vhtxzud7u3qy",
+      "title": "内容策划（远程实习）",
+      "company": "申米",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "远程实习",
+        "一对一导师",
+        "接受大一大二",
+        "不打卡",
+        "寒假实习",
+        "不加班",
+        "零基础实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_vhtxzud7u3qy",
+      "search_keyword": "内容策划",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-08-14",
+      "is_new": true
     },
     {
       "id": "inn_8nloegn7lurf",
@@ -2456,6 +2481,26 @@
       "is_new": false
     },
     {
+      "id": "inn_appieyjzbryt",
+      "title": "网易游戏体验与内容策划实习生（星匣专项）",
+      "company": "网易元气",
+      "city": "杭州",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "零基础实习",
+        "远程实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_appieyjzbryt",
+      "search_keyword": "内容策划",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-08-14",
+      "is_new": true
+    },
+    {
       "id": "inn_r5nxixslzfdc",
       "title": "新媒体增长运营助理（内容策划+剪辑方向）",
       "company": "自如",
@@ -2477,49 +2522,6 @@
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
       "is_new": false
-    },
-    {
-      "id": "inn_bzvz4j1cwjjc",
-      "title": "区域策划团队 -AI内容创作实习生",
-      "company": "新浪微博",
-      "city": "北京",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "一对一导师",
-        "地铁周边"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_bzvz4j1cwjjc",
-      "search_keyword": "内容策划",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "80-120/天",
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "inn_1rd1n1b6am0a",
-      "title": "兴趣热点策划运营实习生 - 抖音内容运营",
-      "company": "字节跳动",
-      "city": "北京",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "团队氛围好",
-        "扁平管理",
-        "用户过亿",
-        "大牛带队",
-        "免费三餐"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_1rd1n1b6am0a",
-      "search_keyword": "内容策划",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "无转正",
-      "offers_fulltime": false,
-      "salary": "350-350/天",
-      "first_seen": "2026-08-14",
-      "is_new": true
     },
     {
       "id": "inn_m6hmejfy95xk",
@@ -2751,6 +2753,32 @@
       "is_new": false
     },
     {
+      "id": "inn_wig4lwhreagz",
+      "title": "新媒体文案实习生",
+      "company": "InVisor国际教育",
+      "city": "广州",
+      "industry": "教育/培训",
+      "tags": [
+        "实习津贴",
+        "留学生实习",
+        "接受大一大二",
+        "地铁周边",
+        "节日福利",
+        "团队氛围好",
+        "地铁周边",
+        "环境好"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_wig4lwhreagz",
+      "search_keyword": "文案",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "可转正",
+      "offers_fulltime": true,
+      "salary": "100-100/天",
+      "first_seen": "2026-08-14",
+      "is_new": true
+    },
+    {
       "id": "inn_o4hvi7htn4ff",
       "title": "文案策划实习生",
       "company": "幻维数码",
@@ -2912,26 +2940,6 @@
       "chance": "面议",
       "offers_fulltime": false,
       "salary": "50-100/天",
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "inn_psk95hqaosnx",
-      "title": "文案策划实习生",
-      "company": "飞天互动",
-      "city": "广州",
-      "industry": "广告/传媒/公关/展览",
-      "tags": [
-        "周末双休",
-        "地铁周边"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_psk95hqaosnx",
-      "search_keyword": "文案",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "100-150/天",
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -3363,7 +3371,7 @@
       "offers_fulltime": false,
       "salary": "350-350/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nvxhnzbyfxib",
@@ -3382,7 +3390,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ptbs3xlsc772",
@@ -3404,7 +3412,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_kuzdymfserxb",
@@ -3425,7 +3433,7 @@
       "offers_fulltime": false,
       "salary": "50-100/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_c7cdbfuarild",
@@ -3445,7 +3453,7 @@
       "offers_fulltime": false,
       "salary": "250-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_5kuzqhegiuvp",
@@ -3468,7 +3476,7 @@
       "offers_fulltime": true,
       "salary": "100-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_x6fdxqaeoqv1",
@@ -3489,7 +3497,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_5zf3kaf79wjx",
@@ -3508,7 +3516,7 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vd3uk96s1e5d",
@@ -3531,7 +3539,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_wjdv7cm9cvwh",
@@ -3552,7 +3560,7 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_2ibu3cpmh1f3",
@@ -3573,7 +3581,7 @@
       "offers_fulltime": false,
       "salary": "150-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_k5eqikck5tri",
@@ -3593,7 +3601,7 @@
       "offers_fulltime": false,
       "salary": "250-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_evcldaxddqxy",
@@ -3615,7 +3623,7 @@
       "offers_fulltime": false,
       "salary": "180-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_0kk2tg23is4p",
@@ -3640,7 +3648,7 @@
       "offers_fulltime": true,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_7dktpup28htq",
@@ -3668,7 +3676,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_61ndaiszkntx",
@@ -3696,7 +3704,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_da7y3ezjqvee",
@@ -3721,6 +3729,27 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "inn_ahu48ayrgbtb",
+      "title": "Ai应用开发",
+      "company": "长擎软件",
+      "city": "北京",
+      "industry": "电子/通信/硬件",
+      "tags": [
+        "远程实习",
+        "留学生实习",
+        "餐补"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_ahu48ayrgbtb",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-500/天",
+      "first_seen": "2026-08-14",
       "is_new": true
     },
     {
@@ -3742,7 +3771,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_rj6m2dgawin6",
@@ -3764,7 +3793,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_stkhl8yhfiap",
@@ -3786,30 +3815,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
-    },
-    {
-      "id": "inn_xplmbiws40ee",
-      "title": "Ai应用开发",
-      "company": "信投智联科技",
-      "city": "广州",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "暑期实习",
-        "地铁周边",
-        "远程实习",
-        "不打卡",
-        "零基础实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_xplmbiws40ee",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "200-400/天",
-      "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_armwwgpzmt5u",
@@ -3829,7 +3835,7 @@
       "offers_fulltime": false,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_54lqnh3nruxo",
@@ -3849,7 +3855,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ay6lfdp6zt68",
@@ -3870,7 +3876,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xtx7uph5njdr",
@@ -3890,7 +3896,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_6fy44qiur0bw",
@@ -3909,7 +3915,7 @@
       "offers_fulltime": false,
       "salary": "180-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_tht7xdu2avdg",
@@ -3929,7 +3935,7 @@
       "offers_fulltime": false,
       "salary": "100-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_lmj1mr6ejwbn",
@@ -3948,7 +3954,7 @@
       "offers_fulltime": false,
       "salary": "80-100/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_uf8mq2glhz1b",
@@ -3967,7 +3973,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_bldhl8wj7ro8",
@@ -3987,7 +3993,7 @@
       "offers_fulltime": false,
       "salary": "250-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_sl2cfirw95sp",
@@ -4006,7 +4012,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ceiobst6dxy4",
@@ -4027,7 +4033,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_pjmnjfjsnxfr",
@@ -4047,7 +4053,7 @@
       "offers_fulltime": false,
       "salary": "150-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ivrutd5pzeck",
@@ -4066,7 +4072,7 @@
       "offers_fulltime": false,
       "salary": "150-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_4zhs3trjms4o",
@@ -4087,7 +4093,7 @@
       "offers_fulltime": false,
       "salary": "150-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_rewcve8zgjaw",
@@ -4106,7 +4112,7 @@
       "offers_fulltime": true,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_hothsau2qusc",
@@ -4127,7 +4133,7 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_su8r5izitijf",
@@ -4146,7 +4152,7 @@
       "offers_fulltime": false,
       "salary": "50-50/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_7fvc9gc44p4l",
@@ -4167,7 +4173,7 @@
       "offers_fulltime": false,
       "salary": "200-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_npdvan2khezf",
@@ -4188,7 +4194,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_8ue5u1hjzyoy",
@@ -4208,7 +4214,7 @@
       "offers_fulltime": false,
       "salary": "150-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_s1daf0w7lkfp",
@@ -4230,7 +4236,7 @@
       "offers_fulltime": false,
       "salary": "200-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_2jhqoyxqtet4",
@@ -4251,7 +4257,7 @@
       "offers_fulltime": false,
       "salary": "200-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ullosfsystzl",
@@ -4270,7 +4276,7 @@
       "offers_fulltime": false,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_tfrfu1lhrsdw",
@@ -4294,7 +4300,7 @@
       "offers_fulltime": true,
       "salary": "180-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_hc76qwkgzkxn",
@@ -4314,7 +4320,7 @@
       "offers_fulltime": true,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ozs7xxtxqi5t",
@@ -4335,7 +4341,7 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_hes0ljmlwoo9",
@@ -4356,7 +4362,7 @@
       "offers_fulltime": false,
       "salary": "80-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_lp7tyjbgjzdh",
@@ -4376,7 +4382,7 @@
       "offers_fulltime": false,
       "salary": "100-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_3vjf3gfqymcw",
@@ -4399,7 +4405,7 @@
       "offers_fulltime": true,
       "salary": "150-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_kypbn9mbnyc1",
@@ -4419,7 +4425,7 @@
       "offers_fulltime": false,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_cc7kldky3bua",
@@ -4438,7 +4444,7 @@
       "offers_fulltime": false,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nuvc1aiz7ghw",
@@ -4457,7 +4463,7 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_mcqttd1stf1p",
@@ -4477,7 +4483,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_f83ujm7ptphq",
@@ -4496,7 +4502,7 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_x9rn6qvtpw8p",
@@ -4516,7 +4522,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vqz0fclxd7nx",
@@ -4541,7 +4547,7 @@
       "offers_fulltime": false,
       "salary": "500-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_mzups4c66adi",
@@ -4563,7 +4569,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_650ucmcrtzux",
@@ -4584,7 +4590,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_qictullc1iml",
@@ -4606,28 +4612,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
-    },
-    {
-      "id": "inn_rjlf7wgad5pz",
-      "title": "大模型算法",
-      "company": "长擎软件",
-      "city": "北京",
-      "industry": "电子/通信/硬件",
-      "tags": [
-        "周末双休",
-        "留学生实习",
-        "节日福利"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_rjlf7wgad5pz",
-      "search_keyword": "大模型",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "300-500/天",
-      "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_1nwbqkfuskdw",
@@ -4647,7 +4632,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_fop8o889k4dn",
@@ -4668,7 +4653,7 @@
       "offers_fulltime": true,
       "salary": "500-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_txcow06syodd",
@@ -4687,7 +4672,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_bzn4z74tljyl",
@@ -4709,7 +4694,7 @@
       "offers_fulltime": false,
       "salary": "300-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_dlavvhta9xdx",
@@ -4729,7 +4714,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_5nwschqjox1w",
@@ -4749,7 +4734,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_bfp68gcskiah",
@@ -4770,7 +4755,7 @@
       "offers_fulltime": false,
       "salary": "500-800/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_coljrcxevmfi",
@@ -4790,7 +4775,7 @@
       "offers_fulltime": false,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ecfl3iym6ek1",
@@ -4810,7 +4795,7 @@
       "offers_fulltime": false,
       "salary": "200-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_a4rvbdhnfef9",
@@ -4833,7 +4818,7 @@
       "offers_fulltime": false,
       "salary": "180-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_z5y8hbgfmdj6",
@@ -4855,7 +4840,7 @@
       "offers_fulltime": false,
       "salary": "180-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_itbphd7f21el",
@@ -4876,7 +4861,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_dccqi0ugawwu",
@@ -4897,7 +4882,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_s22owqpqkqe1",
@@ -4918,7 +4903,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_eiogeoagxlox",
@@ -4937,7 +4922,7 @@
       "offers_fulltime": true,
       "salary": "300-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_tz6ltpb9vcji",
@@ -4957,6 +4942,27 @@
       "chance": "可转正",
       "offers_fulltime": true,
       "salary": "300-500/天",
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "inn_059tocotm0gi",
+      "title": "大模型算法工程师",
+      "company": "中科蓝智",
+      "city": "武汉",
+      "industry": "电子/通信/硬件",
+      "tags": [
+        "实习津贴",
+        "远程实习",
+        "可转正实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_059tocotm0gi",
+      "search_keyword": "大模型",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "80-150/天",
       "first_seen": "2026-08-14",
       "is_new": true
     },
@@ -4979,7 +4985,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_f6wq1aip8b55",
@@ -4998,7 +5004,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_sradbrcxr3ac",
@@ -5024,7 +5030,7 @@
       "offers_fulltime": true,
       "salary": "250-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_lt6rm0tycvaf",
@@ -5047,7 +5053,7 @@
       "offers_fulltime": true,
       "salary": "250-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_v3wewo5swcch",
@@ -5066,7 +5072,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ud1oaucznotd",
@@ -5085,7 +5091,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_6vy3iylxlmba",
@@ -5104,7 +5110,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_uh8tlms2dlxz",
@@ -5123,7 +5129,7 @@
       "offers_fulltime": false,
       "salary": "200-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_hitrnovp9u3y",
@@ -5142,7 +5148,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_auafcqc75uif",
@@ -5161,7 +5167,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ift9xfizi5hv",
@@ -5182,7 +5188,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_l8ftlfgu5zxs",
@@ -5203,7 +5209,7 @@
       "offers_fulltime": false,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_22vqyb0dhmt0",
@@ -5223,7 +5229,7 @@
       "offers_fulltime": false,
       "salary": "300-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ufikwvhkftam",
@@ -5242,7 +5248,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_a41j2z00ckfz",
@@ -5262,7 +5268,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_h8wjl8br6t8k",
@@ -5281,7 +5287,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_1dzbcaictp5f",
@@ -5303,7 +5309,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_pgcjean0vu8e",
@@ -5325,7 +5331,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_owb58vjavec3",
@@ -5344,7 +5350,7 @@
       "offers_fulltime": false,
       "salary": "300-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_y7srmg7pxylw",
@@ -5366,7 +5372,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_jtrayybzdu4g",
@@ -5389,7 +5395,7 @@
       "offers_fulltime": false,
       "salary": "100-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ov3e1acnvc7b",
@@ -5408,7 +5414,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_lffivmqegzcc",
@@ -5428,7 +5434,7 @@
       "offers_fulltime": false,
       "salary": "120-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_v3ri4tfhuvqv",
@@ -5448,7 +5454,7 @@
       "offers_fulltime": false,
       "salary": "80-100/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_rw5hghcxccjw",
@@ -5467,7 +5473,7 @@
       "offers_fulltime": false,
       "salary": "120-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_5baj5b11mgqs",
@@ -5489,7 +5495,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_jzcvcluk3uay",
@@ -5510,7 +5516,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ttrx59jisjqf",
@@ -5529,7 +5535,7 @@
       "offers_fulltime": true,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ih2mi1lgrapa",
@@ -5549,7 +5555,7 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_rvicryppsy6p",
@@ -5570,7 +5576,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_tl4yzohddavr",
@@ -5591,7 +5597,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ckifmzryaiim",
@@ -5612,6 +5618,29 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "inn_dsk0hnvkxuub",
+      "title": "跨境AI短视频运营",
+      "company": "中膳营养",
+      "city": "杭州",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "可转正实习",
+        "ai",
+        "剪辑",
+        "跨境",
+        "地铁周边"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_dsk0hnvkxuub",
+      "search_keyword": "AI视频",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "可转正",
+      "offers_fulltime": true,
+      "salary": "200-250/天",
+      "first_seen": "2026-08-14",
       "is_new": true
     },
     {
@@ -5631,7 +5660,7 @@
       "offers_fulltime": false,
       "salary": "150-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_fxtfaaid5d4j",
@@ -5653,7 +5682,7 @@
       "offers_fulltime": true,
       "salary": "200-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ygtohwlthyh2",
@@ -5675,7 +5704,7 @@
       "offers_fulltime": false,
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ytxax5daiuyn",
@@ -5694,7 +5723,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_fs8fagjk6rz0",
@@ -5713,7 +5742,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_og1u3lmejqfi",
@@ -5734,7 +5763,7 @@
       "offers_fulltime": true,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_0hr5irghhgp7",
@@ -5758,30 +5787,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
-    },
-    {
-      "id": "inn_a5kvewkhofsm",
-      "title": "AI产品运营实习生｜AI视频方向",
-      "company": "Nemovideo",
-      "city": "哈尔滨",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "远程实习",
-        "周末双休",
-        "零基础实习",
-        "可转正实习",
-        "一对一导师"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_a5kvewkhofsm",
-      "search_keyword": "AI视频",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": null,
-      "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_guc2hvjl59ik",
@@ -5807,7 +5813,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_pwmmip74fvtt",
@@ -5830,7 +5836,7 @@
       "offers_fulltime": true,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nubs5j3tw61w",
@@ -5849,7 +5855,7 @@
       "offers_fulltime": false,
       "salary": "120-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_4hpr0xsavxk1",
@@ -5869,7 +5875,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_6br4hsntcc9x",
@@ -5891,7 +5897,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_yuzc8bs82glm",
@@ -5911,7 +5917,7 @@
       "offers_fulltime": false,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_if3gab4clm0v",
@@ -5932,7 +5938,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xc91earommia",
@@ -5953,7 +5959,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_sin6rxdbtorb",
@@ -5973,7 +5979,7 @@
       "offers_fulltime": false,
       "salary": "150-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_yh0accx5fwhp",
@@ -5993,7 +5999,7 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_jya59d0gyjo2",
@@ -6013,7 +6019,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_0gxhf68d2x0u",
@@ -6033,7 +6039,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_5gtoq9fwefx9",
@@ -6053,7 +6059,26 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "inn_vmhtc6o7hp6h",
+      "title": "AI内容运营实习生(A42209)",
+      "company": "小鹏汽车",
+      "city": "广州",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "实习津贴"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_vmhtc6o7hp6h",
+      "search_keyword": "AI内容",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "100-150/天",
+      "first_seen": "2026-08-14",
+      "is_new": false
     },
     {
       "id": "inn_spdn6jcbfxjv",
@@ -6074,26 +6099,7 @@
       "offers_fulltime": false,
       "salary": "150-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
-    },
-    {
-      "id": "inn_vmhtc6o7hp6h",
-      "title": "AI内容运营实习生(A42209)",
-      "company": "小鹏汽车",
-      "city": "广州",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "实习津贴"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_vmhtc6o7hp6h",
-      "search_keyword": "AI内容",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "100-150/天",
-      "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ego0ifxe1ih0",
@@ -6114,7 +6120,26 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "inn_d6vkesrgmgef",
+      "title": "AI内容开发与管理实习生",
+      "company": "TESLA-特斯拉",
+      "city": "北京",
+      "industry": "汽车/机械/制造",
+      "tags": [
+        "500强实习证"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_d6vkesrgmgef",
+      "search_keyword": "AI内容",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "无转正",
+      "offers_fulltime": false,
+      "salary": "150-250/天",
+      "first_seen": "2026-08-14",
+      "is_new": false
     },
     {
       "id": "inn_orxfzlwhro9b",
@@ -6135,26 +6160,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
-    },
-    {
-      "id": "inn_d6vkesrgmgef",
-      "title": "AI内容开发与管理实习生",
-      "company": "TESLA-特斯拉",
-      "city": "北京",
-      "industry": "汽车/机械/制造",
-      "tags": [
-        "500强实习证"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_d6vkesrgmgef",
-      "search_keyword": "AI内容",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "无转正",
-      "offers_fulltime": false,
-      "salary": "150-250/天",
-      "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_81pla7qhcthy",
@@ -6174,7 +6180,7 @@
       "offers_fulltime": false,
       "salary": "150-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_jem097e8yksq",
@@ -6193,7 +6199,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vfvdsy42pm0x",
@@ -6213,7 +6219,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_pzxyu6qgcz2l",
@@ -6233,7 +6239,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_sqidhdwf7vzz",
@@ -6253,7 +6259,7 @@
       "offers_fulltime": false,
       "salary": "150-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_cu7bwr2q9cva",
@@ -6272,7 +6278,7 @@
       "offers_fulltime": false,
       "salary": "180-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ygzqavkuaqfw",
@@ -6293,7 +6299,7 @@
       "offers_fulltime": true,
       "salary": "150-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ydpyylecu32i",
@@ -6314,7 +6320,7 @@
       "offers_fulltime": false,
       "salary": "300-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_2fi9tqrgxzmk",
@@ -6334,7 +6340,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_pb4uf4rsavob",
@@ -6355,7 +6361,7 @@
       "offers_fulltime": false,
       "salary": "150-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vlu6injthtds",
@@ -6375,7 +6381,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_bvd6rwjl1lko",
@@ -6396,7 +6402,7 @@
       "offers_fulltime": false,
       "salary": "100-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_dwgw2n18zabj",
@@ -6418,7 +6424,7 @@
       "offers_fulltime": false,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nkd9d7pweyo7",
@@ -6437,7 +6443,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_otjk2ccdcqep",
@@ -6456,7 +6462,7 @@
       "offers_fulltime": false,
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_3fgnwy2c28s4",
@@ -6481,7 +6487,7 @@
       "offers_fulltime": false,
       "salary": "200-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_wo7stbuswuoi",
@@ -6506,7 +6512,7 @@
       "offers_fulltime": false,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_a9f5p6esdfvd",
@@ -6526,7 +6532,7 @@
       "offers_fulltime": false,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xodufrequfdr",
@@ -6548,7 +6554,7 @@
       "offers_fulltime": false,
       "salary": "260-310/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_6msbawiq0u7e",
@@ -6567,7 +6573,7 @@
       "offers_fulltime": false,
       "salary": "250-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_9vsrhqny3ffl",
@@ -6587,7 +6593,7 @@
       "offers_fulltime": true,
       "salary": "200-250/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_l30geqpabsau",
@@ -6608,7 +6614,7 @@
       "offers_fulltime": false,
       "salary": "250-400/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_z6ze0tejb10y",
@@ -6630,7 +6636,7 @@
       "offers_fulltime": true,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_eyrfmmsrynxr",
@@ -6650,7 +6656,7 @@
       "offers_fulltime": false,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vu2ongn6hvlu",
@@ -6672,7 +6678,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_dce0girlkpq7",
@@ -6694,7 +6700,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_fehizxhuzpuo",
@@ -6716,7 +6722,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xyjo3p6oqvky",
@@ -6738,7 +6744,7 @@
       "offers_fulltime": true,
       "salary": "200-300/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vg34rnix7fmz",
@@ -6760,7 +6766,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nhtdekfwwt7w",
@@ -6782,7 +6788,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_d3y48ku7foyb",
@@ -6804,7 +6810,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_n45tmrxx1eho",
@@ -6826,7 +6832,7 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_svtsjbcbcbf9",
@@ -6846,7 +6852,7 @@
       "offers_fulltime": true,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ybqprkxpkmkn",
@@ -6865,7 +6871,7 @@
       "offers_fulltime": false,
       "salary": "100-180/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_k0e2zspgtxkw",
@@ -6886,7 +6892,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_kzchc0hnn7cr",
@@ -6908,7 +6914,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_n1sd7vrgkxz2",
@@ -6928,7 +6934,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_cmjuoudm9eez",
@@ -6949,7 +6955,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_i92w5bkmy7yf",
@@ -6969,7 +6975,7 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_grledrie27yd",
@@ -6988,7 +6994,7 @@
       "offers_fulltime": true,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ieei7hk5lg8l",
@@ -7009,7 +7015,7 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_mhjzzj7h0xk6",
@@ -7031,7 +7037,7 @@
       "offers_fulltime": false,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ktmtkjb1sdwf",
@@ -7053,7 +7059,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_fnbebezeldqy",
@@ -7074,7 +7080,7 @@
       "offers_fulltime": false,
       "salary": "400-500/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_oruac2ien4pb",
@@ -7093,7 +7099,7 @@
       "offers_fulltime": true,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_vbq3rae28hmk",
@@ -7114,7 +7120,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nnxwc6yrskws",
@@ -7134,7 +7140,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xpvufntxcpe0",
@@ -7153,7 +7159,7 @@
       "offers_fulltime": true,
       "salary": "120-120/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_yqb94plm57tp",
@@ -7173,7 +7179,7 @@
       "offers_fulltime": false,
       "salary": "100-200/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_rtoamghkgbgx",
@@ -7195,7 +7201,7 @@
       "offers_fulltime": true,
       "salary": "100-150/天",
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
