@@ -41,14 +41,6 @@ TITLE_KEYWORDS = [
     "AI", "AIGC", "人工智能", "大模型", "多模态", "标注",
 ]
 
-# 标题里带这些词的，基本是要写代码的技术岗蹭到了"视频""内容""AI"这类词
-# （比如"音视频算法工程师"），需要计算机专业背景，所以排除掉。
-# 注意：AI 产品、AI 内容、AIGC 这类不用写代码的岗位不在此列，会被保留。
-TECH_TITLE_KEYWORDS = [
-    "算法", "工程师", "开发", "架构", "后端", "前端", "客户端",
-    "硬件", "测试", "数据科学",
-]
-
 
 def fetch_all_jobs(sub_project_code: str, page_size: int = 300) -> list[dict]:
     body = {
@@ -79,6 +71,7 @@ def to_job_dict(post: dict) -> dict:
         "publish_date": post.get("releaseTime"),
         "salary": None,
         "offers_fulltime": bool(title and "留用" in title),
+        "is_campus_official": True,
     }
 
 
@@ -99,9 +92,10 @@ def run(media_keywords: list[str]) -> dict:
 
         if not any(kw in title for kw in media_keywords):
             continue  # 标题里没有传媒相关关键词，跳过
-        if any(kw in title for kw in TECH_TITLE_KEYWORDS):
-            continue  # 标题里带算法/工程师这类字眼，是技术岗蹭到了"视频""内容"这些词，不是传媒岗
 
+        # common.is_excluded 顺带会把"算法工程师"这类硬核技术岗也过滤掉
+        # （标题里带"视频""内容"这些词、实际是技术岗蹭上去的情况，比如
+        # "音视频算法工程师"），不用在这里再单独判断一次
         if common.is_excluded(title):
             excluded_count += 1
             continue

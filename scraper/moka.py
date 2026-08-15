@@ -83,6 +83,8 @@ COMPANIES = [
     {"name": "李宁", "org": "lining"},
     {"name": "太平鸟", "org": "peacebird"},
     {"name": "寒武纪", "org": "cambricon"},
+    {"name": "映客", "org": "inke"},
+    {"name": "指尖悦动", "org": "tap4fun"},
 ]
 
 # 岗位标题里出现这些词才保留（传媒 + AI 两个方向的词根）
@@ -94,13 +96,6 @@ KEEP_TITLE_KEYWORDS = [
     # AI 方向（你说沾点边就行，所以这里放得比较宽）
     "AI", "AIGC", "人工智能", "大模型", "多模态", "生成式", "标注",
     "Agent", "Kimi", "提示词", "Prompt",
-]
-
-# 但如果标题里有这些词，说明是要写代码/做硬件的技术岗，你的专业投不了，排除掉
-EXCLUDE_TECH_KEYWORDS = [
-    "算法工程师", "开发工程师", "研发工程师", "后端", "前端", "客户端",
-    "全栈", "架构", "嵌入式", "硬件", "驱动", "编译", "测试开发",
-    "运维", "C++", "Java", "服务端", "数据仓库", "数仓", "SRE",
 ]
 
 
@@ -175,10 +170,9 @@ def fetch_jobs(session, org: str, site_id: int, base: str, max_pages: int = 8) -
 
 
 def is_wanted(title: str) -> bool:
-    """判断这个岗位标题是不是你会感兴趣的方向"""
+    """判断这个岗位标题是不是你会感兴趣的方向（正向匹配，不管排除规则，
+    排除规则统一交给 common.is_excluded 去判断，调用方会分开处理）"""
     if not title:
-        return False
-    if any(kw in title for kw in EXCLUDE_TECH_KEYWORDS):
         return False
     return any(kw in title for kw in KEEP_TITLE_KEYWORDS)
 

@@ -34,6 +34,24 @@ EXCLUDE_TITLE_KEYWORDS = [
     "剧组", "场务", "场记", "选角", "置景", "剧务", "横店", "跟组",
 ]
 
+# 职位名称里如果包含下面这些词，说明是需要计算机/理工科背景才能干的
+# 技术岗（写代码、调模型、搞算法），传媒/文科背景投不了，要排除掉。
+# 像"AI训练师""AI产品经理""数据标注"这类不用写代码的 AI 相关工作
+# 不在这个名单里，会被保留。
+HARD_TECH_KEYWORDS = [
+    # 算法 / 建模类
+    "算法", "模型训练", "深度学习", "机器学习", "神经网络", "强化学习",
+    "预训练", "推理优化", "训练框架", "计算机视觉", "自然语言处理",
+    "语音识别", "推荐系统", "知识图谱", "SLAM",
+    # 软件开发 / 工程类
+    "开发工程师", "研发工程师", "后端", "前端", "客户端", "全栈",
+    "架构师", "系统架构", "嵌入式", "驱动开发", "编译器", "测试开发",
+    "运维工程师", "服务端", "数据仓库", "数仓", "SRE", "Infra",
+    "分布式系统", "图形学",
+    # 直接点名编程语言/技术栈的
+    "C++", "Java开发", "Python开发", "CUDA", "GPU",
+]
+
 # 传媒方向的搜索关键词（用于向网站发起搜索）
 MEDIA_KEYWORDS = [
     "新媒体运营", "短视频", "视频剪辑", "商业摄影",
@@ -89,10 +107,29 @@ def get_with_retry(
 
 
 def is_excluded(title: str | None) -> bool:
-    """职位名称里是否包含剧组类关键词"""
+    """职位名称里是否包含剧组类关键词，或者需要理工科背景的硬核技术关键词"""
     if not title:
         return False
-    return any(kw in title for kw in EXCLUDE_TITLE_KEYWORDS)
+    if any(kw in title for kw in EXCLUDE_TITLE_KEYWORDS):
+        return True
+    return any(kw in title for kw in HARD_TECH_KEYWORDS)
+
+
+# 每天工资低于这个数的日常实习，质量通常比较差，直接不展示
+MIN_DAILY_SALARY = 80
+
+
+def salary_too_low(salary_text: str | None, threshold: int = MIN_DAILY_SALARY) -> bool:
+    """薪资格式类似"100-150/天"，取最低那个数字判断是否低于门槛。
+    没有薪资信息的（None）不算"太低"，只排除明确写了低薪的。"""
+    if not salary_text:
+        return False
+    import re
+
+    m = re.match(r"\s*(\d+)", salary_text)
+    if not m:
+        return False
+    return int(m.group(1)) < threshold
 
 
 def load_previous_jobs(output_file: Path) -> dict:

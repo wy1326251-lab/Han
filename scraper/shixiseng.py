@@ -265,6 +265,9 @@ def run(keywords: list[str]) -> dict:
         if common.is_excluded(job["title"]):
             excluded_count += 1
             continue
+        if common.salary_too_low(job["salary"]):
+            excluded_count += 1
+            continue
         kept_jobs[job_id] = job
 
     return common.mark_new_and_save(kept_jobs, OUTPUT_FILE, excluded_count)

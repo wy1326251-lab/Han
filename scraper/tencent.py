@@ -62,6 +62,7 @@ def fetch_jobs_for_keyword(keyword: str, page_size: int = 30) -> list[dict]:
                 "publish_date": post.get("LastUpdateTime"),
                 "salary": None,
                 "offers_fulltime": False,
+                "is_campus_official": True,
             }
         )
     return jobs

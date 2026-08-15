@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-08-15 02:08:51",
-  "job_count": 38,
-  "excluded_count": 0,
+  "updated_at": "2026-08-15 14:47:22",
+  "job_count": 77,
+  "excluded_count": 151,
   "jobs": [
+    {
+      "id": "kuaishou_13823",
+      "title": "AI调度工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13823",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-14 17:40:55",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
     {
       "id": "kuaishou_13772",
       "title": "多模态训练数据质量专家-音视频方向",
@@ -18,8 +37,28 @@
       "publish_date": "2026-08-14 11:53:08",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13770",
+      "title": "AI Agent产品设计工程师-PDE",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13770",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-14 11:42:25",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13227",
@@ -36,8 +75,28 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13580",
+      "title": "设计工程师-AI设计方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13580",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-12 15:16:26",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13500",
@@ -54,6 +113,7 @@
       "publish_date": "2026-08-12 14:02:10",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -72,6 +132,7 @@
       "publish_date": "2026-05-25 17:00:19",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -90,8 +151,28 @@
       "publish_date": "2026-08-13 22:12:21",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13135",
+      "title": "音视频大模型评测工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13135",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13256",
@@ -108,6 +189,7 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -126,6 +208,7 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -144,6 +227,7 @@
       "publish_date": "2026-08-12 15:41:35",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -162,6 +246,7 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -180,6 +265,7 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -198,8 +284,28 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13060",
+      "title": "大模型推理/训练优化工程师",
+      "company": "快手",
+      "city": "深圳/杭州/上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13060",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13283",
@@ -216,6 +322,7 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -234,6 +341,7 @@
       "publish_date": "2026-08-09 17:59:47",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -252,6 +360,7 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -270,8 +379,47 @@
       "publish_date": "2026-08-12 15:34:36",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_12679",
+      "title": "【快Star】GenAI异构计算架构与优化工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12679",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-24 14:23:15",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12707",
+      "title": "【快Star】光和数据通信技术工程师-AI网络方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12707",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-24 14:47:32",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_12897",
@@ -288,8 +436,28 @@
       "publish_date": "2026-05-27 17:25:12",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_12999",
+      "title": "【快Star】安全工程师-安全攻防Agentic AI方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12999",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-07-02 11:00:26",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_12752",
@@ -306,6 +474,7 @@
       "publish_date": "2026-05-25 15:26:24",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -324,8 +493,47 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13063",
+      "title": "多模态理解工程师-视觉生成",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13063",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_13083",
+      "title": "多模态推理平台工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13083",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13344",
@@ -342,8 +550,28 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13114",
+      "title": "大模型数据工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13114",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13278",
@@ -360,8 +588,47 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_12771",
+      "title": "【快Star】多模态推理平台工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12771",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 20:35:29",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12772",
+      "title": "【快Star】混合云AI推理工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12772",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:15:57",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13289",
@@ -378,8 +645,85 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13045",
+      "title": "多模态理解与生成统一架构核心研究员",
+      "company": "快手",
+      "city": "深圳/上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13045",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_13155",
+      "title": "大模型评测工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13155",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12686",
+      "title": "【快Star】大模型推理/训练优化工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12686",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-24 14:29:36",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_13457",
+      "title": "大模型数据引擎工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13457",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-12 12:16:17",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_13229",
@@ -396,8 +740,142 @@
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_13018",
+      "title": "AI数据架构工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13018",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 17:50:52",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12773",
+      "title": "【快Star】大模型分布式推理框架工程师-【可灵AI】",
+      "company": "快手",
+      "city": "上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12773",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:17:17",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12774",
+      "title": "【快Star】大模型高性能推理算子工程师-【可灵AI】",
+      "company": "快手",
+      "city": "上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12774",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:19:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12775",
+      "title": "【快Star】视频大模型高性能与分布式计算工程师-【可灵AI】",
+      "company": "快手",
+      "city": "上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12775",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:20:22",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12776",
+      "title": "【快Star】视频大模型高性能与低精度算子工程师-【可灵AI】",
+      "company": "快手",
+      "city": "上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12776",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:27:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12777",
+      "title": "【快Star】多模态生成模型计算效率优化工程师-【可灵AI】",
+      "company": "快手",
+      "city": "上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12777",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:28:33",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12778",
+      "title": "【快Star】多模态生成模型生成效率优化工程师-【可灵AI】",
+      "company": "快手",
+      "city": "上海/北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12778",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-05-25 21:30:30",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_11502",
@@ -414,8 +892,28 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_11575",
+      "title": "【留用实习】音视频大模型评测工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11575",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_11453",
@@ -432,6 +930,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -450,6 +949,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -468,8 +968,66 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_12601",
+      "title": "【留用实习】多模态理解与生成统一架构核心研究员",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12601",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-04-23 10:54:44",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_11335",
+      "title": "【留用实习】大模型推理/训练优化工程师",
+      "company": "快手",
+      "city": "杭州/深圳/上海/北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11335",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12555",
+      "title": "【快Star实习】多模态推理平台工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12555",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-04-15 19:13:54",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_11446",
@@ -486,6 +1044,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -504,6 +1063,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -522,6 +1082,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -540,6 +1101,7 @@
       "publish_date": "2026-03-18 11:42:04",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -558,6 +1120,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -576,6 +1139,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -594,8 +1158,104 @@
       "publish_date": "2026-03-12 20:04:53",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_11675",
+      "title": "【留用实习】大模型数据交付工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11675",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-09 19:39:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12302",
+      "title": "【留用实习】多模态推理平台工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12302",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-16 13:10:17",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_11328",
+      "title": "【留用实习】大模型评测工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11328",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_11169",
+      "title": "【快Star实习】大模型推理/训练优化工程师",
+      "company": "快手",
+      "city": "北京/深圳/杭州/上海",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11169",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:16:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_12149",
+      "title": "【留用实习】大模型存储工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12149",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-12 19:41:59",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_11245",
@@ -612,6 +1272,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -630,8 +1291,85 @@
       "publish_date": "2026-03-12 18:12:03",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_11329",
+      "title": "【留用实习】大模型评测工程师-图像方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11329",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_11674",
+      "title": "【留用实习】AI美学工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11674",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-09 19:38:37",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_11241",
+      "title": "【快Star实习】多模态推理引擎工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11241",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:16:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "kuaishou_11242",
+      "title": "【快Star实习】多模态理解工程师-视觉生成",
+      "company": "快手",
+      "city": "深圳/北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11242",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:16:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_11311",
@@ -648,8 +1386,28 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_11373",
+      "title": "【留用实习】光和数据通信技术工程师-AI网络方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11373",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "kuaishou_11448",
@@ -666,6 +1424,7 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
@@ -684,8 +1443,28 @@
       "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
+      "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_11252",
+      "title": "【留用实习】AI架构与引擎工程师",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11252",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     }
   ]
 }

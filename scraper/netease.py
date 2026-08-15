@@ -67,6 +67,7 @@ def fetch_jobs_for_keyword(keyword: str, page_size: int = 50) -> list[dict]:
                 "publish_date": publish_date,
                 "salary": None,
                 "offers_fulltime": offers_fulltime,
+                "is_campus_official": True,
             }
         )
     return jobs
