@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 10:57:42",
+  "updated_at": "2026-08-15 02:08:11",
   "job_count": 253,
   "excluded_count": 0,
   "jobs": [
@@ -457,7 +457,7 @@
       "salary": null,
       "offers_fulltime": false,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_76466",
@@ -1787,7 +1787,7 @@
       "salary": null,
       "offers_fulltime": false,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78143",
@@ -3592,7 +3592,7 @@
       "salary": null,
       "offers_fulltime": false,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_77071",

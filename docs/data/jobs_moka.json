@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14 11:00:49",
-  "job_count": 321,
+  "updated_at": "2026-08-15 02:11:31",
+  "job_count": 329,
   "excluded_count": 0,
   "jobs": [
     {
@@ -305,7 +305,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_c3f01bba-856e-4d74-a07b-45e2d39108eb",
@@ -2258,7 +2258,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_hypergryph_566b2d77-35be-4e21-a721-ebca59bce8eb",
@@ -4828,6 +4828,166 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_1be1ce66-e290-47bd-95da-8883484ac768",
+      "title": "27届秋招-城市运营主管-南宁",
+      "company": "滴滴",
+      "city": "南宁",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/1be1ce66-e290-47bd-95da-8883484ac768",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_6d3519d9-dc52-49d4-9a1e-13643baf658b",
+      "title": "27届秋招-城市运营主管-拉萨",
+      "company": "滴滴",
+      "city": "拉萨",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/6d3519d9-dc52-49d4-9a1e-13643baf658b",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_878e9da3-1d9f-469d-b7d5-3dec329a14ab",
+      "title": "27届秋招-策略运营顾问-西南辖区",
+      "company": "滴滴",
+      "city": "成都/杭州",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/878e9da3-1d9f-469d-b7d5-3dec329a14ab",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_3f928ccc-87bc-4b18-bd72-70bc0b5a062e",
+      "title": "27届秋招-策略运营顾问-单车",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/3f928ccc-87bc-4b18-bd72-70bc0b5a062e",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_fddf88de-26f4-44d1-940c-22d357141986",
+      "title": "27届秋招-策略运营顾问-北方辖区",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/fddf88de-26f4-44d1-940c-22d357141986",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_ca03871d-012c-4ae0-bb12-fff1d3bc3f64",
+      "title": "27届秋招-策略运营顾问-电单车",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ca03871d-012c-4ae0-bb12-fff1d3bc3f64",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_f9dcac51-caf0-4c10-9243-f4f44cfead88",
+      "title": "27届秋招-策略运营顾问-资产管理",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/f9dcac51-caf0-4c10-9243-f4f44cfead88",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
+    },
+    {
+      "id": "moka_didiglobal_8e66c6b3-3b87-4953-b057-3ed341cda95d",
+      "title": "27届秋招-用户运营顾问-单车",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "两轮车事业部",
+      "tags": [
+        "全职",
+        "两轮车事业部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8e66c6b3-3b87-4953-b057-3ed341cda95d",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-14 21:43:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-15",
+      "is_new": true
     },
     {
       "id": "moka_didiglobal_d479d146-06b3-439d-bd72-a93880c57f85",
