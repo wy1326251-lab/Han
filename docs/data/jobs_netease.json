@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-15 14:46:51",
-  "job_count": 234,
-  "excluded_count": 39,
+  "updated_at": "2026-08-15 15:57:24",
+  "job_count": 231,
+  "excluded_count": 44,
   "jobs": [
     {
       "id": "netease_77421",
@@ -3864,26 +3864,6 @@
       "is_new": false
     },
     {
-      "id": "netease_77761",
-      "title": "搜索实习工程师",
-      "company": "网易传媒",
-      "city": "北京市",
-      "industry": "技术",
-      "tags": [
-        "本科",
-        "0-3年"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=77761&lang=zh",
-      "search_keyword": "数据标注",
-      "source": "网易招聘",
-      "publish_date": "2026-07-31 17:20:42",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "netease_77578",
       "title": "Agent安全研究实习生",
       "company": "网易智企",
@@ -3917,26 +3897,6 @@
       "search_keyword": "AI产品",
       "source": "网易招聘",
       "publish_date": "2026-08-13 18:53:25",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "netease_73449",
-      "title": "游戏研发项目管理工程师（27届+广/沪/杭）",
-      "company": "网易游戏（互娱）",
-      "city": "杭州市",
-      "industry": "项目管理",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=73449&lang=zh",
-      "search_keyword": "人工智能",
-      "source": "网易招聘",
-      "publish_date": "2026-08-06 19:51:27",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4437,26 +4397,6 @@
       "search_keyword": "AI产品",
       "source": "网易招聘",
       "publish_date": "2026-07-31 14:29:53",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "netease_78142",
-      "title": "游戏测试工程师（模拟生活类）",
-      "company": "网易游戏（互娱）",
-      "city": "上海市",
-      "industry": "游戏测试",
-      "tags": [
-        "不限",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78142&lang=zh",
-      "search_keyword": "AI产品",
-      "source": "网易招聘",
-      "publish_date": "2026-08-14 10:18:55",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,

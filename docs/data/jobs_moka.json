@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-15 14:49:15",
-  "job_count": 314,
-  "excluded_count": 87,
+  "updated_at": "2026-08-15 15:59:44",
+  "job_count": 288,
+  "excluded_count": 113,
   "jobs": [
     {
       "id": "moka_moonshot_47f1dc78-543f-43ba-b320-da601590f8d6",
@@ -320,25 +320,6 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-08-10 18:03:24",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_caa36d5e-8007-47f4-b279-cc1388d0c9ed",
-      "title": "Harness Agent 产品工程师实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/caa36d5e-8007-47f4-b279-cc1388d0c9ed",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-04 17:48:25",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -726,25 +707,6 @@
       "is_new": false
     },
     {
-      "id": "moka_moonshot_dad560d0-433c-48e9-8785-7433d9f27290",
-      "title": "语言大模型架构/优化/scaling实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/dad560d0-433c-48e9-8785-7433d9f27290",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2025-11-03 18:38:13",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": true
-    },
-    {
       "id": "moka_moonshot_317f920b-9efe-4d09-ba7d-7fe44b1c447c",
       "title": "数据运营实习生",
       "company": "月之暗面(Kimi)",
@@ -776,25 +738,6 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2025-04-23 16:28:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_ec4bd709-2818-4230-b329-50cfc0afe6c7",
-      "title": "AI infra 推理实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "上海/北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ec4bd709-2818-4230-b329-50cfc0afe6c7",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2025-04-16 14:17:29",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -840,25 +783,6 @@
       "is_new": false
     },
     {
-      "id": "moka_step_7ca418fb-2df5-437d-9c79-514c022f094b",
-      "title": "27届Stepstar-大模型后训练系统工程师",
-      "company": "阶跃星辰",
-      "city": "北京/上海",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/7ca418fb-2df5-437d-9c79-514c022f094b",
-      "search_keyword": null,
-      "source": "阶跃星辰官网",
-      "publish_date": "2026-06-23 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_step_a6b28dd1-7751-45c2-b81d-b73f9bae3f41",
       "title": "AI Agent产品实习生",
       "company": "阶跃星辰",
@@ -871,44 +795,6 @@
       "search_keyword": null,
       "source": "阶跃星辰官网",
       "publish_date": "2026-07-11 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_step_b4ed2978-fc3d-420a-b689-0bc28ce6ef94",
-      "title": "实习-AI Security研究员",
-      "company": "阶跃星辰",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/b4ed2978-fc3d-420a-b689-0bc28ce6ef94",
-      "search_keyword": null,
-      "source": "阶跃星辰官网",
-      "publish_date": "2026-07-01 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_step_06599b8d-5d34-488e-8761-5031aa198b1d",
-      "title": "实习-大模型后训练系统工程师",
-      "company": "阶跃星辰",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/06599b8d-5d34-488e-8761-5031aa198b1d",
-      "search_keyword": null,
-      "source": "阶跃星辰官网",
-      "publish_date": "2026-06-22 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -1030,25 +916,6 @@
       "is_new": false
     },
     {
-      "id": "moka_step_b10a7269-d380-4f7d-b8ef-e8fc33d23934",
-      "title": "实习-大模型架构研究员（pre-train）",
-      "company": "阶跃星辰",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/b10a7269-d380-4f7d-b8ef-e8fc33d23934",
-      "search_keyword": null,
-      "source": "阶跃星辰官网",
-      "publish_date": "2026-04-28 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": true
-    },
-    {
       "id": "moka_step_43974087-c5b2-4ac4-9aaf-d78da8cc1090",
       "title": "数据标注项目运营实习生",
       "company": "阶跃星辰",
@@ -1163,25 +1030,6 @@
       "is_new": false
     },
     {
-      "id": "moka_cloudwalk_c55d5988-27ca-4c50-bea3-b97a91f9a78f",
-      "title": "人工智能售后工程师-2021届",
-      "company": "云从科技",
-      "city": null,
-      "industry": "业务支撑",
-      "tags": [
-        "业务支撑"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/cloudwalk/4872#/job/c55d5988-27ca-4c50-bea3-b97a91f9a78f",
-      "search_keyword": null,
-      "source": "云从科技官网",
-      "publish_date": "2020-11-23 16:54:49",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_tuya_06a3a9d3-1d9a-461c-a8a9-364bd4651c67",
       "title": "AI硬件产品经理（智慧屏&网关）",
       "company": "涂鸦智能",
@@ -1198,7 +1046,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_4e500ba9-fee1-45bc-b18e-f99f379b3938",
@@ -1255,7 +1103,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_4b832789-d45d-46d8-941d-57b9868a534b",
@@ -1274,7 +1122,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_dd94335c-8bce-48ac-837b-6c533598a5d7",
@@ -1293,7 +1141,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_fe2023e9-aaa4-4b12-a19e-fe91b4ffba6b",
@@ -1308,63 +1156,6 @@
       "search_keyword": null,
       "source": "涂鸦智能官网",
       "publish_date": "2026-01-05 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_tuya_d90505d8-748c-44df-a5f2-37cefa5d1f0b",
-      "title": "测试工程师【AI影音业务】",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/d90505d8-748c-44df-a5f2-37cefa5d1f0b",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2026-01-07 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_tuya_610c98ea-6810-4fb6-818d-c0979cf066be",
-      "title": "AI安全工程师",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/610c98ea-6810-4fb6-818d-c0979cf066be",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2026-01-07 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_agora_8c671f7a-8fbd-4f87-8c78-34e8eaea7dce",
-      "title": "2027-校招-AI软件测试工程师",
-      "company": "声网Agora",
-      "city": null,
-      "industry": "研发团队（R&D）",
-      "tags": [
-        "研发团队（R&D）"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/agora/4789#/job/8c671f7a-8fbd-4f87-8c78-34e8eaea7dce",
-      "search_keyword": null,
-      "source": "声网Agora官网",
-      "publish_date": "2026-04-13 17:48:21",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -1517,25 +1308,6 @@
       "search_keyword": null,
       "source": "知乎官网",
       "publish_date": "2026-08-07 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_e660d90e-cfc5-49c5-8ec9-86f0766abdac",
-      "title": "大模型安全研究员（27届）",
-      "company": "知乎",
-      "city": "深圳",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/e660d90e-cfc5-49c5-8ec9-86f0766abdac",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-08-05 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -3917,25 +3689,6 @@
       "is_new": false
     },
     {
-      "id": "moka_sohu_77d333e8-c35b-42d1-938c-db80651878c7",
-      "title": "【2027】AI助理研究员-【引力计划】人才专项",
-      "company": "搜狐",
-      "city": null,
-      "industry": "智能媒体研发中心",
-      "tags": [
-        "智能媒体研发中心"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/sohu/5682#/job/77d333e8-c35b-42d1-938c-db80651878c7",
-      "search_keyword": null,
-      "source": "搜狐官网",
-      "publish_date": "2026-08-06 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_sina_fa01abb4-cd55-4dd8-a078-9a1987a4cb95",
       "title": "娱乐策略运营",
       "company": "新浪",
@@ -4391,7 +4144,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_6d3519d9-dc52-49d4-9a1e-13643baf658b",
@@ -4411,7 +4164,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_878e9da3-1d9f-469d-b7d5-3dec329a14ab",
@@ -4431,7 +4184,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_3f928ccc-87bc-4b18-bd72-70bc0b5a062e",
@@ -4451,7 +4204,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_fddf88de-26f4-44d1-940c-22d357141986",
@@ -4471,7 +4224,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_ca03871d-012c-4ae0-bb12-fff1d3bc3f64",
@@ -4491,7 +4244,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_f9dcac51-caf0-4c10-9243-f4f44cfead88",
@@ -4511,7 +4264,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_8e66c6b3-3b87-4953-b057-3ed341cda95d",
@@ -4531,7 +4284,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_d479d146-06b3-439d-bd72-a93880c57f85",
@@ -5254,26 +5007,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_63fe8fea-8acb-4516-89ed-512430d9ccdb",
-      "title": "27届秋招-自动驾驶-AI Agent工程师",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "自动驾驶",
-      "tags": [
-        "全职",
-        "自动驾驶"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/63fe8fea-8acb-4516-89ed-512430d9ccdb",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_4bbec153-f39c-4d67-81ce-dff0d11e5582",
       "title": "27届秋招-渠道运营顾问（成都）",
       "company": "滴滴",
@@ -5448,210 +5181,6 @@
       "is_new": false
     },
     {
-      "id": "moka_cambricon_36bdfa21-8300-4bc1-9b1f-73bd1c3018bf",
-      "title": "AI现场应用工程师-27届",
-      "company": "寒武纪",
-      "city": "北京/上海",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/36bdfa21-8300-4bc1-9b1f-73bd1c3018bf",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_faa68560-d583-4584-bb88-7666f6c138ed",
-      "title": "AIGC训练解决方案工程师-27届",
-      "company": "寒武纪",
-      "city": "合肥高新技术产业开发区/北京/上海",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/faa68560-d583-4584-bb88-7666f6c138ed",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_ce66c497-7d87-4a55-bf80-b1501f5b1321",
-      "title": "PCB设计工程师-27届",
-      "company": "寒武纪",
-      "city": "深圳",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/ce66c497-7d87-4a55-bf80-b1501f5b1321",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_cd7ae0f7-0ab9-451a-9558-0ccbc9e6cd13",
-      "title": "芯片封装设计工程师-27届",
-      "company": "寒武纪",
-      "city": "雁塔区/深圳/上海",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/cd7ae0f7-0ab9-451a-9558-0ccbc9e6cd13",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_707e7f97-7e06-440f-bea2-89736e3dd611",
-      "title": "硬件设计工程师-27届",
-      "company": "寒武纪",
-      "city": "深圳/北京",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/707e7f97-7e06-440f-bea2-89736e3dd611",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": true
-    },
-    {
-      "id": "moka_cambricon_f29d157a-c578-4509-9212-62d456c89961",
-      "title": "高性能处理器设计工程师-27届",
-      "company": "寒武纪",
-      "city": "北京",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/f29d157a-c578-4509-9212-62d456c89961",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-30 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_3f8bd81e-81b7-4623-9772-1a4d3e6e7783",
-      "title": "模拟芯片设计工程师-27届",
-      "company": "寒武纪",
-      "city": "上海/北京",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/3f8bd81e-81b7-4623-9772-1a4d3e6e7783",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-30 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_455f5e89-5cdf-43cd-adb8-7fda0b94a98b",
-      "title": "数字芯片设计工程师-27届",
-      "company": "寒武纪",
-      "city": "雁塔区/北京/上海",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/455f5e89-5cdf-43cd-adb8-7fda0b94a98b",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-30 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_c7ea6e28-1ea9-498e-bb23-810e67aae4ed",
-      "title": "AI框架/图编译工程师-27届",
-      "company": "寒武纪",
-      "city": "上海/北京",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/c7ea6e28-1ea9-498e-bb23-810e67aae4ed",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": true
-    },
-    {
-      "id": "moka_cambricon_f1d4fe90-56e5-4681-a878-e0bf655e353e",
-      "title": "大模型优化工程师-27届",
-      "company": "寒武纪",
-      "city": "合肥高新技术产业开发区/上海/北京",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/f1d4fe90-56e5-4681-a878-e0bf655e353e",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_1ce9bb2a-8467-4aa5-945f-c5f09bf2b5e1",
-      "title": "AI应用工程师-27届",
-      "company": "寒武纪",
-      "city": "深圳/上海/北京",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/1ce9bb2a-8467-4aa5-945f-c5f09bf2b5e1",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_cambricon_306b2232-fcaf-41ba-9437-44d30027abc5",
-      "title": "DFT设计工程师-27届",
-      "company": "寒武纪",
-      "city": "北京/上海",
-      "industry": null,
-      "tags": [],
-      "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/306b2232-fcaf-41ba-9437-44d30027abc5",
-      "search_keyword": null,
-      "source": "寒武纪官网",
-      "publish_date": "2026-07-30 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_cambricon_7d8d13db-f884-4e63-bd95-ffcb13a529f0",
       "title": "AI解决方案实习生-27届",
       "company": "寒武纪",
@@ -5685,7 +5214,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_06aa9533-fb3f-479e-a35c-e53356d54fff",
@@ -5704,7 +5233,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_37a60d81-f7e4-4a4b-a33e-227ab647b4e2",
@@ -5723,7 +5252,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_e9553d77-1770-4904-a573-b6fbc593ccc9",
@@ -5742,7 +5271,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_806d98ed-e423-4749-b422-94aba8dccc75",
@@ -5761,7 +5290,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_2af1ca43-9295-4708-b6d4-48752b68cb10",
@@ -5780,7 +5309,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_420d68ce-3d46-4fe5-ab08-d3368995ec19",
@@ -5799,7 +5328,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_2d0fe41d-95d0-4b52-9258-a7b8ff0b7744",
@@ -5818,7 +5347,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_296da263-c686-45bf-a322-f02cfb86a9de",
@@ -5837,7 +5366,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_127aaa1d-d5ba-405b-a5df-4ae0d52c2b26",
@@ -5856,7 +5385,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_70a16152-6276-40b2-985f-cd92db500f07",
@@ -5875,7 +5404,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_e81fd2b4-82d2-46a8-9dda-b782c24245f5",
@@ -5894,7 +5423,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_inke_44962833-34d0-4752-aa26-dd2e25eebf78",
@@ -5913,7 +5442,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tap4fun_b9595ff3-00cc-47ed-9267-ecf35d71350f",
@@ -5932,7 +5461,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tap4fun_d594603b-89c1-4748-81ad-f2bc55678550",
@@ -5951,7 +5480,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tap4fun_956a9165-e05b-483d-a0b5-bd50c4174a1a",
@@ -5970,7 +5499,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tap4fun_86a269b0-1177-4468-a365-39726252fb55",
@@ -5989,7 +5518,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tap4fun_fadc0c57-4f6f-41a5-aecf-8fc71370d324",
@@ -6008,7 +5537,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
