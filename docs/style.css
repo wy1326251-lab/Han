@@ -106,8 +106,17 @@ body {
   font-size: 22px;
 }
 
-/* 白天/黑夜 切换按钮 */
+.top-bar-buttons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+/* 白天/黑夜切换按钮、手动刷新链接，样式共用这一份 */
 .theme-toggle {
+  display: inline-flex;
+  align-items: center;
   flex-shrink: 0;
   padding: 8px 14px;
   border: 1px solid var(--border);
@@ -117,6 +126,7 @@ body {
   font-size: 14px;
   cursor: pointer;
   white-space: nowrap;
+  text-decoration: none;
 }
 
 .theme-toggle:hover {
