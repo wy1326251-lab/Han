@@ -131,6 +131,32 @@ function cityListOf(rawCity) {
   return out.sort();
 }
 
+// 数据文件里存的更新时间是北京时间（抓取脚本那边已经统一转换过了），
+// 这里假设你也是在中国时区看这个网页，所以直接用浏览器本地日期来比较，
+// 不用再额外做时区换算。
+function showFreshnessDot(latestUpdate) {
+  const dot = document.getElementById("freshnessDot");
+  if (!latestUpdate) {
+    dot.hidden = true;
+    return;
+  }
+
+  const updatedDatePart = latestUpdate.slice(0, 10); // "YYYY-MM-DD"
+  const now = new Date();
+  const todayPart = [
+    now.getFullYear(),
+    String(now.getMonth() + 1).padStart(2, "0"),
+    String(now.getDate()).padStart(2, "0"),
+  ].join("-");
+
+  const isFresh = updatedDatePart === todayPart;
+  dot.hidden = false;
+  dot.className = "freshness-dot " + (isFresh ? "fresh" : "stale");
+  dot.title = isFresh
+    ? "今天已经自动更新过了"
+    : "今天还没更新——可能是还没到自动抓取的时间，也可能是抓取遇到了问题";
+}
+
 async function loadData() {
   const results = await Promise.all(
     DATA_SOURCES.map((url) =>
@@ -159,6 +185,8 @@ async function loadData() {
   document.getElementById("updateInfo").textContent = latestUpdate
     ? `最近更新时间：${latestUpdate} ｜ 共 ${allJobs.length} 个职位`
     : "暂无数据";
+
+  showFreshnessDot(latestUpdate);
 
   populateFilterOptions();
   render();

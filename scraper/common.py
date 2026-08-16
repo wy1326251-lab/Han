@@ -13,10 +13,21 @@ from __future__ import annotations
 
 import json
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
+
+# 抓取脚本实际是在 GitHub 的服务器上跑的，那台机器用的是"世界标准时间"，
+# 比北京时间早 8 小时。如果不特意转换，存进 JSON 里的时间会是 UTC 时间，
+# 人看着容易理解错（比如凌晨2点其实是北京时间上午10点）。
+# 所以这里统一用北京时间来记录"什么时候抓的"。
+BEIJING_TZ = timezone(timedelta(hours=8))
+
+
+def now_beijing() -> datetime:
+    """当前的北京时间"""
+    return datetime.now(BEIJING_TZ)
 
 HEADERS = {
     "User-Agent": (
@@ -148,7 +159,7 @@ def load_previous_jobs(output_file: Path) -> dict:
 def mark_new_and_save(jobs: dict, output_file: Path, excluded_count: int = 0) -> dict:
     """给职位标记"是否新出现"，然后存成 JSON 文件"""
     previous_jobs = load_previous_jobs(output_file)
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = now_beijing().strftime("%Y-%m-%d")
 
     for job_id, job in jobs.items():
         if job_id in previous_jobs:
@@ -159,7 +170,7 @@ def mark_new_and_save(jobs: dict, output_file: Path, excluded_count: int = 0) ->
             job["is_new"] = True
 
     result = {
-        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "updated_at": now_beijing().strftime("%Y-%m-%d %H:%M:%S"),
         "job_count": len(jobs),
         "excluded_count": excluded_count,
         "jobs": list(jobs.values()),

@@ -16,6 +16,7 @@ from datetime import datetime
 from pathlib import Path
 
 import common
+from common import BEIJING_TZ
 
 QUERY_URL = "https://hr.163.com/api/hr163/position/queryPage"
 DETAIL_URL = "https://hr.163.com/job-detail.html?id={id}&lang=zh"
@@ -44,9 +45,13 @@ def fetch_jobs_for_keyword(keyword: str, page_size: int = 50) -> list[dict]:
         description = post.get("description") or ""
         offers_fulltime = "转正" in (title or "") or "转正" in requirement or "转正" in description
 
+        # 这个时间戳数字本身没有时区问题（时间戳全球唯一），
+        # 但转换成"几点几分"这种人看的格式时要指定按北京时间换算，
+        # 不然在 GitHub 的服务器上跑会默认按它自己的时区（UTC）换算，
+        # 显示的点数会比实际的北京时间少 8 小时
         update_ms = post.get("updateTime")
         publish_date = (
-            datetime.fromtimestamp(update_ms / 1000).strftime("%Y-%m-%d %H:%M:%S")
+            datetime.fromtimestamp(update_ms / 1000, tz=BEIJING_TZ).strftime("%Y-%m-%d %H:%M:%S")
             if update_ms
             else None
         )

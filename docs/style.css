@@ -21,6 +21,9 @@
   --shadow: rgba(0, 0, 0, 0.06);
   /* 小圆标签上的文字颜色。浅色模式下标签底色偏深，用白字 */
   --badge-text: #ffffff;
+  /* 页面顶部"今天更新没更新"的状态点颜色 */
+  --fresh-dot: #16a34a;
+  --stale-dot: #dc2626;
 }
 
 /* 深色模式（夜间）。
@@ -49,6 +52,8 @@
     --shadow: rgba(0, 0, 0, 0.5);
     /* 深色模式下标签底色是亮的，改用深色文字才看得清 */
     --badge-text: #0f1216;
+    --fresh-dot: #4ade80;
+    --stale-dot: #f87171;
   }
 }
 
@@ -70,6 +75,8 @@
   --official: #a78bfa;
   --shadow: rgba(0, 0, 0, 0.5);
   --badge-text: #0f1216;
+  --fresh-dot: #4ade80;
+  --stale-dot: #f87171;
 }
 
 * {
@@ -120,6 +127,29 @@ body {
   margin: 0;
   color: var(--text-muted);
   font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* 今天更新了显示绿点，还没更新显示红点。
+   鼠标停在上面（或手机上点一下）能看到具体说明文字（放在 title 属性里）。 */
+.freshness-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  cursor: help;
+}
+
+.freshness-dot.fresh {
+  background: var(--fresh-dot);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--fresh-dot) 25%, transparent);
+}
+
+.freshness-dot.stale {
+  background: var(--stale-dot);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--stale-dot) 25%, transparent);
 }
 
 main {
