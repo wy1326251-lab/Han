@@ -1,8 +1,46 @@
 {
-  "updated_at": "2026-08-16 02:57:54",
+  "updated_at": "2026-08-17 10:56:10",
   "job_count": 35,
   "excluded_count": 193,
   "jobs": [
+    {
+      "id": "kuaishou_13344",
+      "title": "用户运营-直播公会运营",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13344",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13289",
+      "title": "平台产品经理-直播方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13289",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
     {
       "id": "kuaishou_13772",
       "title": "多模态训练数据质量专家-音视频方向",
@@ -289,25 +327,6 @@
       "is_new": false
     },
     {
-      "id": "kuaishou_13344",
-      "title": "用户运营-直播公会运营",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13344",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "kuaishou_13278",
       "title": "策略运营-内容",
       "company": "快手",
@@ -317,25 +336,6 @@
         "全职"
       ],
       "link": "https://campus.kuaishou.cn/#/campus/job-info/13278",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13289",
-      "title": "平台产品经理-直播方向",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13289",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-09 18:03:16",
