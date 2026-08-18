@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17 10:58:35",
-  "job_count": 288,
+  "updated_at": "2026-08-18 10:59:09",
+  "job_count": 294,
   "excluded_count": 113,
   "jobs": [
     {
@@ -3689,6 +3689,126 @@
       "is_new": false
     },
     {
+      "id": "moka_sina_5b10d032-69fd-415c-8f71-d81adf868712",
+      "title": "微博剧综运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/5b10d032-69fd-415c-8f71-d81adf868712",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-18 09:44:06",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": true
+    },
+    {
+      "id": "moka_sina_5f97c970-b3cf-4805-a3d4-33dc14404854",
+      "title": "微博明星运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/5f97c970-b3cf-4805-a3d4-33dc14404854",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-18 09:43:58",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": true
+    },
+    {
+      "id": "moka_sina_da34dec4-61dd-4fe1-a65e-279063b78b7e",
+      "title": "娱乐热点运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/da34dec4-61dd-4fe1-a65e-279063b78b7e",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-18 09:43:50",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": true
+    },
+    {
+      "id": "moka_sina_6a12b506-9c87-43e8-913c-ca2e5ee6a3ee",
+      "title": "娱乐商业运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/6a12b506-9c87-43e8-913c-ca2e5ee6a3ee",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-18 09:43:39",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": true
+    },
+    {
+      "id": "moka_sina_a6f11e12-7e0e-46eb-865f-d6ad99fbfe2e",
+      "title": "微博音乐演出运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/a6f11e12-7e0e-46eb-865f-d6ad99fbfe2e",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-18 09:43:29",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": true
+    },
+    {
+      "id": "moka_sina_b4430d41-f023-4e73-8f45-39338a8bcde0",
+      "title": "微博电影运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/b4430d41-f023-4e73-8f45-39338a8bcde0",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-18 09:43:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": true
+    },
+    {
       "id": "moka_sina_fa01abb4-cd55-4dd8-a078-9a1987a4cb95",
       "title": "娱乐策略运营",
       "company": "新浪",
@@ -3940,7 +4060,7 @@
       "id": "moka_shein_7605b6be-8159-441d-a321-9c9434de572c",
       "title": "站内运营实习生",
       "company": "SHEIN",
-      "city": "雨花台区",
+      "city": "上海",
       "industry": null,
       "tags": [
         "实习"
