@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18 10:56:25",
-  "job_count": 36,
-  "excluded_count": 194,
+  "updated_at": "2026-08-19 10:56:12",
+  "job_count": 35,
+  "excluded_count": 195,
   "jobs": [
     {
       "id": "kuaishou_13315",
@@ -39,7 +39,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kuaishou_13344",
@@ -130,25 +130,6 @@
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-12 14:02:10",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13732",
-      "title": "AI产品经理-导购方向",
-      "company": "快手",
-      "city": "杭州",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13732",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-13 22:12:21",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
