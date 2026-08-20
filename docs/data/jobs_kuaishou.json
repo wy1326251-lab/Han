@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-19 10:56:12",
-  "job_count": 35,
+  "updated_at": "2026-08-20 10:56:33",
+  "job_count": 36,
   "excluded_count": 195,
   "jobs": [
     {
       "id": "kuaishou_13315",
       "title": "内容运营",
       "company": "快手",
-      "city": "深圳/北京",
+      "city": "北京/深圳",
       "industry": null,
       "tags": [
         "全职"
@@ -363,6 +363,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "kuaishou_11501",
+      "title": "【留用实习】市场推广与策划",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11501",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-20",
+      "is_new": true
     },
     {
       "id": "kuaishou_11502",
