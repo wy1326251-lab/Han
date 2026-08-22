@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 11:05:49",
+  "updated_at": "2026-08-22 10:55:29",
   "job_count": 291,
   "excluded_count": 114,
   "jobs": [
@@ -3922,25 +3922,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zuoyebang_03825686-d44b-4ea1-92cb-202dba9af2ba",
-      "title": "题库运营-27秋招",
-      "company": "作业帮",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/03825686-d44b-4ea1-92cb-202dba9af2ba",
-      "search_keyword": null,
-      "source": "作业帮官网",
-      "publish_date": "2026-08-10 10:10:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_zuoyebang_4ee93d15-c763-41ef-9cdc-abc81a4527f8",
       "title": "AI产品经理（新业务）-27秋招",
       "company": "作业帮",
@@ -4017,6 +3998,44 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
+      "title": "频道运营实习生（base深圳）",
+      "company": "SHEIN",
+      "city": "南山区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/bcf7fb25-865b-4e2a-b297-546a266322fd",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-08-21 17:36:38",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
+      "title": "店铺运营实习生（广州）",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-08-20 17:54:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-22",
+      "is_new": true
+    },
+    {
       "id": "moka_shein_1775c6dc-f867-40df-85ec-ef6463fc34ba",
       "title": "时尚店铺运营实习生（广州）",
       "company": "SHEIN",
@@ -4033,7 +4052,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_3faefdf1-0938-47ed-bb4a-fab224b20ff2",
@@ -4052,7 +4071,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_bf64a736-8552-4d38-8bac-b97ec7b0ec45",
@@ -4071,7 +4090,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_f9d9b3b7-b8b7-418e-bef9-89ca34d20c55",
@@ -4186,7 +4205,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_4e14c6ad-e1e9-4d94-a71e-0d6cd015d1f1",
@@ -5573,25 +5592,6 @@
         "实习"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/tap4fun/291#/job/86a269b0-1177-4468-a365-39726252fb55",
-      "search_keyword": null,
-      "source": "指尖悦动官网",
-      "publish_date": "2026-07-09 00:00",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": false
-    },
-    {
-      "id": "moka_tap4fun_fadc0c57-4f6f-41a5-aecf-8fc71370d324",
-      "title": "2027届游戏策划运营实习生",
-      "company": "指尖悦动",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tap4fun/291#/job/fadc0c57-4f6f-41a5-aecf-8fc71370d324",
       "search_keyword": null,
       "source": "指尖悦动官网",
       "publish_date": "2026-07-09 00:00",
