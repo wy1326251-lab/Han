@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 10:55:29",
+  "updated_at": "2026-08-22 18:14:33",
   "job_count": 291,
   "excluded_count": 114,
   "jobs": [
@@ -4014,7 +4014,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
@@ -4033,7 +4033,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_1775c6dc-f867-40df-85ec-ef6463fc34ba",
