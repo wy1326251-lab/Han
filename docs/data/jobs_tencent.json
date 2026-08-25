@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24 11:00:13",
-  "job_count": 11,
+  "updated_at": "2026-08-25 10:56:48",
+  "job_count": 10,
   "excluded_count": 0,
   "jobs": [
     {
@@ -92,25 +92,6 @@
       "search_keyword": "AI",
       "source": "腾讯招聘",
       "publish_date": "2026年07月09日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2062132231966732288",
-      "title": "AI Game Production Intern 107625",
-      "company": "腾讯",
-      "city": "阿姆斯特丹",
-      "industry": "产品",
-      "tags": [
-        "IEG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Game-Production-Intern_R107625",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年06月04日",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,

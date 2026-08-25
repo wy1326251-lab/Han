@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24 11:03:04",
-  "job_count": 291,
-  "excluded_count": 114,
+  "updated_at": "2026-08-25 10:59:34",
+  "job_count": 293,
+  "excluded_count": 117,
   "jobs": [
     {
       "id": "moka_moonshot_47f1dc78-543f-43ba-b320-da601590f8d6",
@@ -270,6 +270,63 @@
       "is_new": false
     },
     {
+      "id": "moka_moonshot_e45fe698-18e5-468e-97bf-315305172df2",
+      "title": "Kimi Agent Eval 专家招募（金融/审计方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e45fe698-18e5-468e-97bf-315305172df2",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-24 18:09:49",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "moka_moonshot_ea2fbf09-7e1e-4b0c-9222-be6ed1a88af6",
+      "title": "销售运营实习生",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ea2fbf09-7e1e-4b0c-9222-be6ed1a88af6",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-24 14:41:21",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": true
+    },
+    {
+      "id": "moka_moonshot_edeae654-2dcd-4584-90d0-b2702379501e",
+      "title": "销售运营实习生（AI 流程自动化方向）",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/edeae654-2dcd-4584-90d0-b2702379501e",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-24 14:40:19",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": true
+    },
+    {
       "id": "moka_moonshot_c3f01bba-856e-4d74-a07b-45e2d39108eb",
       "title": "安全运营实习生",
       "company": "月之暗面(Kimi)",
@@ -282,25 +339,6 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-08-14 12:09:24",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_e45fe698-18e5-468e-97bf-315305172df2",
-      "title": "Agent评审专家实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e45fe698-18e5-468e-97bf-315305172df2",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-12 11:28:03",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -781,6 +819,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_step_a2eeb736-8112-4e68-9778-956a4f4c8c52",
+      "title": "27届校招-语音大模型产品经理",
+      "company": "阶跃星辰",
+      "city": "北京/上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/a2eeb736-8112-4e68-9778-956a4f4c8c52",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-06-23 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": true
     },
     {
       "id": "moka_step_a6b28dd1-7751-45c2-b81d-b73f9bae3f41",
@@ -1310,25 +1367,6 @@
       "publish_date": "2026-08-07 00:00",
       "salary": null,
       "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_38b8c51b-3ab2-486b-806d-e40cb4234cdb",
-      "title": "AI 数据合成平台开发实习生（27届）",
-      "company": "知乎",
-      "city": "深圳",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/38b8c51b-3ab2-486b-806d-e40cb4234cdb",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-07-01 00:00",
-      "salary": null,
-      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
@@ -3923,7 +3961,7 @@
     },
     {
       "id": "moka_zuoyebang_4ee93d15-c763-41ef-9cdc-abc81a4527f8",
-      "title": "AI产品经理（新业务）-27秋招",
+      "title": "AI产品经理（AI业务）-27秋招",
       "company": "作业帮",
       "city": "北京",
       "industry": null,
@@ -3939,6 +3977,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zuoyebang_685c7e6b-ae3c-4e38-8bed-5a322a906342",
+      "title": "海外投放（AI业务）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/685c7e6b-ae3c-4e38-8bed-5a322a906342",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-08-10 10:10:37",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": true
     },
     {
       "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
@@ -3996,6 +4053,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_564a0061-5ef7-484e-9948-87274eb5ebbc",
+      "title": "平面设计实习生（上海）",
+      "company": "SHEIN",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/564a0061-5ef7-484e-9948-87274eb5ebbc",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-08-24 16:42:56",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": true
     },
     {
       "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
@@ -4112,44 +4188,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_578fbea0-090a-4467-841f-6f6d7a0680cb",
-      "title": "AI产运实习生（导购）",
-      "company": "SHEIN",
-      "city": "南山区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/578fbea0-090a-4467-841f-6f6d7a0680cb",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-14 16:37:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_001ae122-5971-4dd3-a691-8ee7e5abfa21",
-      "title": "商品运营实习生",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/001ae122-5971-4dd3-a691-8ee7e5abfa21",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-14 13:51:28",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_6e5814d0-0463-4c10-a2d6-bae26fa07613",
       "title": "AI训练实习生",
       "company": "SHEIN",
@@ -4188,23 +4226,23 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_c9dce64a-a27d-411f-b6d6-6df17651a1a2",
-      "title": "27届秋招-服务设计专员-乘客业务",
+      "id": "moka_didiglobal_27bd51cf-7e0a-4921-9a6b-84cddaa44792",
+      "title": "27届秋招-产品与用户运营顾问（MPT）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "用户平台部",
+      "industry": "网约车平台公司",
       "tags": [
         "全职",
-        "用户平台部"
+        "网约车平台公司"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/c9dce64a-a27d-411f-b6d6-6df17651a1a2",
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/27bd51cf-7e0a-4921-9a6b-84cddaa44792",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 19:48:05",
+      "publish_date": "2026-08-24 14:10:12",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-08-21",
+      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -4220,7 +4258,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/4e14c6ad-e1e9-4d94-a71e-0d6cd015d1f1",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4240,7 +4278,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/1307004d-9457-4c8d-889c-71141577f727",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4260,7 +4298,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ee497565-2822-4bb5-8d5a-760d55f303ad",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4280,7 +4318,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/be01f703-eb77-4757-86e8-cb9114e11b60",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4300,7 +4338,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/af9e2b2e-dd75-48b0-bdec-4a21cb652a95",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4320,7 +4358,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/0a0b3694-26f9-4a0b-9bd2-d8d0f88b7554",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4340,7 +4378,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/a5b5ace2-a65d-4544-b32e-3e6e9b06e2ed",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4360,7 +4398,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/bdcd6c2e-e4d1-4e92-a311-1e218a2dc26e",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4380,27 +4418,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/752e6fbd-529a-462e-aefc-427c78643cc7",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_27bd51cf-7e0a-4921-9a6b-84cddaa44792",
-      "title": "27届秋招-产品与用户运营顾问（MPT）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/27bd51cf-7e0a-4921-9a6b-84cddaa44792",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4420,7 +4438,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/2cdcecd3-1262-4d0d-bf72-816b8792ae3f",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4440,7 +4458,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/18bac3cc-14c4-4887-b648-4ca98727c625",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4460,7 +4478,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/3b158cb5-bbbe-4a14-8f14-324a4a8b1dd8",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4480,7 +4498,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8f317aee-a6a3-4d10-b3e1-71d5e8c0c84e",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4500,7 +4518,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/dc53db79-3cb8-43a5-9961-a0373f04c2eb",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4520,7 +4538,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/bf5c0fa8-443d-4311-9283-2b73c218c7ef",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4540,7 +4558,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/4bbec153-f39c-4d67-81ce-dff0d11e5582",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4560,7 +4578,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/d479d146-06b3-439d-bd72-a93880c57f85",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4580,11 +4598,31 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8c753e1f-1f17-48b8-aa02-767f05ac220f",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-08-20 11:17:28",
+      "publish_date": "2026-08-24 12:56:43",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-19",
+      "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_c9dce64a-a27d-411f-b6d6-6df17651a1a2",
+      "title": "27届秋招-服务设计专员-乘客业务",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "用户平台部",
+      "tags": [
+        "全职",
+        "用户平台部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/c9dce64a-a27d-411f-b6d6-6df17651a1a2",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-20 19:48:05",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-21",
       "is_new": false
     },
     {

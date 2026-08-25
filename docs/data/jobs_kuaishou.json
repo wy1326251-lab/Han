@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-08-24 11:00:19",
-  "job_count": 37,
+  "updated_at": "2026-08-25 10:56:53",
+  "job_count": 38,
   "excluded_count": 195,
   "jobs": [
+    {
+      "id": "kuaishou_13272",
+      "title": "AI Agent 产品经理",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13272",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": true
+    },
     {
       "id": "kuaishou_13825",
       "title": "AI商业化产品经理-PDE",
