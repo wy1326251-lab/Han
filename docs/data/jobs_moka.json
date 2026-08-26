@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-25 10:59:34",
-  "job_count": 293,
-  "excluded_count": 117,
+  "updated_at": "2026-08-26 11:05:08",
+  "job_count": 299,
+  "excluded_count": 119,
   "jobs": [
     {
       "id": "moka_moonshot_47f1dc78-543f-43ba-b320-da601590f8d6",
@@ -195,7 +195,7 @@
     },
     {
       "id": "moka_moonshot_d2e41303-71be-44f2-bcde-199d2e15d9d2",
-      "title": "小语种海外运营管培生",
+      "title": "国际化-产品运营实习生（小语种方向）",
       "company": "月之暗面(Kimi)",
       "city": "北京",
       "industry": null,
@@ -305,7 +305,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_edeae654-2dcd-4584-90d0-b2702379501e",
@@ -324,7 +324,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_c3f01bba-856e-4d74-a07b-45e2d39108eb",
@@ -837,7 +837,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_a6b28dd1-7751-45c2-b81d-b73f9bae3f41",
@@ -1239,23 +1239,23 @@
       "is_new": false
     },
     {
-      "id": "moka_zhihu_d1ea2624-0309-423a-a986-01df91bd413c",
-      "title": "商业营销策划-华北（27届）",
+      "id": "moka_zhihu_9bad2161-d151-4591-8cb8-5ce24818c07e",
+      "title": "领域策略运营实习生-27届",
       "company": "知乎",
       "city": "北京",
       "industry": null,
       "tags": [
-        "实习"
+        "全职"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/d1ea2624-0309-423a-a986-01df91bd413c",
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/9bad2161-d151-4591-8cb8-5ce24818c07e",
       "search_keyword": null,
       "source": "知乎官网",
-      "publish_date": "2026-03-24 00:00",
+      "publish_date": "2026-08-11 00:00",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
+      "first_seen": "2026-08-26",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_b9459c47-29ff-4435-ade1-d6e9dcdb98db",
@@ -1335,12 +1335,12 @@
     },
     {
       "id": "moka_zhihu_bd0464c1-ba8c-49f3-9dc1-75a0f80aaa87",
-      "title": "泛知识领域运营（27届）",
+      "title": "泛知识领域运营实习生（27届）",
       "company": "知乎",
       "city": "北京",
       "industry": null,
       "tags": [
-        "实习"
+        "全职"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/bd0464c1-ba8c-49f3-9dc1-75a0f80aaa87",
       "search_keyword": null,
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "moka_zhihu_60a891ad-a58e-4900-be74-741c992e316b",
-      "title": "商业客户运营（27届）",
+      "title": "商业客户运营实习生（27届）",
       "company": "知乎",
       "city": "北京",
       "industry": null,
@@ -1480,14 +1480,14 @@
       "source": "知乎官网",
       "publish_date": "2026-04-15 00:00",
       "salary": null,
-      "offers_fulltime": false,
+      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
     {
       "id": "moka_zhihu_b382b29b-e5d7-49aa-98b6-b7f2de8489b7",
-      "title": "交互/UI设计师（27届）",
+      "title": "交互/UI设计实习生（27届）",
       "company": "知乎",
       "city": "北京",
       "industry": null,
@@ -1499,33 +1499,14 @@
       "source": "知乎官网",
       "publish_date": "2025-12-04 00:00",
       "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_6edbfb06-514f-446b-a0cc-5d2fadd571c5",
-      "title": "商业营销策划-华东（27届）",
-      "company": "知乎",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/6edbfb06-514f-446b-a0cc-5d2fadd571c5",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-05-14 00:00",
-      "salary": null,
-      "offers_fulltime": false,
+      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
     },
     {
       "id": "moka_zhihu_938ed6bd-3682-4dd1-9e77-351a753ffe55",
-      "title": "商业营销策划-华南（27届）",
+      "title": "商业营销策划实习生-华南（27届）",
       "company": "知乎",
       "city": "天河区",
       "industry": null,
@@ -1537,7 +1518,7 @@
       "source": "知乎官网",
       "publish_date": "2026-05-14 00:00",
       "salary": null,
-      "offers_fulltime": false,
+      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
@@ -1651,6 +1632,291 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_huya_68b27427-aa2a-4ec3-ae74-839043d4d61e",
+      "title": "(2027届)游戏策划",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/68b27427-aa2a-4ec3-ae74-839043d4d61e",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-26 10:38:35",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_0734ae03-1e82-4fc9-b83b-0ff206655ede",
+      "title": "(2027届)AI财务应用专员-技术方向",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/0734ae03-1e82-4fc9-b83b-0ff206655ede",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_92ec863e-6496-4239-baa1-0c4af59154ec",
+      "title": "(2027届)AI视觉设计师-运营方向",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/92ec863e-6496-4239-baa1-0c4af59154ec",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_1cac21e1-bca0-45cf-9c88-a19667847b7c",
+      "title": "(2027届)产品运营-海外游戏发行",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/1cac21e1-bca0-45cf-9c88-a19667847b7c",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_16e75731-68b5-4a4d-b994-67e426fbf15c",
+      "title": "(2027届)AI短视频编导",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/16e75731-68b5-4a4d-b994-67e426fbf15c",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_8ae696b2-aa8f-4640-99c3-fb5aee6acb5d",
+      "title": "(2027届)内容运营-PUBG",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/8ae696b2-aa8f-4640-99c3-fb5aee6acb5d",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_fe4530c4-98ef-477a-bef0-3bbe45057c59",
+      "title": "(2027届)内容运营-三角洲",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/fe4530c4-98ef-477a-bef0-3bbe45057c59",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_2585540f-3fc8-468e-b852-4a004d2c6c45",
+      "title": "(2027届)产品经理-AI内容",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/2585540f-3fc8-468e-b852-4a004d2c6c45",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_e26c1539-637b-4085-8941-f472dc76cc05",
+      "title": "(2027届)内容运营-英雄联盟",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/e26c1539-637b-4085-8941-f472dc76cc05",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_6b85edb5-e32e-4837-a16e-cdf64e3b2fad",
+      "title": "(2027届)活动策划及宣传专员",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/6b85edb5-e32e-4837-a16e-cdf64e3b2fad",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_98970a4a-b09e-49b5-a38d-c0a56e741b10",
+      "title": "(2027届)AI财务应用专员-财管方向",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/98970a4a-b09e-49b5-a38d-c0a56e741b10",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_e1760243-defe-4dcf-b802-b5640e26ecf2",
+      "title": "(2027届)内容运营-王者荣耀",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/e1760243-defe-4dcf-b802-b5640e26ecf2",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_f9c8e53d-a54d-4ec3-a610-9b3e2fd39241",
+      "title": "(2027届)AI体验设计师",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/f9c8e53d-a54d-4ec3-a610-9b3e2fd39241",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_c5a9aaae-ce1a-4dc4-983f-2db45b066b2c",
+      "title": "(2027届)赛事运营-商业化",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/c5a9aaae-ce1a-4dc4-983f-2db45b066b2c",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
+    },
+    {
+      "id": "moka_huya_75936fda-8c92-44ed-9098-28440f8cf04d",
+      "title": "(2027届)内容运营-娱乐方向",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/75936fda-8c92-44ed-9098-28440f8cf04d",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
     },
     {
       "id": "moka_hypergryph_52c7d293-350e-4242-8f90-b3d6a96778e1",
@@ -3995,7 +4261,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
@@ -4017,23 +4283,23 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_dce2e18c-faab-4458-8f44-afc4fb2db4f2",
-      "title": "SHEGLAM 独立站运营实习生",
+      "id": "moka_shein_be0785b6-36c1-4ae5-936f-62fee60373d0",
+      "title": "视觉设计实习生（上海）",
       "company": "SHEIN",
-      "city": "番禺区",
+      "city": "上海",
       "industry": null,
       "tags": [
         "实习"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/dce2e18c-faab-4458-8f44-afc4fb2db4f2",
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/be0785b6-36c1-4ae5-936f-62fee60373d0",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-08-18 11:07:33",
+      "publish_date": "2026-08-26 10:56:37",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-08-19",
-      "is_new": false
+      "first_seen": "2026-08-26",
+      "is_new": true
     },
     {
       "id": "moka_shein_7605b6be-8159-441d-a321-9c9434de572c",
@@ -4071,25 +4337,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-25",
-      "is_new": true
-    },
-    {
-      "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
-      "title": "频道运营实习生（base深圳）",
-      "company": "SHEIN",
-      "city": "南山区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/bcf7fb25-865b-4e2a-b297-546a266322fd",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-21 17:36:38",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-22",
       "is_new": false
     },
     {
@@ -4131,25 +4378,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_3faefdf1-0938-47ed-bb4a-fab224b20ff2",
-      "title": "品类运营实习生（广州）",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/3faefdf1-0938-47ed-bb4a-fab224b20ff2",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-20 13:47:48",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-21",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_bf64a736-8552-4d38-8bac-b97ec7b0ec45",
       "title": "市场运营实习生（南京）",
       "company": "SHEIN",
@@ -4167,6 +4395,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-21",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_5e70d5b3-71d3-420b-a075-7a31e678ba5c",
+      "title": "女装选品运营实习生",
+      "company": "SHEIN",
+      "city": "雨花台区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/5e70d5b3-71d3-420b-a075-7a31e678ba5c",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-08-20 10:50:44",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
+      "is_new": true
     },
     {
       "id": "moka_shein_f9d9b3b7-b8b7-418e-bef9-89ca34d20c55",
@@ -4227,7 +4474,7 @@
     },
     {
       "id": "moka_didiglobal_27bd51cf-7e0a-4921-9a6b-84cddaa44792",
-      "title": "27届秋招-产品与用户运营顾问（MPT）",
+      "title": "27届秋招-产品与用户运营顾问（交易策略）",
       "company": "滴滴",
       "city": "北京",
       "industry": "网约车平台公司",
@@ -5146,26 +5393,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_100b8c9b-b045-435b-8075-1862f8699968",
-      "title": "27届秋招-产品运营",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "自动驾驶",
-      "tags": [
-        "全职",
-        "自动驾驶"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/100b8c9b-b045-435b-8075-1862f8699968",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_60cb1018-984b-43de-9eb7-b7a57182f36d",
       "title": "27届秋招-AI产品助理（国际化外卖-新业务）",
       "company": "滴滴",
@@ -5179,120 +5406,6 @@
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_58_bb88500a-c7cf-42c5-871d-b553092ea03f",
-      "title": "AI产品经理方向——CRM方向",
-      "company": "58同城",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/bb88500a-c7cf-42c5-871d-b553092ea03f",
-      "search_keyword": null,
-      "source": "58同城官网",
-      "publish_date": "2026-04-22 14:33:07",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_58_fa9dd392-6293-4bb8-a18d-44c865d6843e",
-      "title": "AI产品经理方向——阿姨直招产品",
-      "company": "58同城",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/fa9dd392-6293-4bb8-a18d-44c865d6843e",
-      "search_keyword": null,
-      "source": "58同城官网",
-      "publish_date": "2026-04-22 14:32:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_58_6f1cded4-735d-46d8-ae86-f74abb90a600",
-      "title": "AI产品经理方向——商家营销AI产品",
-      "company": "58同城",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/6f1cded4-735d-46d8-ae86-f74abb90a600",
-      "search_keyword": null,
-      "source": "58同城官网",
-      "publish_date": "2026-04-22 14:31:09",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_58_4d9ac4f2-a452-4308-b7e2-2c31de3b3c00",
-      "title": "多模态大模型及应用方向——安全方向",
-      "company": "58同城",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/4d9ac4f2-a452-4308-b7e2-2c31de3b3c00",
-      "search_keyword": null,
-      "source": "58同城官网",
-      "publish_date": "2026-04-22 14:22:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_58_3086a4ea-9616-4a33-865f-6bc261e1665b",
-      "title": "多模态大模型及应用方向——ComfyUI 魔法实验室",
-      "company": "58同城",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/3086a4ea-9616-4a33-865f-6bc261e1665b",
-      "search_keyword": null,
-      "source": "58同城官网",
-      "publish_date": "2026-04-22 14:21:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_58_3af31622-e12d-43ef-8e91-f6a960c2e7b9",
-      "title": "语音大模型方向",
-      "company": "58同城",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/3af31622-e12d-43ef-8e91-f6a960c2e7b9",
-      "search_keyword": null,
-      "source": "58同城官网",
-      "publish_date": "2026-04-22 14:19:33",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,

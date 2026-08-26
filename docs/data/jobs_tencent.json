@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25 10:56:48",
-  "job_count": 10,
+  "updated_at": "2026-08-26 11:02:24",
+  "job_count": 9,
   "excluded_count": 0,
   "jobs": [
     {
@@ -153,25 +153,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2066480893110956032",
-      "title": "Tencent Cloud – Solution Architecture Intern, Gen AI & Cloud(Thailand) 107668",
-      "company": "腾讯",
-      "city": "曼谷",
-      "industry": "产品",
-      "tags": [
-        "CSIG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Thailand-Bangkok/Tencent-Cloud---Solution-Architecture-Intern--Thailand-_R107668",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年08月19日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-20",
       "is_new": false
     },
     {
