@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-08-26 11:05:08",
-  "job_count": 299,
-  "excluded_count": 119,
+  "updated_at": "2026-08-27 19:39:33",
+  "job_count": 298,
+  "excluded_count": 118,
   "jobs": [
+    {
+      "id": "moka_moonshot_f68a944c-ddff-44a9-9ed1-018b0d006afe",
+      "title": "设计实习生",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f68a944c-ddff-44a9-9ed1-018b0d006afe",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-26 17:05:21",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": true
+    },
     {
       "id": "moka_moonshot_47f1dc78-543f-43ba-b320-da601590f8d6",
       "title": "Kimi Agent Eval 研究与产品实习生（Science方向）",
@@ -268,6 +287,63 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_moonshot_a736b23a-d152-4e8f-abf6-cb954db8be4c",
+      "title": "Kimi 金融产品实习生（PM & Harness 方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a736b23a-d152-4e8f-abf6-cb954db8be4c",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-26 17:28:01",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": true
+    },
+    {
+      "id": "moka_moonshot_f9088589-0c05-4cc1-8c3e-46f140557939",
+      "title": "Kimi视觉设计实习生（AI Native 方向 / 活动视觉 & 品牌周边）",
+      "company": "月之暗面(Kimi)",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f9088589-0c05-4cc1-8c3e-46f140557939",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-26 17:23:49",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": true
+    },
+    {
+      "id": "moka_moonshot_e6cb9f10-00f0-46c4-bbde-6611bb1b06e4",
+      "title": "Kimi Eval Intern（3D方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e6cb9f10-00f0-46c4-bbde-6611bb1b06e4",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-26 17:07:18",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": true
     },
     {
       "id": "moka_moonshot_e45fe698-18e5-468e-97bf-315305172df2",
@@ -1240,7 +1316,7 @@
     },
     {
       "id": "moka_zhihu_9bad2161-d151-4591-8cb8-5ce24818c07e",
-      "title": "领域策略运营实习生-27届",
+      "title": "领域策略运营-27届",
       "company": "知乎",
       "city": "北京",
       "industry": null,
@@ -1252,10 +1328,10 @@
       "source": "知乎官网",
       "publish_date": "2026-08-11 00:00",
       "salary": null,
-      "offers_fulltime": true,
+      "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_b9459c47-29ff-4435-ade1-d6e9dcdb98db",
@@ -1335,7 +1411,7 @@
     },
     {
       "id": "moka_zhihu_bd0464c1-ba8c-49f3-9dc1-75a0f80aaa87",
-      "title": "泛知识领域运营实习生（27届）",
+      "title": "泛知识领域运营（27届）",
       "company": "知乎",
       "city": "北京",
       "industry": null,
@@ -1347,7 +1423,7 @@
       "source": "知乎官网",
       "publish_date": "2026-05-26 00:00",
       "salary": null,
-      "offers_fulltime": true,
+      "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
@@ -1650,7 +1726,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_0734ae03-1e82-4fc9-b83b-0ff206655ede",
@@ -1669,7 +1745,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_92ec863e-6496-4239-baa1-0c4af59154ec",
@@ -1688,7 +1764,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_1cac21e1-bca0-45cf-9c88-a19667847b7c",
@@ -1707,7 +1783,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_16e75731-68b5-4a4d-b994-67e426fbf15c",
@@ -1726,7 +1802,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_8ae696b2-aa8f-4640-99c3-fb5aee6acb5d",
@@ -1745,7 +1821,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_fe4530c4-98ef-477a-bef0-3bbe45057c59",
@@ -1764,7 +1840,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_2585540f-3fc8-468e-b852-4a004d2c6c45",
@@ -1783,7 +1859,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_e26c1539-637b-4085-8941-f472dc76cc05",
@@ -1802,7 +1878,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_6b85edb5-e32e-4837-a16e-cdf64e3b2fad",
@@ -1821,7 +1897,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_98970a4a-b09e-49b5-a38d-c0a56e741b10",
@@ -1840,7 +1916,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_e1760243-defe-4dcf-b802-b5640e26ecf2",
@@ -1859,7 +1935,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_f9c8e53d-a54d-4ec3-a610-9b3e2fd39241",
@@ -1878,7 +1954,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_c5a9aaae-ce1a-4dc4-983f-2db45b066b2c",
@@ -1897,7 +1973,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_75936fda-8c92-44ed-9098-28440f8cf04d",
@@ -1916,7 +1992,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_hypergryph_52c7d293-350e-4242-8f90-b3d6a96778e1",
@@ -3914,6 +3990,26 @@
       "is_new": false
     },
     {
+      "id": "moka_sina_5f97c970-b3cf-4805-a3d4-33dc14404854",
+      "title": "微博明星运营",
+      "company": "新浪",
+      "city": "北京",
+      "industry": "新浪&微博",
+      "tags": [
+        "全职",
+        "新浪&微博"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/5f97c970-b3cf-4805-a3d4-33dc14404854",
+      "search_keyword": null,
+      "source": "新浪官网",
+      "publish_date": "2026-08-27 17:54:17",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": false
+    },
+    {
       "id": "moka_sina_5b10d032-69fd-415c-8f71-d81adf868712",
       "title": "微博剧综运营",
       "company": "新浪",
@@ -4027,26 +4123,6 @@
       "search_keyword": null,
       "source": "新浪官网",
       "publish_date": "2026-08-18 17:26:10",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "moka_sina_5f97c970-b3cf-4805-a3d4-33dc14404854",
-      "title": "微博明星运营",
-      "company": "新浪",
-      "city": "北京",
-      "industry": "新浪&微博",
-      "tags": [
-        "全职",
-        "新浪&微博"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/5f97c970-b3cf-4805-a3d4-33dc14404854",
-      "search_keyword": null,
-      "source": "新浪官网",
-      "publish_date": "2026-08-18 17:26:03",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4284,7 +4360,7 @@
     },
     {
       "id": "moka_shein_be0785b6-36c1-4ae5-936f-62fee60373d0",
-      "title": "视觉设计实习生（上海）",
+      "title": "设计实习生",
       "company": "SHEIN",
       "city": "上海",
       "industry": null,
@@ -4299,25 +4375,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-26",
-      "is_new": true
-    },
-    {
-      "id": "moka_shein_7605b6be-8159-441d-a321-9c9434de572c",
-      "title": "站内运营实习生",
-      "company": "SHEIN",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/7605b6be-8159-441d-a321-9c9434de572c",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-12 13:45",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -4397,80 +4454,24 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_5e70d5b3-71d3-420b-a075-7a31e678ba5c",
-      "title": "女装选品运营实习生",
-      "company": "SHEIN",
-      "city": "雨花台区",
-      "industry": null,
+      "id": "moka_didiglobal_78d9a2f6-95cc-4294-8a1e-404e021d955f",
+      "title": "27届秋招-国际客资运营专员（国际化金融）",
+      "company": "滴滴",
+      "city": "北京/上海",
+      "industry": "国际化事业部",
       "tags": [
-        "实习"
+        "全职",
+        "国际化事业部"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/5e70d5b3-71d3-420b-a075-7a31e678ba5c",
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/78d9a2f6-95cc-4294-8a1e-404e021d955f",
       "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-20 10:50:44",
+      "source": "滴滴官网",
+      "publish_date": "2026-08-27 14:22:38",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-08-26",
+      "first_seen": "2026-08-27",
       "is_new": true
-    },
-    {
-      "id": "moka_shein_f9d9b3b7-b8b7-418e-bef9-89ca34d20c55",
-      "title": "女装品类运营实习生",
-      "company": "SHEIN",
-      "city": "雨花台区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/f9d9b3b7-b8b7-418e-bef9-89ca34d20c55",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-18 15:11:59",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-19",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_6e5814d0-0463-4c10-a2d6-bae26fa07613",
-      "title": "AI训练实习生",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/6e5814d0-0463-4c10-a2d6-bae26fa07613",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-13 10:52:47",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_d26300f0-a65e-4b30-b402-31ee5cccd082",
-      "title": "巴西实习生-AI设计助理",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/d26300f0-a65e-4b30-b402-31ee5cccd082",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-12 11:00:43",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
     },
     {
       "id": "moka_didiglobal_27bd51cf-7e0a-4921-9a6b-84cddaa44792",
@@ -4850,26 +4851,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-19",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_c9dce64a-a27d-411f-b6d6-6df17651a1a2",
-      "title": "27届秋招-服务设计专员-乘客业务",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/c9dce64a-a27d-411f-b6d6-6df17651a1a2",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-20 19:48:05",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-21",
       "is_new": false
     },
     {
