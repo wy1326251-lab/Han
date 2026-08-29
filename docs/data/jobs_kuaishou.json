@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28 21:21:38",
+  "updated_at": "2026-08-29 16:20:20",
   "job_count": 36,
   "excluded_count": 196,
   "jobs": [
@@ -20,7 +20,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kuaishou_13300",
