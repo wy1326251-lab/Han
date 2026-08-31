@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30 15:14:33",
-  "job_count": 294,
+  "updated_at": "2026-08-31 15:30:52",
+  "job_count": 297,
   "excluded_count": 125,
   "jobs": [
     {
@@ -20,25 +20,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-27",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_47f1dc78-543f-43ba-b320-da601590f8d6",
-      "title": "Kimi Agent Eval 研究与产品实习生（Science方向）",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/47f1dc78-543f-43ba-b320-da601590f8d6",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-14 16:06:47",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -287,6 +268,63 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_moonshot_46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
+      "title": "KimiCode 产品实习生",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-31 15:18:07",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": true
+    },
+    {
+      "id": "moka_moonshot_ac794113-4a1c-410f-9d31-f46c30d28a06",
+      "title": "KimiCode 产品实习生",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ac794113-4a1c-410f-9d31-f46c30d28a06",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-31 14:59:33",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": true
+    },
+    {
+      "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+      "title": "AI 产品实习生",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-31 11:48:50",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": true
     },
     {
       "id": "moka_moonshot_a736b23a-d152-4e8f-abf6-cb954db8be4c",
@@ -4359,6 +4397,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_564a0061-5ef7-484e-9948-87274eb5ebbc",
+      "title": "平面设计实习生（上海）",
+      "company": "SHEIN",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/564a0061-5ef7-484e-9948-87274eb5ebbc",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-08-28 16:15:31",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": true
+    },
+    {
       "id": "moka_shein_1775c6dc-f867-40df-85ec-ef6463fc34ba",
       "title": "时尚店铺运营实习生（广州）",
       "company": "SHEIN",
@@ -4376,6 +4433,26 @@
       "is_campus_official": true,
       "first_seen": "2026-08-21",
       "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_4e3859db-c146-4de3-ae55-ea1561c97dff",
+      "title": "27届秋招-产品与用户运营专员-活跃用户运营",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "用户平台部",
+      "tags": [
+        "全职",
+        "用户平台部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/4e3859db-c146-4de3-ae55-ea1561c97dff",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-08-31 14:11:35",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": true
     },
     {
       "id": "moka_didiglobal_4e14c6ad-e1e9-4d94-a71e-0d6cd015d1f1",
@@ -4908,26 +4985,6 @@
         "两轮车事业部"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/f9dcac51-caf0-4c10-9243-f4f44cfead88",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-14 21:43:47",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_8e66c6b3-3b87-4953-b057-3ed341cda95d",
-      "title": "27届秋招-用户运营顾问-单车",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "两轮车事业部",
-      "tags": [
-        "全职",
-        "两轮车事业部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8e66c6b3-3b87-4953-b057-3ed341cda95d",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-14 21:43:47",
@@ -5582,23 +5639,23 @@
       "is_new": false
     },
     {
-      "id": "moka_tap4fun_b9595ff3-00cc-47ed-9267-ecf35d71350f",
-      "title": "2027届游戏UI设计实习生",
+      "id": "moka_tap4fun_fadc0c57-4f6f-41a5-aecf-8fc71370d324",
+      "title": "2027届游戏策划运营实习生",
       "company": "指尖悦动",
       "city": null,
       "industry": null,
       "tags": [
-        "全职"
+        "实习"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/tap4fun/291#/job/b9595ff3-00cc-47ed-9267-ecf35d71350f",
+      "link": "https://app.mokahr.com/campus-recruitment/tap4fun/291#/job/fadc0c57-4f6f-41a5-aecf-8fc71370d324",
       "search_keyword": null,
       "source": "指尖悦动官网",
-      "publish_date": "2026-07-29 00:00",
+      "publish_date": "2026-07-09 00:00",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": false
+      "first_seen": "2026-08-31",
+      "is_new": true
     },
     {
       "id": "moka_tap4fun_d594603b-89c1-4748-81ad-f2bc55678550",
