@@ -1,46 +1,26 @@
 {
-  "updated_at": "2026-09-01 14:41:32",
-  "job_count": 253,
+  "updated_at": "2026-09-02 14:20:01",
+  "job_count": 256,
   "excluded_count": 40,
   "jobs": [
     {
       "id": "netease_78448",
-      "title": "新媒体内容运营实习生",
+      "title": "新媒体运营实习生",
       "company": "网易智邮",
       "city": "北京市",
-      "industry": "运营",
+      "industry": "市场",
       "tags": [
-        "不限",
-        "不限"
+        "本科",
+        "0-3年"
       ],
       "link": "https://hr.163.com/job-detail.html?id=78448&lang=zh",
-      "search_keyword": "AI内容",
+      "search_keyword": "文案",
       "source": "网易招聘",
-      "publish_date": "2026-08-27 18:51:15",
+      "publish_date": "2026-09-02 10:19:21",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-27",
-      "is_new": false
-    },
-    {
-      "id": "netease_77421",
-      "title": "新媒体设计实习生",
-      "company": "网易元气",
-      "city": "杭州市",
-      "industry": "用户体验及设计",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=77421&lang=zh",
-      "search_keyword": "新媒体运营",
-      "source": "网易招聘",
-      "publish_date": "2026-08-05 11:32:21",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -64,6 +44,26 @@
       "is_new": false
     },
     {
+      "id": "netease_29896",
+      "title": "新媒体运营实习生（人才发展）",
+      "company": "网易职能",
+      "city": "杭州市",
+      "industry": "职能支持",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=29896&lang=zh",
+      "search_keyword": "新媒体运营",
+      "source": "网易招聘",
+      "publish_date": "2026-09-02 13:54:40",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": false
+    },
+    {
       "id": "netease_78533",
       "title": "新媒体运营实习生（视频剪辑）",
       "company": "网易云音乐",
@@ -81,26 +81,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
-    },
-    {
-      "id": "netease_29896",
-      "title": "新媒体运营实习生（人才发展）",
-      "company": "网易职能",
-      "city": "杭州市",
-      "industry": "职能支持",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=29896&lang=zh",
-      "search_keyword": "新媒体运营",
-      "source": "网易招聘",
-      "publish_date": "2026-08-27 11:49:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-27",
       "is_new": false
     },
     {
@@ -508,7 +488,7 @@
       "title": "内容营销实习生",
       "company": "网易智邮",
       "city": "北京市",
-      "industry": "无",
+      "industry": "市场",
       "tags": [
         "本科",
         "不限"
@@ -516,7 +496,7 @@
       "link": "https://hr.163.com/job-detail.html?id=78040&lang=zh",
       "search_keyword": "文案",
       "source": "网易招聘",
-      "publish_date": "2026-08-10 10:59:58",
+      "publish_date": "2026-09-02 10:17:46",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -674,7 +654,7 @@
         "0-3年"
       ],
       "link": "https://hr.163.com/job-detail.html?id=77216&lang=zh",
-      "search_keyword": "短视频",
+      "search_keyword": "新媒体运营",
       "source": "网易招聘",
       "publish_date": "2026-07-03 15:34:50",
       "salary": null,
@@ -724,6 +704,26 @@
       "is_new": false
     },
     {
+      "id": "netease_78540",
+      "title": "网易科技短视频剪辑兼运营实习生",
+      "company": "网易传媒",
+      "city": "北京市",
+      "industry": "内容",
+      "tags": [
+        "本科",
+        "0-3年"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78540&lang=zh",
+      "search_keyword": "AI视频",
+      "source": "网易招聘",
+      "publish_date": "2026-09-01 15:40:56",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
       "id": "netease_78360",
       "title": "海外产品运营实习生（短视频内容制作方向）",
       "company": "网易游戏（互娱）",
@@ -742,6 +742,26 @@
       "is_campus_official": true,
       "first_seen": "2026-08-25",
       "is_new": false
+    },
+    {
+      "id": "netease_71838",
+      "title": "视频剪辑实习生",
+      "company": "网易智邮",
+      "city": "北京市",
+      "industry": "用户体验及设计",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=71838&lang=zh",
+      "search_keyword": "AI视频",
+      "source": "网易招聘",
+      "publish_date": "2026-09-02 10:18:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
     },
     {
       "id": "netease_78418",
@@ -1221,7 +1241,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_77958",
@@ -1284,6 +1304,26 @@
       "is_new": false
     },
     {
+      "id": "netease_69353",
+      "title": "游戏Kol运营实习生",
+      "company": "网易有道",
+      "city": "杭州市",
+      "industry": "运营",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=69353&lang=zh",
+      "search_keyword": "直播",
+      "source": "网易招聘",
+      "publish_date": "2026-09-02 10:27:17",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
       "id": "netease_68758",
       "title": "KOL营销实习生",
       "company": "网易有道",
@@ -1322,6 +1362,26 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "netease_78552",
+      "title": "赛事营销实习生",
+      "company": "其他",
+      "city": "上海市",
+      "industry": "市场",
+      "tags": [
+        "本科",
+        "0-3年"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78552&lang=zh",
+      "search_keyword": "短视频",
+      "source": "网易招聘",
+      "publish_date": "2026-09-01 20:56:24",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
     },
     {
       "id": "netease_63750",
@@ -1364,6 +1424,26 @@
       "is_new": false
     },
     {
+      "id": "netease_78566",
+      "title": "内容运营（喇叭生态）实习生",
+      "company": "网易游戏（互娱）",
+      "city": "广州市",
+      "industry": "市场",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78566&lang=zh",
+      "search_keyword": "AI视频",
+      "source": "网易招聘",
+      "publish_date": "2026-09-02 11:07:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
       "id": "netease_77766",
       "title": "内容运营实习生",
       "company": "网易传媒",
@@ -1402,6 +1482,26 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "netease_78551",
+      "title": "市场营销实习生",
+      "company": "其他",
+      "city": "上海市",
+      "industry": "市场",
+      "tags": [
+        "本科",
+        "0-3年"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78551&lang=zh",
+      "search_keyword": "短视频",
+      "source": "网易招聘",
+      "publish_date": "2026-09-01 20:56:50",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
     },
     {
       "id": "netease_64502",
@@ -1479,66 +1579,6 @@
       "publish_date": "2025-06-30 13:55:35",
       "salary": null,
       "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "netease_78467",
-      "title": "AIGC抽卡实习生",
-      "company": "网易元气",
-      "city": "杭州市",
-      "industry": "内容",
-      "tags": [
-        "不限",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78467&lang=zh",
-      "search_keyword": "AI视频",
-      "source": "网易招聘",
-      "publish_date": "2026-08-28 12:19:56",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-28",
-      "is_new": false
-    },
-    {
-      "id": "netease_78138",
-      "title": "内容传播实习生（网易画加）",
-      "company": "网易游戏（互娱）",
-      "city": "广州市",
-      "industry": "市场",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78138&lang=zh",
-      "search_keyword": "短视频",
-      "source": "网易招聘",
-      "publish_date": "2026-08-31 13:16:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "netease_77979",
-      "title": "商务拓展实习生（可转正）",
-      "company": "网易云音乐",
-      "city": "杭州市",
-      "industry": "市场",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=77979&lang=zh",
-      "search_keyword": "AI视频",
-      "source": "网易招聘",
-      "publish_date": "2026-08-14 16:29:21",
-      "salary": null,
-      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
@@ -1896,7 +1936,7 @@
       "link": "https://hr.163.com/job-detail.html?id=54921&lang=zh",
       "search_keyword": "文案",
       "source": "网易招聘",
-      "publish_date": "2026-08-06 15:10:30",
+      "publish_date": "2026-09-01 18:24:26",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,
@@ -2201,7 +2241,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78039",
@@ -2481,7 +2521,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_71715",
@@ -2501,7 +2541,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_75731",
@@ -2901,7 +2941,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78489",
@@ -3084,6 +3124,26 @@
       "is_new": false
     },
     {
+      "id": "netease_58086",
+      "title": "游戏营销实习生（魔兽世界/炉石传说）",
+      "company": "网易游戏（雷火）",
+      "city": "杭州市",
+      "industry": "市场",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=58086&lang=zh",
+      "search_keyword": "文案",
+      "source": "网易招聘",
+      "publish_date": "2026-09-01 18:24:17",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
       "id": "netease_77138",
       "title": "内容分发运营实习生",
       "company": "网易云音乐",
@@ -3101,7 +3161,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_74868",
@@ -3117,26 +3177,6 @@
       "search_keyword": "文案",
       "source": "网易招聘",
       "publish_date": "2026-08-31 13:16:52",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "netease_58086",
-      "title": "游戏营销实习生（魔兽世界/炉石传说）",
-      "company": "网易游戏（雷火）",
-      "city": "杭州市",
-      "industry": "市场",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=58086&lang=zh",
-      "search_keyword": "文案",
-      "source": "网易招聘",
-      "publish_date": "2026-08-25 12:12:12",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -3384,6 +3424,26 @@
       "is_new": false
     },
     {
+      "id": "netease_78467",
+      "title": "AIGC抽卡实习生",
+      "company": "网易元气",
+      "city": "杭州市",
+      "industry": "内容",
+      "tags": [
+        "不限",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78467&lang=zh",
+      "search_keyword": "AI视频",
+      "source": "网易招聘",
+      "publish_date": "2026-08-28 12:19:56",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-28",
+      "is_new": false
+    },
+    {
       "id": "netease_78505",
       "title": "AI活动实习生",
       "company": "网易云音乐",
@@ -3441,7 +3501,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_77175",
@@ -3544,6 +3604,26 @@
       "is_new": false
     },
     {
+      "id": "netease_78434",
+      "title": "AI社交产品运营实习生",
+      "company": "网易元气",
+      "city": "杭州市",
+      "industry": "运营",
+      "tags": [
+        "不限",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78434&lang=zh",
+      "search_keyword": "数据标注",
+      "source": "网易招聘",
+      "publish_date": "2026-09-02 13:59:36",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": false
+    },
+    {
       "id": "netease_61239",
       "title": "AI 技术美术实习生",
       "company": "网易伏羲",
@@ -3556,12 +3636,12 @@
       "link": "https://hr.163.com/job-detail.html?id=61239&lang=zh",
       "search_keyword": "AI内容",
       "source": "网易招聘",
-      "publish_date": "2026-09-01 10:18:49",
+      "publish_date": "2026-09-01 17:30:22",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_52693",
@@ -3617,26 +3697,6 @@
       "search_keyword": "AI产品",
       "source": "网易招聘",
       "publish_date": "2026-08-27 15:28:42",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-27",
-      "is_new": false
-    },
-    {
-      "id": "netease_78434",
-      "title": "AI社交产品运营实习生",
-      "company": "网易元气",
-      "city": "杭州市",
-      "industry": "运营",
-      "tags": [
-        "不限",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78434&lang=zh",
-      "search_keyword": "数据标注",
-      "source": "网易招聘",
-      "publish_date": "2026-08-27 14:20:39",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -3884,6 +3944,26 @@
       "is_new": false
     },
     {
+      "id": "netease_78550",
+      "title": "AI Agent工程实习生（美术应用平台）",
+      "company": "网易游戏（互娱）",
+      "city": "广州市",
+      "industry": "游戏艺术",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78550&lang=zh",
+      "search_keyword": "AI",
+      "source": "网易招聘",
+      "publish_date": "2026-09-01 18:36:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
       "id": "netease_78092",
       "title": "AI工具应用实习生（暗黑破坏神：不朽）",
       "company": "网易游戏（互娱）",
@@ -4064,26 +4144,6 @@
       "is_new": false
     },
     {
-      "id": "netease_78370",
-      "title": "音乐人活动运营实习生",
-      "company": "网易云音乐",
-      "city": "杭州市",
-      "industry": "运营",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78370&lang=zh",
-      "search_keyword": "AI",
-      "source": "网易招聘",
-      "publish_date": "2026-08-25 10:40:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-25",
-      "is_new": false
-    },
-    {
       "id": "netease_78523",
       "title": "内容运营实习生(AIGC方向)",
       "company": "网易云音乐",
@@ -4101,7 +4161,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_77220",
@@ -4142,6 +4202,26 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "netease_78543",
+      "title": "音乐内容制作实习生",
+      "company": "网易云音乐",
+      "city": "杭州市",
+      "industry": "运营",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78543&lang=zh",
+      "search_keyword": "AI内容",
+      "source": "网易招聘",
+      "publish_date": "2026-09-01 16:33:14",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
     },
     {
       "id": "netease_78187",
@@ -4581,26 +4661,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "netease_78223",
-      "title": "游戏测评实习生-行业研究",
-      "company": "网易游戏（互娱）",
-      "city": "上海市",
-      "industry": "用户体验及设计",
-      "tags": [
-        "本科",
-        "0-3年"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78223&lang=zh",
-      "search_keyword": "AI视频",
-      "source": "网易招聘",
-      "publish_date": "2026-08-31 13:16:46",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-19",
       "is_new": false
     },
     {

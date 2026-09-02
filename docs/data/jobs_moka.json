@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-01 14:45:03",
-  "job_count": 301,
-  "excluded_count": 125,
+  "updated_at": "2026-09-02 14:23:41",
+  "job_count": 310,
+  "excluded_count": 138,
   "jobs": [
+    {
+      "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+      "title": "AI 产品实习生",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-09-02 14:01:06",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": false
+    },
     {
       "id": "moka_moonshot_f68a944c-ddff-44a9-9ed1-018b0d006afe",
       "title": "设计实习生",
@@ -270,6 +289,25 @@
       "is_new": false
     },
     {
+      "id": "moka_moonshot_27c2d6cd-e167-4a31-b463-1abbffc6b4a0",
+      "title": "Kimi 产品与研究实习生（金融方向）",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/27c2d6cd-e167-4a31-b463-1abbffc6b4a0",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-09-01 20:58:30",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
       "id": "moka_moonshot_46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
       "title": "KimiCode 产品实习生",
       "company": "月之暗面(Kimi)",
@@ -301,25 +339,6 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-08-31 14:59:33",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
-      "title": "AI 产品实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-31 11:48:50",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -935,6 +954,139 @@
       "is_new": false
     },
     {
+      "id": "moka_step_530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9",
+      "title": "27届-品牌营销",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_step_917dd6f4-ea42-498f-a3d4-722545bd3477",
+      "title": "27届-AI终端商业化策略",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/917dd6f4-ea42-498f-a3d4-722545bd3477",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_step_01ee48e6-aac8-4b17-9749-29af5de17fcd",
+      "title": "27届-AI终端产品经理（GTM）",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/01ee48e6-aac8-4b17-9749-29af5de17fcd",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_step_f9386042-928a-4528-abdf-5b053eae359a",
+      "title": "27届-智能客服运营",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/f9386042-928a-4528-abdf-5b053eae359a",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_step_649b5f68-0a2e-4516-9d33-5887b3236428",
+      "title": "27届-电商直播运营",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/649b5f68-0a2e-4516-9d33-5887b3236428",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_step_a9c431d7-fe76-4946-9863-abfd7e2bae41",
+      "title": "27届-电商内容运营",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/a9c431d7-fe76-4946-9863-abfd7e2bae41",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_step_e879ccb0-21ca-4c30-a5a1-0f24487ae820",
+      "title": "27届-电商运营",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/e879ccb0-21ca-4c30-a5a1-0f24487ae820",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-01 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
       "id": "moka_step_a2eeb736-8112-4e68-9778-956a4f4c8c52",
       "title": "27届校招-语音大模型产品经理",
       "company": "阶跃星辰",
@@ -1217,7 +1369,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_06a3a9d3-1d9a-461c-a8a9-364bd4651c67",
@@ -1441,25 +1593,6 @@
       "search_keyword": null,
       "source": "知乎官网",
       "publish_date": "2026-07-08 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_bd0464c1-ba8c-49f3-9dc1-75a0f80aaa87",
-      "title": "泛知识领域运营（27届）",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/bd0464c1-ba8c-49f3-9dc1-75a0f80aaa87",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-05-26 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -3455,7 +3588,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_37_d2757859-e0c9-447b-a6cc-01f72f78bb27",
@@ -4378,6 +4511,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
+      "title": "频道运营实习生",
+      "company": "SHEIN",
+      "city": "南山区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/bcf7fb25-865b-4e2a-b297-546a266322fd",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-01 15:07:03",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-28",
+      "is_new": false
+    },
+    {
       "id": "moka_shein_c78c2195-b59e-478a-b7e4-dea1bc78b195",
       "title": "电商运营实习生（彩妆类目 东南亚&美区）",
       "company": "SHEIN",
@@ -4394,25 +4546,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
-    },
-    {
-      "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
-      "title": "频道运营实习生",
-      "company": "SHEIN",
-      "city": "南山区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/bcf7fb25-865b-4e2a-b297-546a266322fd",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-01 11:43:08",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-28",
       "is_new": false
     },
     {
@@ -4432,7 +4565,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_2eefcb40-44f2-4624-89b1-21d0b134268f",
@@ -4451,7 +4584,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_be0785b6-36c1-4ae5-936f-62fee60373d0",
@@ -4489,7 +4622,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_564a0061-5ef7-484e-9948-87274eb5ebbc",
@@ -5449,6 +5582,44 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_58_0373cbd0-78d5-4cb5-92a0-fe700bd92f51",
+      "title": "多模态大模型及应用方向——安全方向",
+      "company": "58同城",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/0373cbd0-78d5-4cb5-92a0-fe700bd92f51",
+      "search_keyword": null,
+      "source": "58同城官网",
+      "publish_date": "2026-09-01 17:39:21",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
+    {
+      "id": "moka_58_44ae230b-9ca9-4d86-bc72-5f8611ec9918",
+      "title": "AI产品经理——CRM",
+      "company": "58同城",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/58/150953#/job/44ae230b-9ca9-4d86-bc72-5f8611ec9918",
+      "search_keyword": null,
+      "source": "58同城官网",
+      "publish_date": "2026-09-01 17:39:21",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
     },
     {
       "id": "moka_cambricon_7d8d13db-f884-4e63-bd95-ffcb13a529f0",

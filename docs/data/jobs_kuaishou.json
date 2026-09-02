@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-01 14:42:12",
+  "updated_at": "2026-09-02 14:20:41",
   "job_count": 34,
   "excluded_count": 196,
   "jobs": [
+    {
+      "id": "kuaishou_13318",
+      "title": "平台产品经理-内容安全",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13318",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
+    },
     {
       "id": "kuaishou_13300",
       "title": "游戏文案策划",
@@ -260,25 +279,6 @@
         "全职"
       ],
       "link": "https://campus.kuaishou.cn/#/campus/job-info/13227",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13256",
-      "title": "平台产品经理-AI平台",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13256",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-09 18:03:16",

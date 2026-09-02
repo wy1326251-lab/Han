@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01 14:42:09",
-  "job_count": 9,
+  "updated_at": "2026-09-02 14:20:37",
+  "job_count": 10,
   "excluded_count": 0,
   "jobs": [
     {
@@ -21,6 +21,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "tencent_2094852846817296384",
+      "title": "AI Business Analyst Intern 108039",
+      "company": "腾讯",
+      "city": "帕罗奥多",
+      "industry": "战略与投资",
+      "tags": [
+        "IEG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年09月01日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-02",
+      "is_new": true
     },
     {
       "id": "tencent_2082018298429616128",
