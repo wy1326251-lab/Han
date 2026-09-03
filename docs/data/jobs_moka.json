@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-02 14:23:41",
-  "job_count": 310,
-  "excluded_count": 138,
+  "updated_at": "2026-09-03 14:19:19",
+  "job_count": 321,
+  "excluded_count": 137,
   "jobs": [
     {
       "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
-      "title": "AI 产品实习生",
+      "title": "AI harness 产品实习生",
       "company": "月之暗面(Kimi)",
       "city": null,
       "industry": null,
@@ -15,7 +15,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-09-02 14:01:06",
+      "publish_date": "2026-09-02 21:30:50",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -289,6 +289,25 @@
       "is_new": false
     },
     {
+      "id": "moka_moonshot_5bc8847c-3b26-4c02-ae08-6b490e5a540b",
+      "title": "安全运营支持【实习生】",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5bc8847c-3b26-4c02-ae08-6b490e5a540b",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-09-02 17:37:22",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
       "id": "moka_moonshot_27c2d6cd-e167-4a31-b463-1abbffc6b4a0",
       "title": "Kimi 产品与研究实习生（金融方向）",
       "company": "月之暗面(Kimi)",
@@ -305,7 +324,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
@@ -970,7 +989,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_917dd6f4-ea42-498f-a3d4-722545bd3477",
@@ -989,7 +1008,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_01ee48e6-aac8-4b17-9749-29af5de17fcd",
@@ -1008,7 +1027,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_f9386042-928a-4528-abdf-5b053eae359a",
@@ -1027,7 +1046,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_649b5f68-0a2e-4516-9d33-5887b3236428",
@@ -1046,7 +1065,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_a9c431d7-fe76-4946-9863-abfd7e2bae41",
@@ -1065,7 +1084,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_e879ccb0-21ca-4c30-a5a1-0f24487ae820",
@@ -1084,7 +1103,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_a2eeb736-8112-4e68-9778-956a4f4c8c52",
@@ -1503,6 +1522,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_eda3cdd9-6778-4ddd-95b6-519aca1c9be5",
+      "title": "内容策划运营实习生",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/eda3cdd9-6778-4ddd-95b6-519aca1c9be5",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-08-27 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_9bad2161-d151-4591-8cb8-5ce24818c07e",
@@ -3572,6 +3610,25 @@
       "is_new": false
     },
     {
+      "id": "moka_37_fa7c6826-4170-402a-935b-bdf86fddb363",
+      "title": "系统策划",
+      "company": "三七互娱",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/fa7c6826-4170-402a-935b-bdf86fddb363",
+      "search_keyword": null,
+      "source": "三七互娱官网",
+      "publish_date": "2026-08-13 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
       "id": "moka_37_70c3295f-8e89-46c2-a06d-2fe12dde8f3e",
       "title": "战斗策划",
       "company": "三七互娱",
@@ -3588,6 +3645,25 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "moka_37_64921cfb-1a42-4d86-bd86-919358198850",
+      "title": "数值策划",
+      "company": "三七互娱",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/64921cfb-1a42-4d86-bd86-919358198850",
+      "search_keyword": null,
+      "source": "三七互娱官网",
+      "publish_date": "2026-08-13 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -3714,44 +3790,6 @@
         "全职"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/8e687223-4457-4bc6-bc76-32dd3bdc4627",
-      "search_keyword": null,
-      "source": "三七互娱官网",
-      "publish_date": "2026-08-13 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_37_64921cfb-1a42-4d86-bd86-919358198850",
-      "title": "数值策划",
-      "company": "三七互娱",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/64921cfb-1a42-4d86-bd86-919358198850",
-      "search_keyword": null,
-      "source": "三七互娱官网",
-      "publish_date": "2026-08-13 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_37_fa7c6826-4170-402a-935b-bdf86fddb363",
-      "title": "系统策划",
-      "company": "三七互娱",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/fa7c6826-4170-402a-935b-bdf86fddb363",
       "search_keyword": null,
       "source": "三七互娱官网",
       "publish_date": "2026-08-13 00:00",
@@ -4493,9 +4531,9 @@
     },
     {
       "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
-      "title": "素材运营-27秋招",
+      "title": "素材运营[北京/上海]-27秋招",
       "company": "作业帮",
-      "city": "北京",
+      "city": "上海/北京",
       "industry": null,
       "tags": [
         "全职"
@@ -4641,6 +4679,26 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-31",
+      "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_8c753e1f-1f17-48b8-aa02-767f05ac220f",
+      "title": "27届秋招-产品与用户运营顾问（平台司机部）",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "网约车平台公司",
+      "tags": [
+        "全职",
+        "网约车平台公司"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8c753e1f-1f17-48b8-aa02-767f05ac220f",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-09-03 11:26:35",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-19",
       "is_new": false
     },
     {
@@ -5021,26 +5079,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_8c753e1f-1f17-48b8-aa02-767f05ac220f",
-      "title": "27届秋招-产品与用户运营顾问（平台司机部）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8c753e1f-1f17-48b8-aa02-767f05ac220f",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-01 12:28:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-19",
       "is_new": false
     },
     {
@@ -5584,6 +5622,177 @@
       "is_new": false
     },
     {
+      "id": "moka_tuhu_e004df9e-0e0d-444c-ac47-270092ceb741",
+      "title": "汽车适配数据运营（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/e004df9e-0e0d-444c-ac47-270092ceb741",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 22:29:33",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_75463ba7-598e-4d65-85cf-63a6c81e23df",
+      "title": "物流运营专员（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/75463ba7-598e-4d65-85cf-63a6c81e23df",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 21:55:10",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_0a61be95-4cf0-4c76-b54c-3d3fffe65d9c",
+      "title": "供应链运营（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/0a61be95-4cf0-4c76-b54c-3d3fffe65d9c",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 21:41:25",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_99ece2f3-d8da-40b9-9776-a7daa78b9e2f",
+      "title": "商品策略运营（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/99ece2f3-d8da-40b9-9776-a7daa78b9e2f",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 21:39:27",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_f074ca7c-3537-49d3-b7c1-645360485d93",
+      "title": "B端产品策划（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/f074ca7c-3537-49d3-b7c1-645360485d93",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 21:36:03",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_e6f63e50-bbb7-432b-b512-09b816d72b75",
+      "title": "商家策略运营（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/e6f63e50-bbb7-432b-b512-09b816d72b75",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 21:33:46",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_76eee444-1473-48e3-b58b-6589b91bb0a7",
+      "title": "发展策略运营（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/76eee444-1473-48e3-b58b-6589b91bb0a7",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 21:24:36",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_6c8c380f-09c5-4b37-a6cb-38ccb7d108b2",
+      "title": "产品运营（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/6c8c380f-09c5-4b37-a6cb-38ccb7d108b2",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 20:52:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuhu_38d03052-90a3-4760-a598-e61747a60acc",
+      "title": "产品策划-C端&平台方向（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/38d03052-90a3-4760-a598-e61747a60acc",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-02 20:48:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": true
+    },
+    {
       "id": "moka_58_0373cbd0-78d5-4cb5-92a0-fe700bd92f51",
       "title": "多模态大模型及应用方向——安全方向",
       "company": "58同城",
@@ -5600,7 +5809,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_58_44ae230b-9ca9-4d86-bc72-5f8611ec9918",
@@ -5619,7 +5828,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_cambricon_7d8d13db-f884-4e63-bd95-ffcb13a529f0",
