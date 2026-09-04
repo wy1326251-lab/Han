@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03 14:19:19",
-  "job_count": 321,
-  "excluded_count": 137,
+  "updated_at": "2026-09-04 14:26:16",
+  "job_count": 345,
+  "excluded_count": 139,
   "jobs": [
     {
       "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
@@ -305,7 +305,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_27c2d6cd-e167-4a31-b463-1abbffc6b4a0",
@@ -973,6 +973,25 @@
       "is_new": false
     },
     {
+      "id": "moka_step_38407e0b-85e3-47b8-b8de-e58904f3825e",
+      "title": "AI 产品设计师（实习生）",
+      "company": "阶跃星辰",
+      "city": "北京/上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/38407e0b-85e3-47b8-b8de-e58904f3825e",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
       "id": "moka_step_530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9",
       "title": "27届-品牌营销",
       "company": "阶跃星辰",
@@ -1540,7 +1559,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_9bad2161-d151-4591-8cb8-5ce24818c07e",
@@ -4302,6 +4321,234 @@
       "is_new": false
     },
     {
+      "id": "moka_wps_9ffae243-6a69-474e-80d3-aa8183a9f90c",
+      "title": "管培生（运营方向）-27届管培生专项-北京",
+      "company": "金山办公WPS",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/9ffae243-6a69-474e-80d3-aa8183a9f90c",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_38f336d0-5773-4bc6-901a-a9c131c3b190",
+      "title": "管培生（运营方向）-27届管培生专项-武汉",
+      "company": "金山办公WPS",
+      "city": "武汉",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/38f336d0-5773-4bc6-901a-a9c131c3b190",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_8186ca6b-693b-4033-aa56-0259a8fb2388",
+      "title": "管培生（运营方向）-面向2027届-珠海",
+      "company": "金山办公WPS",
+      "city": "香洲区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/8186ca6b-693b-4033-aa56-0259a8fb2388",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_690364b2-22e9-4f79-8439-9a9dd8a9b629",
+      "title": "政企营销（AI应用专项）-面向2027届-广州",
+      "company": "金山办公WPS",
+      "city": "广州",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/690364b2-22e9-4f79-8439-9a9dd8a9b629",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_18e7ef00-1329-4766-baf0-b9f023c29e8b",
+      "title": "政企营销（AI应用专项）-面向2027届-北京",
+      "company": "金山办公WPS",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/18e7ef00-1329-4766-baf0-b9f023c29e8b",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_586c104c-0404-4ae5-9414-908f905ea819",
+      "title": "政企营销（AI应用专项）-面向2027届-珠海",
+      "company": "金山办公WPS",
+      "city": "香洲区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/586c104c-0404-4ae5-9414-908f905ea819",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_6fe479d6-33ba-4fc3-80aa-6a2fca93a02e",
+      "title": "运营专员（AI应用专项）-面向2027届-广州",
+      "company": "金山办公WPS",
+      "city": "广州",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/6fe479d6-33ba-4fc3-80aa-6a2fca93a02e",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_866ff8e0-96a3-487b-a5e2-ac8a413e7be5",
+      "title": "运营专员（AI应用专项）-面向2027届-武汉",
+      "company": "金山办公WPS",
+      "city": "武汉",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/866ff8e0-96a3-487b-a5e2-ac8a413e7be5",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_da95a98e-cc95-4640-a754-051a2353c9ec",
+      "title": "运营专员（AI应用专项）-面向2027届-珠海",
+      "company": "金山办公WPS",
+      "city": "香洲区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/da95a98e-cc95-4640-a754-051a2353c9ec",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_c5a147c6-e999-4493-8ba5-e1834838872c",
+      "title": "产品经理（AI应用专项）-面向2027届-广州",
+      "company": "金山办公WPS",
+      "city": "广州",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/c5a147c6-e999-4493-8ba5-e1834838872c",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_7e9a946e-71af-4529-a6a9-91b326aef751",
+      "title": "产品经理（AI应用专项）-面向2027届-武汉",
+      "company": "金山办公WPS",
+      "city": "武汉",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/7e9a946e-71af-4529-a6a9-91b326aef751",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_wps_5de1b10f-4260-4f7a-baed-6f0a43f4d415",
+      "title": "产品经理（AI应用专项）-面向2027届-珠海",
+      "company": "金山办公WPS",
+      "city": "香洲区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/5de1b10f-4260-4f7a-baed-6f0a43f4d415",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-03 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
       "id": "moka_wps_f444b514-e4e3-41af-91e0-22014ab88b9e",
       "title": "项目运营实习生",
       "company": "金山办公WPS",
@@ -4493,9 +4740,9 @@
     },
     {
       "id": "moka_zuoyebang_685c7e6b-ae3c-4e38-8bed-5a322a906342",
-      "title": "海外投放（AI业务）-27秋招",
+      "title": "海外投放（AI业务）[北京/上海]-27秋招",
       "company": "作业帮",
-      "city": "北京",
+      "city": "上海/北京",
       "industry": null,
       "tags": [
         "全职"
@@ -4547,6 +4794,215 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_13e71de0-6050-4ccc-bdf4-859872ffb7fc",
+      "title": "安全运营专员（肇庆）-2027届",
+      "company": "SHEIN",
+      "city": "四会",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/13e71de0-6050-4ccc-bdf4-859872ffb7fc",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-04 09:18:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_9219b306-42af-4ac9-9adc-96d9bda906e6",
+      "title": "国际物流运营专员（广州）-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/9219b306-42af-4ac9-9adc-96d9bda906e6",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-04 09:18:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_7af35ecb-612c-4903-a745-9799142d14a5",
+      "title": "平台运营专员（南京）-大促活动策略-2027届",
+      "company": "SHEIN",
+      "city": "雨花台区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/7af35ecb-612c-4903-a745-9799142d14a5",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
+      "title": "商品企划专员（广州）-项目&运营-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
+      "title": "服装质量运营专员（广州）-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_4d5c14bb-5ae4-4fde-adf8-06802c546154",
+      "title": "服装设计师（广州）-童装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
+      "title": "女装设计企划（广州）-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_3e372fdc-8a74-4db3-9b4b-409d08219b43",
+      "title": "产品专员（广州）-AI应用-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/3e372fdc-8a74-4db3-9b4b-409d08219b43",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "title": "服装设计师（广州）-女装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_053dc43c-9f5a-4a78-8147-090b95527fd3",
+      "title": "商家运营专员（深圳）-2027届",
+      "company": "SHEIN",
+      "city": "南山区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/053dc43c-9f5a-4a78-8147-090b95527fd3",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 23:50:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_435d03b4-0338-42cb-8003-309d5c7f1201",
+      "title": "多媒体设计实习生",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/435d03b4-0338-42cb-8003-309d5c7f1201",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-03 15:37:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": true
     },
     {
       "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
@@ -5638,7 +6094,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_75463ba7-598e-4d65-85cf-63a6c81e23df",
@@ -5657,7 +6113,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_0a61be95-4cf0-4c76-b54c-3d3fffe65d9c",
@@ -5676,7 +6132,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_99ece2f3-d8da-40b9-9776-a7daa78b9e2f",
@@ -5695,7 +6151,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_f074ca7c-3537-49d3-b7c1-645360485d93",
@@ -5714,7 +6170,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_e6f63e50-bbb7-432b-b512-09b816d72b75",
@@ -5733,7 +6189,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_76eee444-1473-48e3-b58b-6589b91bb0a7",
@@ -5752,7 +6208,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_6c8c380f-09c5-4b37-a6cb-38ccb7d108b2",
@@ -5771,7 +6227,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_38d03052-90a3-4760-a598-e61747a60acc",
@@ -5790,7 +6246,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_58_0373cbd0-78d5-4cb5-92a0-fe700bd92f51",
