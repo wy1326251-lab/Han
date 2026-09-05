@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04 14:26:16",
-  "job_count": 345,
+  "updated_at": "2026-09-05 14:21:36",
+  "job_count": 348,
   "excluded_count": 139,
   "jobs": [
     {
@@ -287,6 +287,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_moonshot_e6d9887a-bb3c-415e-8e6a-7a0ff13cf202",
+      "title": "AI Agent 产品实习生（Vibe Coding 方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e6d9887a-bb3c-415e-8e6a-7a0ff13cf202",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-09-04 16:18:38",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-05",
+      "is_new": true
     },
     {
       "id": "moka_moonshot_5bc8847c-3b26-4c02-ae08-6b490e5a540b",
@@ -989,7 +1008,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9",
@@ -1541,6 +1560,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_a8105dfa-a845-4e6f-a15d-dc41d7962a50",
+      "title": "漫剧内容制片",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/a8105dfa-a845-4e6f-a15d-dc41d7962a50",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-09-04 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-05",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_eda3cdd9-6778-4ddd-95b6-519aca1c9be5",
@@ -3369,6 +3407,26 @@
       "is_new": false
     },
     {
+      "id": "moka_yoozoo_aa2b49bf-b951-49dc-9286-c07f1ce16241",
+      "title": "游戏策划（AI方向）",
+      "company": "游族网络",
+      "city": null,
+      "industry": "策划",
+      "tags": [
+        "实习",
+        "策划"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/aa2b49bf-b951-49dc-9286-c07f1ce16241",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-08-26 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-05",
+      "is_new": true
+    },
+    {
       "id": "moka_yoozoo_1a1faee8-edf9-4130-a199-c0a521b6ddad",
       "title": "UX设计",
       "company": "游族网络",
@@ -3549,26 +3607,6 @@
       "is_new": false
     },
     {
-      "id": "moka_yoozoo_c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
-      "title": "数值策划",
-      "company": "游族网络",
-      "city": null,
-      "industry": "代号：Ball",
-      "tags": [
-        "实习",
-        "代号：Ball"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-01-29 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_yoozoo_ba9c4774-0891-42a1-b71e-b73c24bc6ef2",
       "title": "界面动效实习生",
       "company": "游族网络",
@@ -3686,6 +3724,25 @@
       "is_new": false
     },
     {
+      "id": "moka_37_a8dfead6-f835-4e58-969c-ac2dd50f401e",
+      "title": "数值策划（北京）",
+      "company": "三七互娱",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/a8dfead6-f835-4e58-969c-ac2dd50f401e",
+      "search_keyword": null,
+      "source": "三七互娱官网",
+      "publish_date": "2026-08-13 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
       "id": "moka_37_d2757859-e0c9-447b-a6cc-01f72f78bb27",
       "title": "系统策划（上海）",
       "company": "三七互娱",
@@ -3771,25 +3828,6 @@
         "全职"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/617dab0a-5fff-467f-a8fd-ab1068a4ae3f",
-      "search_keyword": null,
-      "source": "三七互娱官网",
-      "publish_date": "2026-08-13 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_37_a8dfead6-f835-4e58-969c-ac2dd50f401e",
-      "title": "数值策划（北京）",
-      "company": "三七互娱",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/a8dfead6-f835-4e58-969c-ac2dd50f401e",
       "search_keyword": null,
       "source": "三七互娱官网",
       "publish_date": "2026-08-13 00:00",
@@ -3988,6 +4026,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zlongame_96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
+      "title": "【实习岗】策划见习生",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-09-04 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-05",
+      "is_new": true
     },
     {
       "id": "moka_zlongame_cbae409e-b99b-479e-8fc4-8d26aa5f932f",
@@ -4337,7 +4394,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_38f336d0-5773-4bc6-901a-a9c131c3b190",
@@ -4356,7 +4413,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_8186ca6b-693b-4033-aa56-0259a8fb2388",
@@ -4375,7 +4432,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_690364b2-22e9-4f79-8439-9a9dd8a9b629",
@@ -4394,7 +4451,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_18e7ef00-1329-4766-baf0-b9f023c29e8b",
@@ -4413,7 +4470,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_586c104c-0404-4ae5-9414-908f905ea819",
@@ -4432,7 +4489,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_6fe479d6-33ba-4fc3-80aa-6a2fca93a02e",
@@ -4451,7 +4508,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_866ff8e0-96a3-487b-a5e2-ac8a413e7be5",
@@ -4470,7 +4527,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_da95a98e-cc95-4640-a754-051a2353c9ec",
@@ -4489,7 +4546,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_c5a147c6-e999-4493-8ba5-e1834838872c",
@@ -4508,7 +4565,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_7e9a946e-71af-4529-a6a9-91b326aef751",
@@ -4527,7 +4584,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_5de1b10f-4260-4f7a-baed-6f0a43f4d415",
@@ -4546,7 +4603,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_f444b514-e4e3-41af-91e0-22014ab88b9e",
@@ -4812,7 +4869,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_9219b306-42af-4ac9-9adc-96d9bda906e6",
@@ -4831,7 +4888,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_7af35ecb-612c-4903-a745-9799142d14a5",
@@ -4850,7 +4907,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
@@ -4869,7 +4926,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
@@ -4888,7 +4945,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_4d5c14bb-5ae4-4fde-adf8-06802c546154",
@@ -4907,7 +4964,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
@@ -4926,7 +4983,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_3e372fdc-8a74-4db3-9b4b-409d08219b43",
@@ -4945,7 +5002,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
@@ -4964,7 +5021,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_053dc43c-9f5a-4a78-8147-090b95527fd3",
@@ -4983,7 +5040,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_435d03b4-0338-42cb-8003-309d5c7f1201",
@@ -5002,7 +5059,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_bcf7fb25-865b-4e2a-b297-546a266322fd",
