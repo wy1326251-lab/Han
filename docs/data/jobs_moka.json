@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 14:30:08",
+  "updated_at": "2026-09-07 14:37:12",
   "job_count": 348,
   "excluded_count": 139,
   "jobs": [
@@ -1408,6 +1408,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_tuya_8ee1f44d-d30a-4c21-9c9f-eec4aeebd229",
+      "title": "视觉设计实习生（运营设计方向）",
+      "company": "涂鸦智能",
+      "city": "西湖区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/8ee1f44d-d30a-4c21-9c9f-eec4aeebd229",
+      "search_keyword": null,
+      "source": "涂鸦智能官网",
+      "publish_date": "2026-09-07 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-07",
+      "is_new": true
     },
     {
       "id": "moka_tuya_2cd82b61-428f-46ae-9e74-4db0d14fe5c6",
@@ -4473,25 +4492,6 @@
       "is_new": false
     },
     {
-      "id": "moka_wps_586c104c-0404-4ae5-9414-908f905ea819",
-      "title": "政企营销（AI应用专项）-面向2027届-珠海",
-      "company": "金山办公WPS",
-      "city": "香洲区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/586c104c-0404-4ae5-9414-908f905ea819",
-      "search_keyword": null,
-      "source": "金山办公WPS官网",
-      "publish_date": "2026-09-03 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
       "id": "moka_wps_6fe479d6-33ba-4fc3-80aa-6a2fca93a02e",
       "title": "运营专员（AI应用专项）-面向2027届-广州",
       "company": "金山办公WPS",
@@ -5976,7 +5976,7 @@
     },
     {
       "id": "moka_didiglobal_88aa5d14-8f5b-4da4-ad7c-b51095659549",
-      "title": "27届秋招-AI产品经理 （国际化外卖-广告策略）",
+      "title": "27届秋招-AI产品助理 （国际化外卖-广告策略）",
       "company": "滴滴",
       "city": "北京",
       "industry": "国际化事业部",
