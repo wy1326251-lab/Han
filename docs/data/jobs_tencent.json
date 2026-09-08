@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07 14:34:17",
-  "job_count": 10,
+  "updated_at": "2026-09-08 14:28:16",
+  "job_count": 11,
   "excluded_count": 0,
   "jobs": [
     {
@@ -21,6 +21,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "tencent_2096861077747974144",
+      "title": "AI Video Creator — Intern 108115",
+      "company": "腾讯",
+      "city": "首尔",
+      "industry": "营销与公关",
+      "tags": [
+        "CSIG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/AI-Video-Creator---Intern_R108115",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年09月06日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-08",
+      "is_new": true
     },
     {
       "id": "tencent_2094852846817296384",
