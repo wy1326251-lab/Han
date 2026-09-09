@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08 14:31:26",
-  "job_count": 343,
-  "excluded_count": 139,
+  "updated_at": "2026-09-09 14:32:39",
+  "job_count": 338,
+  "excluded_count": 138,
   "jobs": [
     {
       "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
@@ -992,6 +992,25 @@
       "is_new": false
     },
     {
+      "id": "moka_step_9d83bd6e-aaf2-41eb-a5a1-acdf21e1f691",
+      "title": "27届-AI策略产品经理",
+      "company": "阶跃星辰",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/9d83bd6e-aaf2-41eb-a5a1-acdf21e1f691",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-08 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-09",
+      "is_new": true
+    },
+    {
       "id": "moka_step_38407e0b-85e3-47b8-b8de-e58904f3825e",
       "title": "AI 产品设计师（实习生）",
       "company": "阶跃星辰",
@@ -1426,7 +1445,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-08",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_8ee1f44d-d30a-4c21-9c9f-eec4aeebd229",
@@ -1733,44 +1752,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zhihu_846e0e7e-9519-4523-a3c9-55a500d4a091",
-      "title": "知乎媒体内容运营实习生",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/846e0e7e-9519-4523-a3c9-55a500d4a091",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-05-15 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_e55f7463-dced-4cb0-818c-623169a3bf0a",
-      "title": "产品运营实习生",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/e55f7463-dced-4cb0-818c-623169a3bf0a",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-01-20 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_zhihu_f55965b7-76bb-46c6-b976-1ac1f3ee2277",
       "title": " 产品设计实习生",
       "company": "知乎",
@@ -1802,25 +1783,6 @@
       "search_keyword": null,
       "source": "知乎官网",
       "publish_date": "2026-04-15 00:00",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_b382b29b-e5d7-49aa-98b6-b7f2de8489b7",
-      "title": "交互/UI设计实习生（27届）",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/b382b29b-e5d7-49aa-98b6-b7f2de8489b7",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2025-12-04 00:00",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,
@@ -4359,44 +4321,6 @@
       "is_new": false
     },
     {
-      "id": "moka_wps_9ffae243-6a69-474e-80d3-aa8183a9f90c",
-      "title": "管培生（运营方向）-27届管培生专项-北京",
-      "company": "金山办公WPS",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/9ffae243-6a69-474e-80d3-aa8183a9f90c",
-      "search_keyword": null,
-      "source": "金山办公WPS官网",
-      "publish_date": "2026-09-03 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_wps_38f336d0-5773-4bc6-901a-a9c131c3b190",
-      "title": "管培生（运营方向）-27届管培生专项-武汉",
-      "company": "金山办公WPS",
-      "city": "武汉",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/38f336d0-5773-4bc6-901a-a9c131c3b190",
-      "search_keyword": null,
-      "source": "金山办公WPS官网",
-      "publish_date": "2026-09-03 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
       "id": "moka_wps_8186ca6b-693b-4033-aa56-0259a8fb2388",
       "title": "管培生（运营方向）-面向2027届-珠海",
       "company": "金山办公WPS",
@@ -4816,7 +4740,7 @@
     },
     {
       "id": "moka_shein_6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
-      "title": "商品企划专员（广州）-项目&运营-2027届",
+      "title": "商品企划专员（广州）-品牌&策略运营-2027届",
       "company": "SHEIN",
       "city": "番禺区",
       "industry": null,
@@ -5081,25 +5005,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_2eefcb40-44f2-4624-89b1-21d0b134268f",
-      "title": "内容运营策划实习生（Content Operation & Planning Intern）",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/2eefcb40-44f2-4624-89b1-21d0b134268f",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-31 17:48:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_be0785b6-36c1-4ae5-936f-62fee60373d0",
       "title": "设计实习生",
       "company": "SHEIN",
@@ -5179,7 +5084,7 @@
     },
     {
       "id": "moka_didiglobal_57c820bb-6086-4a95-bfda-24b249123914",
-      "title": "27届秋招-AI产品助理（国际化本地生活方向）",
+      "title": "27届秋招-AI产品助理（国际化外卖本地生活方向）",
       "company": "滴滴",
       "city": "北京",
       "industry": "国际化事业部",
@@ -5195,7 +5100,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-08",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_didiglobal_4e14c6ad-e1e9-4d94-a71e-0d6cd015d1f1",
