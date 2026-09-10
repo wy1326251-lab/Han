@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-09 14:32:39",
-  "job_count": 338,
-  "excluded_count": 138,
+  "updated_at": "2026-09-10 14:33:26",
+  "job_count": 342,
+  "excluded_count": 136,
   "jobs": [
     {
       "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
@@ -992,6 +992,25 @@
       "is_new": false
     },
     {
+      "id": "moka_step_46dcf396-74a1-4f27-9847-71c834352d64",
+      "title": "Agent 评测产品实习生（评测方向）",
+      "company": "阶跃星辰",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/step/94905#/job/46dcf396-74a1-4f27-9847-71c834352d64",
+      "search_keyword": null,
+      "source": "阶跃星辰官网",
+      "publish_date": "2026-09-09 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-10",
+      "is_new": true
+    },
+    {
       "id": "moka_step_9d83bd6e-aaf2-41eb-a5a1-acdf21e1f691",
       "title": "27届-AI策略产品经理",
       "company": "阶跃星辰",
@@ -1008,7 +1027,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_38407e0b-85e3-47b8-b8de-e58904f3825e",
@@ -1560,6 +1579,44 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_3bf1b32a-e80c-4dd2-aa39-a7890b712579",
+      "title": "增长运营",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/3bf1b32a-e80c-4dd2-aa39-a7890b712579",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-09-09 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-10",
+      "is_new": true
+    },
+    {
+      "id": "moka_zhihu_2e27f216-c7fa-4e27-b9b0-a98357f4dcb6",
+      "title": "融合运营",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/2e27f216-c7fa-4e27-b9b0-a98357f4dcb6",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-09-09 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-10",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_a8105dfa-a845-4e6f-a15d-dc41d7962a50",
@@ -3857,25 +3914,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zlongame_cbb021ad-e22b-446f-9ec2-8e869e84345e",
-      "title": "【2027校招】游戏战斗策划（AI Native 方向）",
-      "company": "紫龙游戏",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/cbb021ad-e22b-446f-9ec2-8e869e84345e",
-      "search_keyword": null,
-      "source": "紫龙游戏官网",
-      "publish_date": "2026-07-09 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_zlongame_a1666c3a-c8da-47a7-9fa2-024267453617",
       "title": "【2027校招】游戏原画设计师（角色）",
       "company": "紫龙游戏",
@@ -4739,6 +4777,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_5f22f113-0ca2-41f0-a2a1-54820b831ad6",
+      "title": "电商规则运营专员（南京）-2027届",
+      "company": "SHEIN",
+      "city": "雨花台区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/5f22f113-0ca2-41f0-a2a1-54820b831ad6",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-09 15:29:38",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-10",
+      "is_new": true
+    },
+    {
       "id": "moka_shein_6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
       "title": "商品企划专员（广州）-品牌&策略运营-2027届",
       "company": "SHEIN",
@@ -4832,6 +4889,25 @@
       "is_campus_official": true,
       "first_seen": "2026-09-04",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
+      "title": "供应商管理专员（广州）-营销&KOL运营方向-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-07 19:54:11",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-10",
+      "is_new": true
     },
     {
       "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
