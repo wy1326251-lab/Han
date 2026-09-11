@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-10 14:30:19",
+  "updated_at": "2026-09-11 14:33:09",
   "job_count": 33,
   "excluded_count": 197,
   "jobs": [
+    {
+      "id": "kuaishou_13500",
+      "title": "策略产品经理-大模型数据",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13500",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-12 14:02:10",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
     {
       "id": "kuaishou_13315",
       "title": "内容运营",
@@ -115,25 +134,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13500",
-      "title": "策略产品经理-大模型数据",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13500",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-12 14:02:10",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {

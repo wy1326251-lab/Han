@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10 14:33:26",
-  "job_count": 342,
+  "updated_at": "2026-09-11 14:36:02",
+  "job_count": 341,
   "excluded_count": 136,
   "jobs": [
     {
@@ -1008,7 +1008,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_9d83bd6e-aaf2-41eb-a5a1-acdf21e1f691",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": "moka_agora_181042cb-85df-49ef-a317-4f2a0836a207",
-      "title": "AI 产品经理实习生（对话式 AI / Voice Agent 方向）",
+      "title": "AI产品经理实习生(对话式 AI / Voice Agent 方向)",
       "company": "声网Agora",
       "city": null,
       "industry": "产品部（Product）",
@@ -1579,6 +1579,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_44b6dae6-7c3e-44f7-9079-89ec59028b10",
+      "title": "AI内容运营实习生",
+      "company": "知乎",
+      "city": "深圳",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/44b6dae6-7c3e-44f7-9079-89ec59028b10",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-09-10 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_3bf1b32a-e80c-4dd2-aa39-a7890b712579",
@@ -1597,7 +1616,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_2e27f216-c7fa-4e27-b9b0-a98357f4dcb6",
@@ -1616,7 +1635,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_a8105dfa-a845-4e6f-a15d-dc41d7962a50",
@@ -1861,25 +1880,6 @@
       "publish_date": "2026-05-14 00:00",
       "salary": null,
       "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_30c2c3e1-9f85-4f9f-b657-e85c7bf9110e",
-      "title": "直播实习生",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/30c2c3e1-9f85-4f9f-b657-e85c7bf9110e",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-04-27 00:00",
-      "salary": null,
-      "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
@@ -3895,25 +3895,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zlongame_d566e638-2099-40cc-bd1b-c0e8e4278b0a",
-      "title": "【2027校招】游戏系统策划",
-      "company": "紫龙游戏",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/d566e638-2099-40cc-bd1b-c0e8e4278b0a",
-      "search_keyword": null,
-      "source": "紫龙游戏官网",
-      "publish_date": "2026-07-09 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_zlongame_a1666c3a-c8da-47a7-9fa2-024267453617",
       "title": "【2027校招】游戏原画设计师（角色）",
       "company": "紫龙游戏",
@@ -4085,6 +4066,25 @@
       "is_new": false
     },
     {
+      "id": "moka_kingnet_9d207823-d5c4-4240-be71-d29882b4b05e",
+      "title": "游戏直播运营实习生（欢迎27届同学投递）",
+      "company": "恺英网络",
+      "city": null,
+      "industry": "XY市场部",
+      "tags": [
+        "XY市场部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/kingnet/2246#/job/9d207823-d5c4-4240-be71-d29882b4b05e",
+      "search_keyword": null,
+      "source": "恺英网络官网",
+      "publish_date": "2026-09-10 16:52:23",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "id": "moka_kingnet_58453ac5-fb95-4efd-8a37-c2dbc5271ad6",
       "title": "短视频创意策划（实习）",
       "company": "恺英网络",
@@ -4099,25 +4099,6 @@
       "publish_date": "2026-07-31 16:32:18",
       "salary": null,
       "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_kingnet_280c3fdf-5b13-4ef0-8199-96bcb0e96f17",
-      "title": "游戏直播运营实习生（欢迎27届同学投递）",
-      "company": "恺英网络",
-      "city": null,
-      "industry": "XY市场部",
-      "tags": [
-        "XY市场部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/kingnet/2246#/job/280c3fdf-5b13-4ef0-8199-96bcb0e96f17",
-      "search_keyword": null,
-      "source": "恺英网络官网",
-      "publish_date": "2026-04-02 10:38:47",
-      "salary": null,
-      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
@@ -4793,7 +4774,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
@@ -4907,7 +4888,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",

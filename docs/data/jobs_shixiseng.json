@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-10 14:28:48",
-  "job_count": 296,
-  "excluded_count": 49,
+  "updated_at": "2026-09-11 14:31:40",
+  "job_count": 294,
+  "excluded_count": 48,
   "jobs": [
     {
       "id": "inn_kq9tmprsztqh",
@@ -413,6 +413,28 @@
       "salary": null,
       "first_seen": "2026-09-02",
       "is_new": false
+    },
+    {
+      "id": "inn_rxovgg9z05ma",
+      "title": "新媒体运营",
+      "company": "和光量子",
+      "city": "杭州",
+      "industry": "电子/通信/硬件",
+      "tags": [
+        "周末双休",
+        "实习津贴",
+        "可转正实习",
+        "地铁周边"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_rxovgg9z05ma",
+      "search_keyword": "新媒体运营",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "可转正",
+      "offers_fulltime": true,
+      "salary": "150-200/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_xnscvbuq3csc",
@@ -867,6 +889,49 @@
       "is_new": false
     },
     {
+      "id": "inn_fon9zeky65y9",
+      "title": "视频剪辑实习生",
+      "company": "新东方厦门学校",
+      "city": "厦门",
+      "industry": "教育/培训",
+      "tags": [
+        "实习津贴"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_fon9zeky65y9",
+      "search_keyword": "视频剪辑",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "120-180/天",
+      "first_seen": "2026-09-09",
+      "is_new": false
+    },
+    {
+      "id": "inn_bpfotrdykj2p",
+      "title": "视频剪辑实习生",
+      "company": "曼朗医疗",
+      "city": "上海",
+      "industry": "医疗/健康/制药/生物",
+      "tags": [
+        "接受大一大二",
+        "团队氛围好",
+        "周末双休",
+        "地铁周边",
+        "实习证明",
+        "不加班"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_bpfotrdykj2p",
+      "search_keyword": "视频剪辑",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "150-150/天",
+      "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
       "id": "inn_qswz3dagvdee",
       "title": "视频剪辑实习生",
       "company": "梦虎网络",
@@ -890,23 +955,48 @@
       "is_new": false
     },
     {
-      "id": "inn_fon9zeky65y9",
-      "title": "视频剪辑实习生",
-      "company": "新东方厦门学校",
-      "city": "厦门",
-      "industry": "教育/培训",
+      "id": "inn_ihlyfd7uzybu",
+      "title": "短视频剪辑",
+      "company": "ONENINE19",
+      "city": "上海",
+      "industry": "广告/传媒/公关/展览",
       "tags": [
-        "实习津贴"
+        "可转正实习",
+        "节日福利",
+        "接受大一大二",
+        "远程实习"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_fon9zeky65y9",
+      "link": "https://www.shixiseng.com/intern/inn_ihlyfd7uzybu",
       "search_keyword": "视频剪辑",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
-      "salary": "120-180/天",
-      "first_seen": "2026-09-09",
-      "is_new": false
+      "salary": "150-200/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_ooeroovwcnft",
+      "title": "视频剪辑实习生",
+      "company": "网易有道",
+      "city": "北京",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "餐补",
+        "地铁周边",
+        "免费班车",
+        "实习津贴"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_ooeroovwcnft",
+      "search_keyword": "视频剪辑",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "120-120/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_lkffuld0ra4z",
@@ -949,7 +1039,7 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ka930lg4ml62",
@@ -1030,30 +1120,6 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-09-08",
-      "is_new": false
-    },
-    {
-      "id": "inn_bpfotrdykj2p",
-      "title": "视频剪辑实习生",
-      "company": "曼朗医疗",
-      "city": "上海",
-      "industry": "医疗/健康/制药/生物",
-      "tags": [
-        "接受大一大二",
-        "团队氛围好",
-        "周末双休",
-        "地铁周边",
-        "实习证明",
-        "不加班"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_bpfotrdykj2p",
-      "search_keyword": "视频剪辑",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "150-150/天",
-      "first_seen": "2026-09-01",
       "is_new": false
     },
     {
@@ -1163,53 +1229,6 @@
       "offers_fulltime": false,
       "salary": "150-150/天",
       "first_seen": "2026-09-03",
-      "is_new": false
-    },
-    {
-      "id": "inn_hzaalmqksj7w",
-      "title": "短视频剪辑",
-      "company": "麦克斯出国",
-      "city": "武汉",
-      "industry": "企业服务/咨询",
-      "tags": [
-        "周末双休",
-        "实习津贴",
-        "不加班",
-        "暑期实习",
-        "节日福利",
-        "接受大一大二",
-        "地铁周边"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_hzaalmqksj7w",
-      "search_keyword": "视频剪辑",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "100-200/天",
-      "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "id": "inn_egzwqenag4sm",
-      "title": "视频剪辑拍摄",
-      "company": "途牛旅游网",
-      "city": "南京",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "可转正实习",
-        "暑期实习",
-        "寒假实习",
-        "零基础实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_egzwqenag4sm",
-      "search_keyword": "视频剪辑",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "100-120/天",
-      "first_seen": "2026-08-31",
       "is_new": false
     },
     {
@@ -1815,6 +1834,72 @@
       "is_new": false
     },
     {
+      "id": "inn_xfuc327ky0bl",
+      "title": "直播产品实习生",
+      "company": "小红书",
+      "city": "北京",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "免费三餐",
+        "环境好",
+        "宠物日",
+        "下午茶"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_xfuc327ky0bl",
+      "search_keyword": "直播",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_gbapgbj7izjz",
+      "title": "直播产品实习生",
+      "company": "小红书",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "免费三餐",
+        "环境好",
+        "宠物日",
+        "下午茶"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_gbapgbj7izjz",
+      "search_keyword": "直播",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_ksowituvlhtr",
+      "title": "直播产品实习生",
+      "company": "小红书",
+      "city": "深圳",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "免费三餐",
+        "环境好",
+        "宠物日",
+        "下午茶"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_ksowituvlhtr",
+      "search_keyword": "直播",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "id": "inn_ajngbzfcvzbt",
       "title": "直播中控（实习）",
       "company": "八号地",
@@ -1834,7 +1919,7 @@
       "offers_fulltime": true,
       "salary": "120-180/天",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xc0zuxu36hfv",
@@ -1962,68 +2047,6 @@
       "is_new": false
     },
     {
-      "id": "inn_mxaon8o0knim",
-      "title": "直播运营助理",
-      "company": "Wellbee",
-      "city": "上海",
-      "industry": "广告/传媒/公关/展览",
-      "tags": [
-        "可转正实习",
-        "远程实习",
-        "一对一带教"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_mxaon8o0knim",
-      "search_keyword": "直播",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "80-120/天",
-      "first_seen": "2026-09-05",
-      "is_new": false
-    },
-    {
-      "id": "inn_timk5nu36r3r",
-      "title": "直播运营实习生",
-      "company": "场圈文化",
-      "city": "北京",
-      "industry": "广告/传媒/公关/展览",
-      "tags": [
-        "周末双休",
-        "地铁周边"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_timk5nu36r3r",
-      "search_keyword": "直播",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "200-250/天",
-      "first_seen": "2026-09-06",
-      "is_new": false
-    },
-    {
-      "id": "inn_55vmt4mqi7gg",
-      "title": "直播运营实习生",
-      "company": "新东方",
-      "city": "北京",
-      "industry": "教育/培训",
-      "tags": [
-        "周末双休",
-        "地铁周边",
-        "一对一导师"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_55vmt4mqi7gg",
-      "search_keyword": "直播",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "120-200/天",
-      "first_seen": "2026-09-06",
-      "is_new": false
-    },
-    {
       "id": "inn_9n6yukrnkqcp",
       "title": "内容策划实习生",
       "company": "百度",
@@ -2083,6 +2106,27 @@
       "offers_fulltime": false,
       "salary": "150-200/天",
       "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "inn_lbv4j5afbw6n",
+      "title": "AI及机器人内容策划",
+      "company": "前沿在线",
+      "city": "北京",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "接受大一大二",
+        "一对一导师",
+        "可转正实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_lbv4j5afbw6n",
+      "search_keyword": "AI内容",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "可转正",
+      "offers_fulltime": true,
+      "salary": "80-150/天",
+      "first_seen": "2026-09-11",
       "is_new": true
     },
     {
@@ -2334,23 +2378,28 @@
       "is_new": false
     },
     {
-      "id": "inn_udy7y0vjmvz1",
-      "title": "网易游戏体验与内容策划实习生（星匣专项）",
-      "company": "网易文娱",
-      "city": "杭州",
+      "id": "inn_rqres0tgqqsp",
+      "title": "市场营销内容策划与账号运营实习生",
+      "company": "今日宜休",
+      "city": "北京",
       "industry": "电子/通信/硬件",
       "tags": [
-        "远程实习"
+        "周末双休",
+        "地铁周边",
+        "节日福利",
+        "一对一导师",
+        "不加班",
+        "实习津贴"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_udy7y0vjmvz1",
+      "link": "https://www.shixiseng.com/intern/inn_rqres0tgqqsp",
       "search_keyword": "内容策划",
       "source": "实习僧",
       "publish_date": null,
-      "chance": "面议",
+      "chance": "无转正",
       "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-09-08",
-      "is_new": false
+      "salary": "200-300/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_sq8ao1v0wnkr",
@@ -2372,6 +2421,25 @@
       "offers_fulltime": false,
       "salary": "120-150/天",
       "first_seen": "2026-09-03",
+      "is_new": false
+    },
+    {
+      "id": "inn_udy7y0vjmvz1",
+      "title": "网易游戏体验与内容策划实习生（星匣专项）",
+      "company": "网易文娱",
+      "city": "杭州",
+      "industry": "电子/通信/硬件",
+      "tags": [
+        "远程实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_udy7y0vjmvz1",
+      "search_keyword": "内容策划",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-09-08",
       "is_new": false
     },
     {
@@ -2399,46 +2467,6 @@
       "is_new": false
     },
     {
-      "id": "inn_appieyjzbryt",
-      "title": "网易游戏体验与内容策划实习生（星匣专项）",
-      "company": "网易元气",
-      "city": "杭州",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "零基础实习",
-        "远程实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_appieyjzbryt",
-      "search_keyword": "内容策划",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "inn_of5u6p5pdiqg",
-      "title": "网易星匣项目·游戏策划与内容运营岗（远程实习）",
-      "company": "网易文娱",
-      "city": "杭州",
-      "industry": "电子/通信/硬件",
-      "tags": [
-        "接受大一大二",
-        "远程实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_of5u6p5pdiqg",
-      "search_keyword": "内容策划",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-09-09",
-      "is_new": false
-    },
-    {
       "id": "inn_cmypi6bygzs4",
       "title": "文案",
       "company": "如喜文化传播",
@@ -2459,26 +2487,6 @@
       "is_new": false
     },
     {
-      "id": "inn_07u3lu9jyxqo",
-      "title": "广告创意文案",
-      "company": "上海博报堂",
-      "city": "上海",
-      "industry": "广告/传媒/公关/展览",
-      "tags": [
-        "地铁周边",
-        "周末双休"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_07u3lu9jyxqo",
-      "search_keyword": "文案",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "120-150/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
       "id": "inn_rbxefjzwzcoo",
       "title": "文案实习生",
       "company": "VML",
@@ -2497,6 +2505,26 @@
       "offers_fulltime": true,
       "salary": "120-120/天",
       "first_seen": "2026-09-02",
+      "is_new": false
+    },
+    {
+      "id": "inn_07u3lu9jyxqo",
+      "title": "广告创意文案",
+      "company": "上海博报堂",
+      "city": "上海",
+      "industry": "广告/传媒/公关/展览",
+      "tags": [
+        "地铁周边",
+        "周末双休"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_07u3lu9jyxqo",
+      "search_keyword": "文案",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "120-150/天",
+      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
@@ -2886,6 +2914,28 @@
       "is_new": false
     },
     {
+      "id": "inn_titd69wlikif",
+      "title": "短剧增长实习生",
+      "company": "网易有道",
+      "city": "广州",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "地铁周边",
+        "不加班",
+        "免费班车",
+        "一对一导师"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_titd69wlikif",
+      "search_keyword": "短剧",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "100-120/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "id": "inn_bapx9kecze5o",
       "title": "短剧运营实习生",
       "company": "么么可科技",
@@ -2967,6 +3017,27 @@
       "is_new": false
     },
     {
+      "id": "inn_0vkwgomhodwe",
+      "title": "内容运营（短剧方向）",
+      "company": "如涵文化",
+      "city": "杭州",
+      "industry": "广告/传媒/公关/展览",
+      "tags": [
+        "远程实习",
+        "不加班",
+        "零基础实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_0vkwgomhodwe",
+      "search_keyword": "短剧",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-08-21",
+      "is_new": false
+    },
+    {
       "id": "inn_oofrotacey1h",
       "title": "短剧版权运营实习生",
       "company": "快手",
@@ -2983,7 +3054,7 @@
       "offers_fulltime": false,
       "salary": "180-200/天",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xhfoppta35vb",
@@ -3131,27 +3202,6 @@
       "is_new": false
     },
     {
-      "id": "inn_0vkwgomhodwe",
-      "title": "内容运营（短剧方向）",
-      "company": "如涵文化",
-      "city": "杭州",
-      "industry": "广告/传媒/公关/展览",
-      "tags": [
-        "远程实习",
-        "不加班",
-        "零基础实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_0vkwgomhodwe",
-      "search_keyword": "短剧",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-08-21",
-      "is_new": false
-    },
-    {
       "id": "inn_dtvhtldv7t3j",
       "title": "短剧产品运营实习生",
       "company": "新浪",
@@ -3197,42 +3247,24 @@
       "is_new": false
     },
     {
-      "id": "inn_edxerlyn2xxj",
-      "title": "短剧流量策略产品实习生",
-      "company": "快手",
-      "city": "北京",
-      "industry": "互联网/游戏/软件",
+      "id": "inn_pugr0p3zablm",
+      "title": "短剧视频创意剪辑实习生",
+      "company": "极欧有娱",
+      "city": "上海",
+      "industry": "企业服务/咨询",
       "tags": [
-        "餐补"
+        "地铁周边",
+        "可转正实习"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_edxerlyn2xxj",
+      "link": "https://www.shixiseng.com/intern/inn_pugr0p3zablm",
       "search_keyword": "短剧",
       "source": "实习僧",
       "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "200-250/天",
-      "first_seen": "2026-09-10",
+      "chance": "可转正",
+      "offers_fulltime": true,
+      "salary": "120-150/天",
+      "first_seen": "2026-09-11",
       "is_new": true
-    },
-    {
-      "id": "inn_s0vhrz5rudtt",
-      "title": "短剧流量策略产品实习生",
-      "company": "快手",
-      "city": "北京",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "免费班车"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_s0vhrz5rudtt",
-      "search_keyword": "短剧",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "180-250/天",
-      "first_seen": "2026-09-04",
-      "is_new": false
     },
     {
       "id": "inn_3idz4epkxj8e",
@@ -3520,148 +3552,153 @@
       "is_new": false
     },
     {
-      "id": "inn_zxvcidp82svh",
+      "id": "inn_xkirxruihytz",
+      "title": "AI产品运营",
+      "company": "芒果TV",
+      "city": "长沙",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "地铁周边",
+        "周末双休",
+        "接受大一大二"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_xkirxruihytz",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "无转正",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_vxnfq12oo4kq",
+      "title": "AI产品实习生",
+      "company": "SEEL",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "地铁周边",
+        "节日福利",
+        "一对一导师",
+        "周末双休",
+        "实习津贴",
+        "餐补"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_vxnfq12oo4kq",
+      "search_keyword": "AI产品",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-400/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_jndgon0mftqe",
       "title": "Ai应用开发",
       "company": "麦穗科技",
       "city": "北京",
       "industry": "电子/通信/硬件",
       "tags": [
-        "留学生实习",
-        "餐补",
-        "免费班车"
+        "节日福利",
+        "远程实习",
+        "留学生实习"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_zxvcidp82svh",
+      "link": "https://www.shixiseng.com/intern/inn_jndgon0mftqe",
       "search_keyword": "AI",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
       "salary": "300-500/天",
-      "first_seen": "2026-09-10",
+      "first_seen": "2026-09-11",
       "is_new": true
     },
     {
-      "id": "inn_m2nfrtqdi0rf",
+      "id": "inn_x6e3gynwcmo9",
+      "title": "Ai应用开发",
+      "company": "阿里巴巴",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "地铁周边",
+        "零基础实习",
+        "免费班车"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_x6e3gynwcmo9",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-500/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_1vvf50kb9pvl",
+      "title": "Ai应用开发",
+      "company": "得物",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "远程实习",
+        "实习津贴",
+        "不加班"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_1vvf50kb9pvl",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-500/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_8qhtjncsoc5i",
+      "title": "Ai应用开发",
+      "company": "长擎软件",
+      "city": "北京",
+      "industry": "电子/通信/硬件",
+      "tags": [
+        "可转正实习",
+        "周末双休",
+        "留学生实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_8qhtjncsoc5i",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-500/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_yqmlxqzvb0hq",
       "title": "Ai应用开发",
       "company": "木联能软件",
       "city": "上海",
       "industry": "电子/通信/硬件",
       "tags": [
-        "实习津贴",
-        "可转正实习",
-        "远程实习"
+        "远程实习",
+        "留学生实习",
+        "地铁周边"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_m2nfrtqdi0rf",
+      "link": "https://www.shixiseng.com/intern/inn_yqmlxqzvb0hq",
       "search_keyword": "AI",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
       "salary": "300-500/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
-      "id": "inn_qdgjrt34ih7z",
-      "title": "Ai应用开发",
-      "company": "荷叶健康",
-      "city": "北京",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "餐补",
-        "节日福利"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_qdgjrt34ih7z",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "300-500/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
-      "id": "inn_oisnimwogv8q",
-      "title": "Ai应用开发",
-      "company": "洞悉网络",
-      "city": "北京",
-      "industry": "电子/通信/硬件",
-      "tags": [
-        "暑期实习",
-        "可转正实习",
-        "周末双休"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_oisnimwogv8q",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "300-500/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
-      "id": "inn_bhsfjq1jhsrj",
-      "title": "Ai应用开发",
-      "company": "信投智联科技",
-      "city": "广州",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "节日福利",
-        "留学生实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_bhsfjq1jhsrj",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "300-500/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
-      "id": "inn_au3xss1shqy5",
-      "title": "Ai应用开发",
-      "company": "渡口网络科技",
-      "city": "上海",
-      "industry": "电子/通信/硬件",
-      "tags": [
-        "不打卡",
-        "免费班车",
-        "留学生实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_au3xss1shqy5",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "300-500/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
-      "id": "inn_0b31r8df0tdg",
-      "title": "AI运营实习生",
-      "company": "网易",
-      "city": "北京",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "免费班车",
-        "免费三餐",
-        "周末双休"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_0b31r8df0tdg",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "100-120/天",
-      "first_seen": "2026-09-10",
+      "first_seen": "2026-09-11",
       "is_new": true
     },
     {
@@ -3763,49 +3800,6 @@
       "offers_fulltime": true,
       "salary": "100-120/天",
       "first_seen": "2026-09-02",
-      "is_new": false
-    },
-    {
-      "id": "inn_t2ozaccg1dod",
-      "title": "AIGC产学研顾问",
-      "company": "芒果TV",
-      "city": "长沙",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "一对一导师",
-        "地铁周边",
-        "不加班"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_t2ozaccg1dod",
-      "search_keyword": "AIGC",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "无转正",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-09-08",
-      "is_new": false
-    },
-    {
-      "id": "inn_iommv9woumsx",
-      "title": "AIGC互动编剧",
-      "company": "芒果TV",
-      "city": "长沙",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "周末双休",
-        "地铁周边",
-        "一对一导师",
-        "接受大一大二"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_iommv9woumsx",
-      "search_keyword": "AIGC",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "无转正",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-09-07",
       "is_new": false
     },
     {
@@ -4032,6 +4026,45 @@
       "is_new": false
     },
     {
+      "id": "inn_hwysgx5afgms",
+      "title": "AIGC 产品实习生",
+      "company": "百度",
+      "city": "北京",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "餐补",
+        "节日福利"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_hwysgx5afgms",
+      "search_keyword": "AIGC",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "200-300/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
+      "id": "inn_gu8ousznmff6",
+      "title": "AIGC专项运营(J104546)",
+      "company": "百度",
+      "city": "北京",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "免费班车下午茶"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_gu8ousznmff6",
+      "search_keyword": "AIGC",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "120-200/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "id": "inn_fgv3ezflwc7u",
       "title": "人工智能实习培训生",
       "company": "数游文化",
@@ -4206,10 +4239,10 @@
       "is_new": false
     },
     {
-      "id": "inn_iiixr7yegfup",
+      "id": "inn_hywms0x086qs",
       "title": "大模型应用开发（可转正）",
       "company": "艾思克瑞",
-      "city": "北京",
+      "city": "杭州",
       "industry": "互联网/游戏/软件",
       "tags": [
         "一对一导师",
@@ -4218,15 +4251,15 @@
         "实习津贴",
         "不加班"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_iiixr7yegfup",
+      "link": "https://www.shixiseng.com/intern/inn_hywms0x086qs",
       "search_keyword": "人工智能",
       "source": "实习僧",
       "publish_date": null,
       "chance": "可转正",
       "offers_fulltime": true,
       "salary": "200-400/天",
-      "first_seen": "2026-09-08",
-      "is_new": false
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_cc7kldky3bua",
@@ -4266,6 +4299,34 @@
       "salary": "300-500/天",
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "inn_ts81k7zmqqkt",
+      "title": "AI innovation program Intern",
+      "company": "安联贸易（原 裕利安怡）",
+      "city": "上海",
+      "industry": "金融/经济/投资/财会",
+      "tags": [
+        "实习津贴",
+        "周末双休",
+        "世界500强",
+        "跨部门深度合作",
+        "可沉淀的 AI 项目",
+        "面向多专业背景",
+        "成长型项目环境",
+        "RealAIBuilding",
+        "CrossTeamWork",
+        "PortfolioReady"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_ts81k7zmqqkt",
+      "search_keyword": "人工智能",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "150-150/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_k6qyvux09rpg",
@@ -4328,25 +4389,30 @@
       "is_new": false
     },
     {
-      "id": "inn_itbphd7f21el",
-      "title": "大模型评测实习生",
-      "company": "百度",
-      "city": "北京",
+      "id": "inn_sradbrcxr3ac",
+      "title": "多模态数据标注师",
+      "company": "游族网络",
+      "city": "上海",
       "industry": "互联网/游戏/软件",
       "tags": [
-        "餐补",
-        "周末双休",
-        "节日福利"
+        "接受大一大二",
+        "不加班",
+        "零基础实习",
+        "暑期实习",
+        "游戏",
+        "交大合作",
+        "AI",
+        "可转正实习"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_itbphd7f21el",
-      "search_keyword": "大模型",
+      "link": "https://www.shixiseng.com/intern/inn_sradbrcxr3ac",
+      "search_keyword": "数据标注",
       "source": "实习僧",
       "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "200-250/天",
-      "first_seen": "2026-08-31",
-      "is_new": false
+      "chance": "可转正",
+      "offers_fulltime": true,
+      "salary": "250-400/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_3ajnq0kmynrx",
@@ -4449,28 +4515,6 @@
       "salary": "300-450/天",
       "first_seen": "2026-08-26",
       "is_new": false
-    },
-    {
-      "id": "inn_he8vujh0ht56",
-      "title": "NLP/多模态/大模型 实习生",
-      "company": "小红书",
-      "city": "上海",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "免费三餐",
-        "环境好",
-        "宠物日",
-        "下午茶"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_he8vujh0ht56",
-      "search_keyword": "多模态",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-09-10",
-      "is_new": true
     },
     {
       "id": "inn_ov3e1acnvc7b",
@@ -4633,30 +4677,6 @@
       "salary": "100-120/天",
       "first_seen": "2026-08-14",
       "is_new": false
-    },
-    {
-      "id": "inn_0kl6clpq01xz",
-      "title": "AI视频制作（远程实习）",
-      "company": "申米",
-      "city": "成都",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "接受大一大二",
-        "远程实习",
-        "零基础实习",
-        "不加班",
-        "一对一导师",
-        "不打卡"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_0kl6clpq01xz",
-      "search_keyword": "AI视频",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": null,
-      "first_seen": "2026-09-10",
-      "is_new": true
     },
     {
       "id": "inn_tqbwa5krjy1c",
@@ -4878,7 +4898,7 @@
       "offers_fulltime": true,
       "salary": "120-180/天",
       "first_seen": "2026-09-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_r4dpbutgs1qv",
@@ -4898,6 +4918,27 @@
       "salary": "150-300/天",
       "first_seen": "2026-09-09",
       "is_new": false
+    },
+    {
+      "id": "inn_zvabzyzoukwa",
+      "title": "儿童AI动画视频制作实习生",
+      "company": "TCL实业",
+      "city": "深圳",
+      "industry": "电子/通信/硬件",
+      "tags": [
+        "可转正实习",
+        "免费班车",
+        "节日福利"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_zvabzyzoukwa",
+      "search_keyword": "AI视频",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "200-250/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
     },
     {
       "id": "inn_guc2hvjl59ik",
@@ -5229,30 +5270,6 @@
       "is_new": false
     },
     {
-      "id": "inn_j96mfw1gzaxc",
-      "title": "AI内容运营实习生（内部工具）",
-      "company": "西山居",
-      "city": "珠海",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "一对一导师",
-        "周末双休",
-        "免费班车",
-        "免费住宿",
-        "餐补下午茶",
-        "海景办公"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_j96mfw1gzaxc",
-      "search_keyword": "AI内容",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "150-200/天",
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
       "id": "inn_jem097e8yksq",
       "title": "AI产品实习生",
       "company": "百度",
@@ -5452,6 +5469,29 @@
       "is_new": false
     },
     {
+      "id": "inn_zfrpcsu8cncj",
+      "title": "AI产品实习生-TikTok",
+      "company": "字节跳动",
+      "city": "上海",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "健身瑜伽",
+        "团队氛围好",
+        "大牛带队",
+        "免费三餐",
+        "租房补贴"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_zfrpcsu8cncj",
+      "search_keyword": "AI产品",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "500-500/天",
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "id": "inn_fkqvkqaqsnnw",
       "title": "ai产品实习生",
       "company": "革格科技",
@@ -5619,45 +5659,6 @@
       "salary": null,
       "first_seen": "2026-08-31",
       "is_new": false
-    },
-    {
-      "id": "inn_9vsrhqny3ffl",
-      "title": "AI产品经理-产品研究",
-      "company": "代码一行",
-      "city": "上海",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "可转正实习",
-        "留学生实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_9vsrhqny3ffl",
-      "search_keyword": "AI产品",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "200-250/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
-    },
-    {
-      "id": "inn_9ye80z8hlhpl",
-      "title": "产品经理实习生（AI产品）",
-      "company": "OPPO",
-      "city": "深圳",
-      "industry": "电子/通信/硬件",
-      "tags": [
-        "地铁周边"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_9ye80z8hlhpl",
-      "search_keyword": "AI产品",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "150-250/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
     },
     {
       "id": "inn_e3biyn8ztwlm",
@@ -6129,6 +6130,27 @@
       "is_new": false
     },
     {
+      "id": "inn_1cayqqltshfm",
+      "title": "临床医学数据标注实习生",
+      "company": "广西睿医科技",
+      "city": "上海",
+      "industry": "医疗/健康/制药/生物",
+      "tags": [
+        "周末双休",
+        "不打卡",
+        "远程实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_1cayqqltshfm",
+      "search_keyword": "数据标注",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": null,
+      "first_seen": "2026-09-11",
+      "is_new": true
+    },
+    {
       "id": "inn_3nt36qauwwt7",
       "title": "数据采集和标注实习生",
       "company": "Swie Robotics",
@@ -6168,50 +6190,6 @@
       "salary": "120-200/天",
       "first_seen": "2026-08-30",
       "is_new": false
-    },
-    {
-      "id": "inn_dame0hfdo0lz",
-      "title": "数据标注/AI训练师",
-      "company": "临凡霏科技有限公司",
-      "city": "济南",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "接受大一大二",
-        "周末双休",
-        "可转正实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_dame0hfdo0lz",
-      "search_keyword": "数据标注",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "180-250/天",
-      "first_seen": "2026-09-09",
-      "is_new": false
-    },
-    {
-      "id": "inn_lc2op1yfr1tc",
-      "title": "智驾数据标注实习生",
-      "company": "拓维数智",
-      "city": "中山",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "周末双休",
-        "可转正实习",
-        "朝9晚6",
-        "有培训补贴",
-        "有提成多劳多得"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_lc2op1yfr1tc",
-      "search_keyword": "数据标注",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "可转正",
-      "offers_fulltime": true,
-      "salary": "100-200/天",
-      "first_seen": "2026-09-10",
-      "is_new": true
     }
   ]
 }
