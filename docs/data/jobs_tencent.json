@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11 14:33:05",
-  "job_count": 10,
+  "updated_at": "2026-09-12 14:17:47",
+  "job_count": 9,
   "excluded_count": 0,
   "jobs": [
     {
@@ -89,25 +89,6 @@
         "WXG"
       ],
       "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data---AI-Analytics-Intern_R107767",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年07月09日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2061649053032296448",
-      "title": "Junior AI Software Engineer 107553",
-      "company": "腾讯",
-      "city": "新加坡",
-      "industry": "技术",
-      "tags": [
-        "Overseas Functional System"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Junior-Site-Reliability-Engineer_R107553",
       "search_keyword": "AI",
       "source": "腾讯招聘",
       "publish_date": "2026年07月09日",
