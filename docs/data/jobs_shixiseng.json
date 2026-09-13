@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 14:16:28",
+  "updated_at": "2026-09-13 14:42:33",
   "job_count": 294,
   "excluded_count": 52,
   "jobs": [
@@ -322,7 +322,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_gazvw5hk2q2a",
@@ -2211,7 +2211,7 @@
       "is_new": false
     },
     {
-      "id": "inn_sazrvfwtvg1i",
+      "id": "inn_dtbajl4glnrj",
       "title": "精品内容策划（远程实习）",
       "company": "申米",
       "city": "重庆",
@@ -2225,14 +2225,14 @@
         "不加班",
         "零基础实习"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_sazrvfwtvg1i",
+      "link": "https://www.shixiseng.com/intern/inn_dtbajl4glnrj",
       "search_keyword": "内容策划",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
       "salary": null,
-      "first_seen": "2026-09-12",
+      "first_seen": "2026-09-13",
       "is_new": true
     },
     {
@@ -2282,7 +2282,7 @@
       "is_new": false
     },
     {
-      "id": "inn_fgzww4tntwub",
+      "id": "inn_nxaiczsesmcf",
       "title": "内容策划实训生（远程实习）",
       "company": "申米",
       "city": "深圳",
@@ -2295,14 +2295,14 @@
         "一对一导师",
         "不打卡"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_fgzww4tntwub",
+      "link": "https://www.shixiseng.com/intern/inn_nxaiczsesmcf",
       "search_keyword": "内容策划",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
       "salary": null,
-      "first_seen": "2026-09-12",
+      "first_seen": "2026-09-13",
       "is_new": true
     },
     {
@@ -3102,11 +3102,11 @@
       "search_keyword": "短剧",
       "source": "实习僧",
       "publish_date": null,
-      "chance": "无转正",
+      "chance": "面议",
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_ukfu0xxngt0e",
@@ -3588,7 +3588,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_xkirxruihytz",
@@ -3636,86 +3636,87 @@
       "is_new": false
     },
     {
-      "id": "inn_ctgoa7feknfw",
+      "id": "inn_mcmy2mudirg9",
       "title": "Ai应用开发",
-      "company": "麦穗科技",
+      "company": "腾讯",
       "city": "北京",
-      "industry": "电子/通信/硬件",
+      "industry": "互联网/游戏/软件",
       "tags": [
         "实习津贴",
-        "零基础实习",
-        "远程实习"
+        "远程实习",
+        "餐补"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_ctgoa7feknfw",
+      "link": "https://www.shixiseng.com/intern/inn_mcmy2mudirg9",
       "search_keyword": "AI",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
       "salary": "300-500/天",
-      "first_seen": "2026-09-12",
+      "first_seen": "2026-09-13",
       "is_new": true
     },
     {
-      "id": "inn_xwykhtqomv4m",
+      "id": "inn_d4r64bjdwjss",
       "title": "Ai应用开发",
-      "company": "阿里巴巴",
-      "city": "上海",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "餐补",
-        "免费班车",
-        "远程实习"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_xwykhtqomv4m",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "400-800/天",
-      "first_seen": "2026-09-12",
-      "is_new": true
-    },
-    {
-      "id": "inn_drgupbwavddl",
-      "title": "Ai应用开发",
-      "company": "得物",
-      "city": "上海",
-      "industry": "互联网/游戏/软件",
-      "tags": [
-        "留学生实习",
-        "节日福利",
-        "实习津贴"
-      ],
-      "link": "https://www.shixiseng.com/intern/inn_drgupbwavddl",
-      "search_keyword": "AI",
-      "source": "实习僧",
-      "publish_date": null,
-      "chance": "面议",
-      "offers_fulltime": false,
-      "salary": "300-500/天",
-      "first_seen": "2026-09-12",
-      "is_new": true
-    },
-    {
-      "id": "inn_isoxgsobzkms",
-      "title": "Ai应用开发",
-      "company": "长擎软件",
+      "company": "飞书",
       "city": "北京",
-      "industry": "电子/通信/硬件",
+      "industry": "互联网/游戏/软件",
       "tags": [
         "远程实习",
-        "暑期实习"
+        "可转正实习",
+        "地铁周边"
       ],
-      "link": "https://www.shixiseng.com/intern/inn_isoxgsobzkms",
+      "link": "https://www.shixiseng.com/intern/inn_d4r64bjdwjss",
       "search_keyword": "AI",
       "source": "实习僧",
       "publish_date": null,
       "chance": "面议",
       "offers_fulltime": false,
       "salary": "300-500/天",
-      "first_seen": "2026-09-12",
+      "first_seen": "2026-09-13",
+      "is_new": true
+    },
+    {
+      "id": "inn_kshhg6ybc7c8",
+      "title": "Ai应用开发",
+      "company": "浙江华为",
+      "city": "杭州",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "免费班车",
+        "节日福利",
+        "留学生实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_kshhg6ybc7c8",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-500/天",
+      "first_seen": "2026-09-13",
+      "is_new": true
+    },
+    {
+      "id": "inn_qnfdcfagpbkx",
+      "title": "Ai应用开发",
+      "company": "小米智能科技",
+      "city": "北京",
+      "industry": "互联网/游戏/软件",
+      "tags": [
+        "实习津贴",
+        "免费班车",
+        "留学生实习"
+      ],
+      "link": "https://www.shixiseng.com/intern/inn_qnfdcfagpbkx",
+      "search_keyword": "AI",
+      "source": "实习僧",
+      "publish_date": null,
+      "chance": "面议",
+      "offers_fulltime": false,
+      "salary": "300-500/天",
+      "first_seen": "2026-09-13",
       "is_new": true
     },
     {
@@ -4853,7 +4854,7 @@
       "offers_fulltime": true,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_qs4ovxyugqsu",
@@ -5007,7 +5008,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_nn3r3gveo62a",
@@ -5030,7 +5031,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_wuirscp2ifzb",
@@ -5052,7 +5053,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_udg6iefaradb",
@@ -5075,7 +5076,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_jovyruuuoit6",
@@ -5098,7 +5099,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_4j7kgqy2oomm",
@@ -5121,7 +5122,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_npfkhrgfm3jt",
@@ -5144,7 +5145,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_oggrflmytsqc",
@@ -5167,7 +5168,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_1w8nw4r9bbsl",
@@ -5190,7 +5191,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_o9j2qwbmqoel",
@@ -5213,7 +5214,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_cmfivtzed1xa",
@@ -5235,7 +5236,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_uuvlqs8e3ayg",
@@ -5258,7 +5259,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_wkz52brfq9pf",
@@ -5281,7 +5282,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_bohs4cqdwv2s",
@@ -5304,7 +5305,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_5zl98e2qpv00",
@@ -5327,7 +5328,7 @@
       "offers_fulltime": false,
       "salary": null,
       "first_seen": "2026-09-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "inn_jem097e8yksq",
