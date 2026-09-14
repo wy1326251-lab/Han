@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-13 14:47:06",
-  "job_count": 337,
-  "excluded_count": 136,
+  "updated_at": "2026-09-14 14:54:26",
+  "job_count": 338,
+  "excluded_count": 135,
   "jobs": [
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
@@ -4737,6 +4737,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-28",
       "is_new": false
+    },
+    {
+      "id": "moka_zuoyebang_f02e7e11-0a1d-486b-a57a-0220e4849c58",
+      "title": "AI产品经理（硬件业务）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/f02e7e11-0a1d-486b-a57a-0220e4849c58",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-08-10 10:10:37",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-14",
+      "is_new": true
     },
     {
       "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
