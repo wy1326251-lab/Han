@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14 14:54:26",
-  "job_count": 338,
+  "updated_at": "2026-09-15 14:40:00",
+  "job_count": 335,
   "excluded_count": 135,
   "jobs": [
     {
@@ -1847,25 +1847,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zhihu_60a891ad-a58e-4900-be74-741c992e316b",
-      "title": "商业客户运营实习生（27届）",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/60a891ad-a58e-4900-be74-741c992e316b",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-04-15 00:00",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_zhihu_938ed6bd-3682-4dd1-9e77-351a753ffe55",
       "title": "商业营销策划实习生-华南（27届）",
       "company": "知乎",
@@ -3280,26 +3261,6 @@
       "search_keyword": null,
       "source": "鹰角网络官网",
       "publish_date": "2026-07-29 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_shengqu_176e046e-6c81-42ca-958d-0296b9b3b5d8",
-      "title": "2027届秋招-系统策划（饥荒）",
-      "company": "盛趣游戏",
-      "city": "上海",
-      "industry": "盛趣游戏",
-      "tags": [
-        "全职",
-        "盛趣游戏"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/176e046e-6c81-42ca-958d-0296b9b3b5d8",
-      "search_keyword": null,
-      "source": "盛趣游戏官网",
-      "publish_date": "2026-08-07 18:12:33",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4755,7 +4716,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
@@ -4919,25 +4880,6 @@
         "全职"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_3e372fdc-8a74-4db3-9b4b-409d08219b43",
-      "title": "产品专员（广州）-AI应用-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/3e372fdc-8a74-4db3-9b4b-409d08219b43",
       "search_keyword": null,
       "source": "SHEIN官网",
       "publish_date": "2026-09-07 19:54:11",
@@ -6416,25 +6358,6 @@
       "is_new": false
     },
     {
-      "id": "moka_tap4fun_fadc0c57-4f6f-41a5-aecf-8fc71370d324",
-      "title": "2027届游戏策划运营实习生",
-      "company": "指尖悦动",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tap4fun/291#/job/fadc0c57-4f6f-41a5-aecf-8fc71370d324",
-      "search_keyword": null,
-      "source": "指尖悦动官网",
-      "publish_date": "2026-07-09 00:00",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
       "id": "moka_tap4fun_d594603b-89c1-4748-81ad-f2bc55678550",
       "title": "TapArt新芽计划-游戏美术训练生（2D综合方向）",
       "company": "指尖悦动",
@@ -6470,6 +6393,25 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-15",
+      "is_new": false
+    },
+    {
+      "id": "moka_tap4fun_fadc0c57-4f6f-41a5-aecf-8fc71370d324",
+      "title": "2027届游戏策划运营实习生",
+      "company": "指尖悦动",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tap4fun/291#/job/fadc0c57-4f6f-41a5-aecf-8fc71370d324",
+      "search_keyword": null,
+      "source": "指尖悦动官网",
+      "publish_date": "2026-07-09 00:00",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
       "is_new": false
     },
     {

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14 14:51:19",
-  "job_count": 9,
+  "updated_at": "2026-09-15 14:36:18",
+  "job_count": 8,
   "excluded_count": 0,
   "jobs": [
     {
@@ -130,25 +130,6 @@
       "search_keyword": "AI",
       "source": "腾讯招聘",
       "publish_date": "2026年08月05日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2062147329208791040",
-      "title": "AI Product Engineer Intern — Game Development 107621",
-      "company": "腾讯",
-      "city": "阿姆斯特丹",
-      "industry": "产品",
-      "tags": [
-        "IEG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Product-Engineer-Intern---Game-Development_R107621-1",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年06月03日",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
