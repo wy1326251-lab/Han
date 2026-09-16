@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-15 14:40:00",
-  "job_count": 335,
-  "excluded_count": 135,
+  "updated_at": "2026-09-16 14:38:22",
+  "job_count": 338,
+  "excluded_count": 132,
   "jobs": [
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
@@ -1446,6 +1446,44 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_tuya_ac9837a7-b19c-4a61-9d50-daa727531b0e",
+      "title": "AI开发实习生（2027届）",
+      "company": "涂鸦智能",
+      "city": "西湖区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/ac9837a7-b19c-4a61-9d50-daa727531b0e",
+      "search_keyword": null,
+      "source": "涂鸦智能官网",
+      "publish_date": "2026-08-10 00:00",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "moka_tuya_f901216d-dbde-41b8-8a25-5092902ed46c",
+      "title": "视觉设计实习生（品牌方向）",
+      "company": "涂鸦智能",
+      "city": "西湖区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/f901216d-dbde-41b8-8a25-5092902ed46c",
+      "search_keyword": null,
+      "source": "涂鸦智能官网",
+      "publish_date": "2026-09-04 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-16",
+      "is_new": true
     },
     {
       "id": "moka_tuya_95e478ab-4cf1-45c0-bb29-6ff278c06e59",
@@ -3951,6 +3989,44 @@
       "is_new": false
     },
     {
+      "id": "moka_zlongame_9515e7a4-996f-437e-a5b3-f8dc3d4de590",
+      "title": "【2027校招】游戏关卡策划（天地劫）",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/9515e7a4-996f-437e-a5b3-f8dc3d4de590",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-09-16 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
+      "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
+      "title": "【2027校招】游戏战斗策划（钢岚）",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/c21728d2-767f-4643-9311-590739368f66",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-09-15 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-16",
+      "is_new": true
+    },
+    {
       "id": "moka_zlongame_96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
       "title": "【实习岗】策划见习生",
       "company": "紫龙游戏",
@@ -4738,6 +4814,101 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_9219b306-42af-4ac9-9adc-96d9bda906e6",
+      "title": "国际物流运营专员（广州）-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/9219b306-42af-4ac9-9adc-96d9bda906e6",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-16 13:36:43",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
+      "title": "服装质量运营专员（广州）-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-16 13:36:43",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_4d5c14bb-5ae4-4fde-adf8-06802c546154",
+      "title": "服装设计师（广州）-童装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-16 13:36:43",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
+      "title": "女装设计企划（广州）-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-16 13:36:43",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "title": "服装设计师（广州）-女装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-16 13:36:43",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
       "id": "moka_shein_5f22f113-0ca2-41f0-a2a1-54820b831ad6",
       "title": "电商规则运营专员（南京）-2027届",
       "company": "SHEIN",
@@ -4795,63 +4966,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_9219b306-42af-4ac9-9adc-96d9bda906e6",
-      "title": "国际物流运营专员（广州）-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/9219b306-42af-4ac9-9adc-96d9bda906e6",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
-      "title": "服装质量运营专员（广州）-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_4d5c14bb-5ae4-4fde-adf8-06802c546154",
-      "title": "服装设计师（广州）-童装-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
       "title": "供应商管理专员（广州）-营销&KOL运营方向-2027届",
       "company": "SHEIN",
@@ -4868,44 +4982,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
-      "title": "女装设计企划（广州）-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
-      "title": "服装设计师（广州）-女装-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
       "is_new": false
     },
     {
@@ -4928,23 +5004,23 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_053dc43c-9f5a-4a78-8147-090b95527fd3",
-      "title": "商家运营专员（深圳）-2027届",
+      "id": "moka_shein_bf64a736-8552-4d38-8bac-b97ec7b0ec45",
+      "title": "品牌中台实习生",
       "company": "SHEIN",
-      "city": "南山区",
+      "city": "雨花台区",
       "industry": null,
       "tags": [
-        "全职"
+        "实习"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/053dc43c-9f5a-4a78-8147-090b95527fd3",
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/bf64a736-8552-4d38-8bac-b97ec7b0ec45",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-09-03 23:50:41",
+      "publish_date": "2026-09-15 20:37:14",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
+      "first_seen": "2026-09-16",
+      "is_new": true
     },
     {
       "id": "moka_shein_3faefdf1-0938-47ed-bb4a-fab224b20ff2",
@@ -5635,26 +5711,6 @@
         "用户平台部"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/24b7aabb-5714-4d34-8cb5-b1f48c10f545",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_317b9094-c81e-434f-ae89-7633d117c28d",
-      "title": "27届秋招-产品助理（国际化外卖-AI客服）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "国际化事业部",
-      "tags": [
-        "全职",
-        "国际化事业部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/317b9094-c81e-434f-ae89-7633d117c28d",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
