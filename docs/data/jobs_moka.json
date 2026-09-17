@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17 13:56:15",
-  "job_count": 339,
+  "updated_at": "2026-09-17 14:42:15",
+  "job_count": 338,
   "excluded_count": 132,
   "jobs": [
     {
@@ -343,25 +343,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_27c2d6cd-e167-4a31-b463-1abbffc6b4a0",
-      "title": "Kimi 产品与研究实习生（金融方向）",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/27c2d6cd-e167-4a31-b463-1abbffc6b4a0",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-09-01 20:58:30",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-02",
       "is_new": false
     },
     {
@@ -2106,7 +2087,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-17",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_8ae696b2-aa8f-4640-99c3-fb5aee6acb5d",
