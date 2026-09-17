@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-16 14:35:34",
+  "updated_at": "2026-09-17 13:53:24",
   "job_count": 36,
-  "excluded_count": 197,
+  "excluded_count": 196,
   "jobs": [
     {
       "id": "kuaishou_13300",
@@ -23,22 +23,22 @@
       "is_new": false
     },
     {
-      "id": "kuaishou_13197",
-      "title": "海外内容安全规则运营",
+      "id": "kuaishou_13315",
+      "title": "内容运营",
       "company": "快手",
       "city": "北京",
       "industry": null,
       "tags": [
         "全职"
       ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13197",
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13315",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-09-15",
+      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -51,6 +51,25 @@
         "全职"
       ],
       "link": "https://campus.kuaishou.cn/#/campus/job-info/13324",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-15",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13197",
+      "title": "海外内容安全规则运营",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13197",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-09 18:03:16",
@@ -111,25 +130,6 @@
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-12 14:02:10",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13315",
-      "title": "内容运营",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13315",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,

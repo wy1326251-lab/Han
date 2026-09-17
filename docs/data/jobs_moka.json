@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16 14:38:22",
-  "job_count": 338,
+  "updated_at": "2026-09-17 13:56:15",
+  "job_count": 339,
   "excluded_count": 132,
   "jobs": [
     {
@@ -1464,7 +1464,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-09-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_f901216d-dbde-41b8-8a25-5092902ed46c",
@@ -1483,7 +1483,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuya_95e478ab-4cf1-45c0-bb29-6ff278c06e59",
@@ -2088,6 +2088,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-26",
       "is_new": false
+    },
+    {
+      "id": "moka_huya_3f3259c5-b52f-4093-b317-dfbbde4a2d75",
+      "title": "(2027届)电竞版权赛事商务",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/3f3259c5-b52f-4093-b317-dfbbde4a2d75",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-08-25 15:29:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-17",
+      "is_new": true
     },
     {
       "id": "moka_huya_8ae696b2-aa8f-4640-99c3-fb5aee6acb5d",
@@ -4005,7 +4024,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
@@ -4024,7 +4043,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zlongame_96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
@@ -5020,7 +5039,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_3faefdf1-0938-47ed-bb4a-fab224b20ff2",
