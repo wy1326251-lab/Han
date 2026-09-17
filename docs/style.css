@@ -191,13 +191,109 @@ main {
   color: var(--text-muted);
 }
 
-#citySelect, #companySelect, #tierSelect {
+#companySelect, #tierSelect {
   padding: 10px 12px;
   border: 1px solid var(--border);
   border-radius: 8px;
   font-size: 14px;
   background: var(--card-bg);
   color: var(--text);
+}
+
+/* 城市筛选：自定义的多选下拉框（原生 <select multiple> 在手机上很难用，
+   要按住 Ctrl/Cmd 才能多选，所以做成"点开一个勾选面板"的样式） */
+.multi-select {
+  position: relative;
+}
+
+.multi-select-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 14px;
+  background: var(--card-bg);
+  color: var(--text);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.multi-select-toggle:hover {
+  border-color: var(--hover-border);
+}
+
+.multi-select-arrow {
+  color: var(--text-muted);
+  font-size: 11px;
+  flex-shrink: 0;
+}
+
+.multi-select-panel {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 4px);
+  left: 0;
+  min-width: 220px;
+  max-width: 280px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px var(--shadow);
+  padding: 8px;
+}
+
+.multi-select-actions {
+  display: flex;
+  gap: 8px;
+  padding: 2px 4px 8px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+.multi-select-actions button {
+  flex: 1;
+  padding: 5px 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 12.5px;
+  cursor: pointer;
+}
+
+.multi-select-actions button:hover {
+  border-color: var(--hover-border);
+}
+
+.multi-select-options {
+  max-height: 260px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.multi-select-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 4px;
+  border-radius: 6px;
+  font-size: 13.5px;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.multi-select-option:hover {
+  background: var(--bg);
+}
+
+.multi-select-option input[type="checkbox"] {
+  accent-color: var(--brand);
+  flex-shrink: 0;
 }
 
 /* 让勾选框本身也跟着主题变色，不然深色下会是刺眼的白方块 */
@@ -360,8 +456,13 @@ main {
     flex: none;
     width: 100%;
   }
-  #citySelect, #companySelect, #tierSelect {
+  #companySelect, #tierSelect, .multi-select {
     width: 100%;
+  }
+  .multi-select-panel {
+    left: 0;
+    right: 0;
+    max-width: none;
   }
   .top-bar {
     padding: 16px;

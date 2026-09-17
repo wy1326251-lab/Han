@@ -43,9 +43,25 @@
 <main>
   <section class="controls">
     <input id="searchInput" type="text" placeholder="搜索职位类型 / 公司 / 标签，例如：产品、字节跳动、五险一金" />
-    <select id="citySelect">
-      <option value="">全部城市</option>
-    </select>
+    <div class="multi-select" id="cityMultiSelect">
+      <button
+        type="button"
+        id="cityMultiSelectToggle"
+        class="multi-select-toggle"
+        aria-haspopup="true"
+        aria-expanded="false"
+      >
+        <span id="cityMultiSelectLabel">全部城市</span>
+        <span class="multi-select-arrow">▾</span>
+      </button>
+      <div id="cityMultiSelectPanel" class="multi-select-panel" hidden>
+        <div class="multi-select-actions">
+          <button type="button" id="citySelectAllBtn">全选</button>
+          <button type="button" id="cityClearBtn">清空</button>
+        </div>
+        <div id="cityOptionsList" class="multi-select-options"></div>
+      </div>
+    </div>
     <select id="companySelect">
       <option value="">全部公司</option>
     </select>

@@ -10,6 +10,10 @@ const DATA_SOURCES = [
 
 let allJobs = [];
 
+// 选中的城市集合。空集合 = 不筛选（显示所有城市），
+// 跟单选下拉框里"全部城市"选项的意思一样。
+const selectedCities = new Set();
+
 // 大厂名单：几乎人人都听说过的头部公司
 // 想增删公司，改这两个列表就行，不用动别的代码。
 const TOP_COMPANIES = [
@@ -205,12 +209,28 @@ function populateFilterOptions() {
 
   const companies = [...new Set(allJobs.map((j) => j.company).filter(Boolean))].sort();
 
-  const citySelect = document.getElementById("citySelect");
+  const optionsList = document.getElementById("cityOptionsList");
+  optionsList.innerHTML = "";
   cities.forEach(([city, count]) => {
-    const opt = document.createElement("option");
-    opt.value = city;
-    opt.textContent = `${city}（${count}）`;
-    citySelect.appendChild(opt);
+    const label = document.createElement("label");
+    label.className = "multi-select-option";
+
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.value = city;
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) {
+        selectedCities.add(city);
+      } else {
+        selectedCities.delete(city);
+      }
+      updateCityMultiSelectLabel();
+      render();
+    });
+
+    label.appendChild(checkbox);
+    label.append(`${city}（${count}）`);
+    optionsList.appendChild(label);
   });
 
   const companySelect = document.getElementById("companySelect");
@@ -222,15 +242,67 @@ function populateFilterOptions() {
   });
 }
 
+// 按钮上显示"全部城市" / "已选 N 个城市"，而不是把一长串城市名都堆上去
+function updateCityMultiSelectLabel() {
+  const label = document.getElementById("cityMultiSelectLabel");
+  label.textContent =
+    selectedCities.size === 0 ? "全部城市" : `已选 ${selectedCities.size} 个城市`;
+}
+
+function setCityMultiSelectOpen(open) {
+  const panel = document.getElementById("cityMultiSelectPanel");
+  const toggle = document.getElementById("cityMultiSelectToggle");
+  panel.hidden = !open;
+  toggle.setAttribute("aria-expanded", String(open));
+}
+
+function initCityMultiSelect() {
+  const toggle = document.getElementById("cityMultiSelectToggle");
+  const panel = document.getElementById("cityMultiSelectPanel");
+  const wrapper = document.getElementById("cityMultiSelect");
+
+  toggle.addEventListener("click", () => {
+    setCityMultiSelectOpen(panel.hidden);
+  });
+
+  // 点击下拉框以外的地方，自动收起来
+  document.addEventListener("click", (e) => {
+    if (!wrapper.contains(e.target)) {
+      setCityMultiSelectOpen(false);
+    }
+  });
+
+  document.getElementById("citySelectAllBtn").addEventListener("click", () => {
+    const checkboxes = document.querySelectorAll("#cityOptionsList input[type=checkbox]");
+    checkboxes.forEach((cb) => {
+      cb.checked = true;
+      selectedCities.add(cb.value);
+    });
+    updateCityMultiSelectLabel();
+    render();
+  });
+
+  document.getElementById("cityClearBtn").addEventListener("click", () => {
+    const checkboxes = document.querySelectorAll("#cityOptionsList input[type=checkbox]");
+    checkboxes.forEach((cb) => {
+      cb.checked = false;
+    });
+    selectedCities.clear();
+    updateCityMultiSelectLabel();
+    render();
+  });
+}
+
 function jobHeadline(job) {
   if (job.title) return job.title;
   const parts = [job.search_keyword, job.industry].filter(Boolean);
   return parts.length ? `${parts.join(" · ")} 实习` : "实习职位";
 }
 
-function matchesFilters(job, keyword, city, company, newOnly, tier, officialOnly) {
-  // 一个岗位可能在多个城市招人，只要包含你选的那个就算匹配
-  if (city && !job.cities.includes(city)) return false;
+function matchesFilters(job, keyword, cities, company, newOnly, tier, officialOnly) {
+  // 城市是多选：只要岗位的城市里有一个在你选的那些城市里，就算匹配。
+  // 一个岗位可能同时在多个城市招人（比如"北京/上海"），这里也一并处理。
+  if (cities.size > 0 && !job.cities.some((c) => cities.has(c))) return false;
   if (company && job.company !== company) return false;
   if (newOnly && !job.is_new) return false;
   if (officialOnly && !job.is_campus_official) return false;
@@ -256,7 +328,6 @@ function matchesFilters(job, keyword, city, company, newOnly, tier, officialOnly
 
 function render() {
   const keyword = document.getElementById("searchInput").value.trim();
-  const city = document.getElementById("citySelect").value;
   const company = document.getElementById("companySelect").value;
   const newOnly = document.getElementById("newOnlyCheckbox").checked;
   const officialOnly = document.getElementById("officialOnlyCheckbox").checked;
@@ -264,7 +335,7 @@ function render() {
 
   const filtered = allJobs
     .filter((job) =>
-      matchesFilters(job, keyword, city, company, newOnly, tier, officialOnly)
+      matchesFilters(job, keyword, selectedCities, company, newOnly, tier, officialOnly)
     )
     .sort((a, b) => {
       if (a.is_new !== b.is_new) return a.is_new ? -1 : 1;
@@ -393,8 +464,8 @@ window
 updateToggleLabel();
 
 // ===== 筛选控件 =====
+initCityMultiSelect();
 document.getElementById("searchInput").addEventListener("input", render);
-document.getElementById("citySelect").addEventListener("change", render);
 document.getElementById("companySelect").addEventListener("change", render);
 document.getElementById("tierSelect").addEventListener("change", render);
 document.getElementById("newOnlyCheckbox").addEventListener("change", render);
