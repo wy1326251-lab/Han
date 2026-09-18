@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 14:39:04",
+  "updated_at": "2026-09-18 14:30:46",
   "job_count": 36,
   "excluded_count": 196,
   "jobs": [
@@ -13,6 +13,25 @@
         "全职"
       ],
       "link": "https://campus.kuaishou.cn/#/campus/job-info/13300",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13265",
+      "title": "游戏数值策划",
+      "company": "快手",
+      "city": "杭州",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13265",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-09 18:03:16",
@@ -130,25 +149,6 @@
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-12 14:02:10",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13265",
-      "title": "游戏数值策划",
-      "company": "快手",
-      "city": "杭州",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13265",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,

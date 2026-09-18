@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-17 14:42:15",
+  "updated_at": "2026-09-18 14:33:50",
   "job_count": 338,
-  "excluded_count": 132,
+  "excluded_count": 133,
   "jobs": [
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "moka_tuya_95e478ab-4cf1-45c0-bb29-6ff278c06e59",
-      "title": "AI产品经理实习生",
+      "title": "AIOT产品经理实习生（空间智能）",
       "company": "涂鸦智能",
       "city": "西湖区",
       "industry": null,
@@ -3406,6 +3406,26 @@
       "is_new": false
     },
     {
+      "id": "moka_yoozoo_e7382b41-f882-4138-bd0b-964b37a07749",
+      "title": "互动影游剪辑实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "用户服务中心",
+      "tags": [
+        "实习",
+        "用户服务中心"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/e7382b41-f882-4138-bd0b-964b37a07749",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-15 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-18",
+      "is_new": true
+    },
+    {
       "id": "moka_yoozoo_aa2b49bf-b951-49dc-9286-c07f1ce16241",
       "title": "游戏策划（AI方向）",
       "company": "游族网络",
@@ -3423,26 +3443,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-05",
-      "is_new": false
-    },
-    {
-      "id": "moka_yoozoo_1a1faee8-edf9-4130-a199-c0a521b6ddad",
-      "title": "UX设计",
-      "company": "游族网络",
-      "city": null,
-      "industry": "百川项目组",
-      "tags": [
-        "实习",
-        "百川项目组"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/1a1faee8-edf9-4130-a199-c0a521b6ddad",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-04-23 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -3616,26 +3616,6 @@
         "少年三国志II"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/ba9c4774-0891-42a1-b71e-b73c24bc6ef2",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2025-09-05 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_yoozoo_ba8f1bcc-1c51-4a4b-8d79-887a44b3fe6b",
-      "title": "Spine设计实习生",
-      "company": "游族网络",
-      "city": null,
-      "industry": "少年三国志II",
-      "tags": [
-        "实习",
-        "少年三国志II"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/ba8f1bcc-1c51-4a4b-8d79-887a44b3fe6b",
       "search_keyword": null,
       "source": "游族网络官网",
       "publish_date": "2025-09-05 00:00",
@@ -4139,6 +4119,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_sohu_efe4bbdb-0f09-40c6-9ded-04e86e86f48b",
+      "title": "用户增长策略运营（创作者方向 ）",
+      "company": "搜狐",
+      "city": null,
+      "industry": "直播&社交运营部",
+      "tags": [
+        "直播&社交运营部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/sohu/5682#/job/efe4bbdb-0f09-40c6-9ded-04e86e86f48b",
+      "search_keyword": null,
+      "source": "搜狐官网",
+      "publish_date": "2026-09-17 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-18",
+      "is_new": true
     },
     {
       "id": "moka_sohu_271a0a12-8972-438a-ae6a-7c3b84a8724d",
