@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-18 14:33:50",
-  "job_count": 338,
-  "excluded_count": 133,
+  "updated_at": "2026-09-19 14:30:37",
+  "job_count": 349,
+  "excluded_count": 136,
   "jobs": [
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
@@ -3406,6 +3406,206 @@
       "is_new": false
     },
     {
+      "id": "moka_yoozoo_6455a703-4b99-434e-a317-5727083bd631",
+      "title": "数据开发（AI方向）",
+      "company": "游族网络",
+      "city": null,
+      "industry": "红岸实验室",
+      "tags": [
+        "实习",
+        "红岸实验室"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/6455a703-4b99-434e-a317-5727083bd631",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_36728451-875e-4110-8ed8-1cf37c6c7d03",
+      "title": "广告视频设计实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "广告中心",
+      "tags": [
+        "实习",
+        "广告中心"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/36728451-875e-4110-8ed8-1cf37c6c7d03",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_a35b0231-5eba-47e9-a314-b1811161a5f7",
+      "title": "数据产品经理（AI方向）",
+      "company": "游族网络",
+      "city": null,
+      "industry": "红岸实验室",
+      "tags": [
+        "实习",
+        "红岸实验室"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/a35b0231-5eba-47e9-a314-b1811161a5f7",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
+      "title": "数值策划",
+      "company": "游族网络",
+      "city": null,
+      "industry": "代号：Ball",
+      "tags": [
+        "实习",
+        "代号：Ball"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_fd60960f-7ff7-4c9d-862e-14e976e1bc26",
+      "title": "品牌视频部实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "品牌设计中心",
+      "tags": [
+        "实习",
+        "品牌设计中心"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/fd60960f-7ff7-4c9d-862e-14e976e1bc26",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-07 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_c299cdb5-da38-4385-aa0e-5a4e51d0a7df",
+      "title": "游戏运营实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "苍玄项目组",
+      "tags": [
+        "实习",
+        "苍玄项目组"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c299cdb5-da38-4385-aa0e-5a4e51d0a7df",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-08 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_107c778d-fd2b-460b-8c9f-194109154ffb",
+      "title": "海外游戏社区运营实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "苍玄项目组",
+      "tags": [
+        "实习",
+        "苍玄项目组"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/107c778d-fd2b-460b-8c9f-194109154ffb",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-11 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_904ea9f9-26fd-4f6b-9221-38baa8470138",
+      "title": "AI视频设计实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "广告中心",
+      "tags": [
+        "实习",
+        "广告中心"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/904ea9f9-26fd-4f6b-9221-38baa8470138",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-14 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_660663ae-f3a3-4dfe-985e-d3e5ae65a57c",
+      "title": "游戏用户运营实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "运营部",
+      "tags": [
+        "实习",
+        "运营部"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/660663ae-f3a3-4dfe-985e-d3e5ae65a57c",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
+      "id": "moka_yoozoo_84c70a20-953a-4a3d-af87-47cbb6f25019",
+      "title": "游戏音效设计实习生",
+      "company": "游族网络",
+      "city": null,
+      "industry": "美术",
+      "tags": [
+        "实习",
+        "美术"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/84c70a20-953a-4a3d-af87-47cbb6f25019",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
       "id": "moka_yoozoo_e7382b41-f882-4138-bd0b-964b37a07749",
       "title": "互动影游剪辑实习生",
       "company": "游族网络",
@@ -3423,11 +3623,11 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_aa2b49bf-b951-49dc-9286-c07f1ce16241",
-      "title": "游戏策划（AI方向）",
+      "title": "策划实习生（AI方向）",
       "company": "游族网络",
       "city": null,
       "industry": "策划",
@@ -3566,26 +3766,6 @@
       "is_new": false
     },
     {
-      "id": "moka_yoozoo_63bd34aa-c3b8-4724-8008-5331009b453c",
-      "title": "数值策划",
-      "company": "游族网络",
-      "city": null,
-      "industry": "少年三国志II",
-      "tags": [
-        "实习",
-        "少年三国志II"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/63bd34aa-c3b8-4724-8008-5331009b453c",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-03-10 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_yoozoo_76cb7fc5-d669-4222-bdfc-7113ee75df0a",
       "title": "运营实习生",
       "company": "游族网络",
@@ -3627,7 +3807,7 @@
     },
     {
       "id": "moka_yoozoo_20189753-c9ee-46c0-af1a-c0860cb81678",
-      "title": "游戏策划",
+      "title": "系统策划",
       "company": "游族网络",
       "city": null,
       "industry": "GOT PC",
@@ -4137,7 +4317,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_sohu_271a0a12-8972-438a-ae6a-7c3b84a8724d",
@@ -4368,12 +4548,31 @@
       "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/c98cfcaf-842f-4a6a-b73c-6fa700515b7a",
       "search_keyword": null,
       "source": "新浪官网",
-      "publish_date": "2026-08-18 11:32:59",
+      "publish_date": "2026-09-18 23:34:22",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-19",
       "is_new": false
+    },
+    {
+      "id": "moka_wps_5663fd68-3ec6-4921-b804-bca2d1e8edc6",
+      "title": "海外市场运营专员-面向2027届",
+      "company": "金山办公WPS",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/5663fd68-3ec6-4921-b804-bca2d1e8edc6",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-09-18 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
     },
     {
       "id": "moka_wps_8186ca6b-693b-4033-aa56-0259a8fb2388",
@@ -4415,7 +4614,7 @@
     },
     {
       "id": "moka_wps_18e7ef00-1329-4766-baf0-b9f023c29e8b",
-      "title": "政企营销（AI应用专项）-面向2027届-北京",
+      "title": "营销（AI应用专项）-面向2027届-北京",
       "company": "金山办公WPS",
       "city": "北京",
       "industry": null,
@@ -4680,6 +4879,25 @@
       "is_new": false
     },
     {
+      "id": "moka_zuoyebang_9c2f58dd-dceb-4153-ad81-5be8f5df85da",
+      "title": "素材运营（国内业务）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/9c2f58dd-dceb-4153-ad81-5be8f5df85da",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-09-18 15:53:30",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-19",
+      "is_new": true
+    },
+    {
       "id": "moka_zuoyebang_1304da50-00ed-40e2-9a1e-4835c5f49da2",
       "title": "企业AI产品经理-27秋招",
       "company": "作业帮",
@@ -4795,7 +5013,7 @@
     },
     {
       "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
-      "title": "素材运营[北京/上海]-27秋招",
+      "title": "素材运营（海外业务）[北京/上海]-27秋招",
       "company": "作业帮",
       "city": "上海/北京",
       "industry": null,
@@ -4813,6 +5031,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_13e71de0-6050-4ccc-bdf4-859872ffb7fc",
+      "title": "安全运营专员（肇庆）-2027届",
+      "company": "SHEIN",
+      "city": "四会",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/13e71de0-6050-4ccc-bdf4-859872ffb7fc",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-18 15:33:12",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
       "id": "moka_shein_9219b306-42af-4ac9-9adc-96d9bda906e6",
       "title": "国际物流运营专员（广州）-2027届",
       "company": "SHEIN",
@@ -4824,7 +5061,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/9219b306-42af-4ac9-9adc-96d9bda906e6",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-09-16 13:36:43",
+      "publish_date": "2026-09-18 15:33:12",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4843,7 +5080,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-09-16 13:36:43",
+      "publish_date": "2026-09-18 15:33:12",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4862,7 +5099,45 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-09-16 13:36:43",
+      "publish_date": "2026-09-18 15:33:12",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
+      "title": "供应商管理专员（广州）-营销&KOL运营方向-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-18 15:33:12",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-10",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "title": "服装设计师（广州）-女装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-18 15:33:12",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4879,25 +5154,6 @@
         "全职"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-16 13:36:43",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
-      "title": "服装设计师（广州）-女装-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
       "search_keyword": null,
       "source": "SHEIN官网",
       "publish_date": "2026-09-16 13:36:43",
@@ -4943,44 +5199,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_13e71de0-6050-4ccc-bdf4-859872ffb7fc",
-      "title": "安全运营专员（肇庆）-2027届",
-      "company": "SHEIN",
-      "city": "四会",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/13e71de0-6050-4ccc-bdf4-859872ffb7fc",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
-      "title": "供应商管理专员（广州）-营销&KOL运营方向-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-10",
       "is_new": false
     },
     {
