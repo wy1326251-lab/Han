@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19 14:30:37",
-  "job_count": 349,
+  "updated_at": "2026-09-20 14:53:47",
+  "job_count": 348,
   "excluded_count": 136,
   "jobs": [
     {
@@ -3423,7 +3423,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_36728451-875e-4110-8ed8-1cf37c6c7d03",
@@ -3443,7 +3443,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_a35b0231-5eba-47e9-a314-b1811161a5f7",
@@ -3463,7 +3463,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
@@ -3483,7 +3483,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_fd60960f-7ff7-4c9d-862e-14e976e1bc26",
@@ -3503,7 +3503,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_c299cdb5-da38-4385-aa0e-5a4e51d0a7df",
@@ -3523,7 +3523,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_107c778d-fd2b-460b-8c9f-194109154ffb",
@@ -3543,7 +3543,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_904ea9f9-26fd-4f6b-9221-38baa8470138",
@@ -3563,7 +3563,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_660663ae-f3a3-4dfe-985e-d3e5ae65a57c",
@@ -3583,7 +3583,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_84c70a20-953a-4a3d-af87-47cbb6f25019",
@@ -3603,7 +3603,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_e7382b41-f882-4138-bd0b-964b37a07749",
@@ -4536,26 +4536,6 @@
       "is_new": false
     },
     {
-      "id": "moka_sina_c98cfcaf-842f-4a6a-b73c-6fa700515b7a",
-      "title": "（2027届秋招）集团运营管培生",
-      "company": "新浪",
-      "city": "北京",
-      "industry": "新浪&微博",
-      "tags": [
-        "全职",
-        "新浪&微博"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/c98cfcaf-842f-4a6a-b73c-6fa700515b7a",
-      "search_keyword": null,
-      "source": "新浪官网",
-      "publish_date": "2026-09-18 23:34:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-19",
-      "is_new": false
-    },
-    {
       "id": "moka_wps_5663fd68-3ec6-4921-b804-bca2d1e8edc6",
       "title": "海外市场运营专员-面向2027届",
       "company": "金山办公WPS",
@@ -4572,7 +4552,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_8186ca6b-693b-4033-aa56-0259a8fb2388",
@@ -4895,7 +4875,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_1304da50-00ed-40e2-9a1e-4835c5f49da2",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 14:26:55",
+  "updated_at": "2026-09-20 14:50:09",
   "job_count": 275,
   "excluded_count": 48,
   "jobs": [
@@ -242,6 +242,26 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "netease_79003",
+      "title": "内容运营实习生（网易公开课）",
+      "company": "网易传媒",
+      "city": "北京市",
+      "industry": "运营",
+      "tags": [
+        "本科",
+        "0-3年"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=79003&lang=zh",
+      "search_keyword": "直播",
+      "source": "网易招聘",
+      "publish_date": "2026-09-20 14:44:30",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-20",
+      "is_new": true
     },
     {
       "id": "netease_78186",
@@ -1381,7 +1401,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78620",
@@ -1441,26 +1461,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-18",
-      "is_new": false
-    },
-    {
-      "id": "netease_78512",
-      "title": "《蛋仔派对》UGC运营实习生（社群运营方向）",
-      "company": "网易游戏（互娱）",
-      "city": "杭州市",
-      "industry": "游戏策划",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78512&lang=zh",
-      "search_keyword": "直播",
-      "source": "网易招聘",
-      "publish_date": "2026-09-16 17:38:17",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-01",
       "is_new": false
     },
     {
@@ -1544,6 +1544,26 @@
       "is_new": false
     },
     {
+      "id": "netease_73247",
+      "title": "音频实习生替补",
+      "company": "网易传媒",
+      "city": "杭州市",
+      "industry": "内容",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=73247&lang=zh",
+      "search_keyword": "短视频",
+      "source": "网易招聘",
+      "publish_date": "2026-05-15 16:37:41",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-20",
+      "is_new": true
+    },
+    {
       "id": "netease_78240",
       "title": "视频剪辑实习生",
       "company": "网易传媒",
@@ -1621,7 +1641,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_56378",
@@ -2321,7 +2341,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_70368",
@@ -2461,7 +2481,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78966",
@@ -2481,7 +2501,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78965",
@@ -2501,26 +2521,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
-    },
-    {
-      "id": "netease_44489",
-      "title": "海外媒介实习生",
-      "company": "网易有道",
-      "city": "广州市",
-      "industry": "市场",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=44489&lang=zh",
-      "search_keyword": "电竞",
-      "source": "网易招聘",
-      "publish_date": "2026-09-15 17:40:06",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-17",
       "is_new": false
     },
     {
@@ -2984,26 +2984,6 @@
       "is_new": false
     },
     {
-      "id": "netease_60058",
-      "title": "游戏运营策划实习生（永劫无间）",
-      "company": "网易游戏（雷火）",
-      "city": "杭州市",
-      "industry": "游戏策划",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=60058&lang=zh",
-      "search_keyword": "内容策划",
-      "source": "网易招聘",
-      "publish_date": "2026-09-15 21:59:08",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-26",
-      "is_new": false
-    },
-    {
       "id": "netease_78506",
       "title": "音乐内容运营实习生",
       "company": "网易云音乐",
@@ -3021,6 +3001,26 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
+      "is_new": false
+    },
+    {
+      "id": "netease_60058",
+      "title": "游戏运营策划实习生（永劫无间）",
+      "company": "网易游戏（雷火）",
+      "city": "杭州市",
+      "industry": "游戏策划",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=60058&lang=zh",
+      "search_keyword": "内容策划",
+      "source": "网易招聘",
+      "publish_date": "2026-09-15 21:59:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-26",
       "is_new": false
     },
     {
@@ -3201,7 +3201,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78806",
@@ -3541,7 +3541,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_76220",
@@ -4481,7 +4481,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78842",
@@ -5401,7 +5401,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78667",
