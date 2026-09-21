@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-20 14:53:47",
-  "job_count": 348,
-  "excluded_count": 136,
+  "updated_at": "2026-09-21 14:58:14",
+  "job_count": 349,
+  "excluded_count": 134,
   "jobs": [
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
@@ -1600,6 +1600,25 @@
       "is_new": false
     },
     {
+      "id": "moka_zhihu_0e98f24a-01cb-47c3-a95e-e35d28dbd8d0",
+      "title": "达人运营",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/0e98f24a-01cb-47c3-a95e-e35d28dbd8d0",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-07-28 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
       "id": "moka_zhihu_44b6dae6-7c3e-44f7-9079-89ec59028b10",
       "title": "AI内容运营实习生",
       "company": "知乎",
@@ -1745,25 +1764,6 @@
       "search_keyword": null,
       "source": "知乎官网",
       "publish_date": "2026-08-07 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_0e98f24a-01cb-47c3-a95e-e35d28dbd8d0",
-      "title": "达人运营",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/0e98f24a-01cb-47c3-a95e-e35d28dbd8d0",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-07-28 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4302,7 +4302,7 @@
     },
     {
       "id": "moka_sohu_efe4bbdb-0f09-40c6-9ded-04e86e86f48b",
-      "title": "用户增长策略运营（创作者方向 ）",
+      "title": "【2027】用户增长策略运营（创作者方向 ）",
       "company": "搜狐",
       "city": null,
       "industry": "直播&社交运营部",
@@ -5204,7 +5204,7 @@
       "id": "moka_shein_bf64a736-8552-4d38-8bac-b97ec7b0ec45",
       "title": "品牌中台实习生",
       "company": "SHEIN",
-      "city": "雨花台区",
+      "city": "上海",
       "industry": null,
       "tags": [
         "实习"
@@ -5258,19 +5258,19 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_dc53db79-3cb8-43a5-9961-a0373f04c2eb",
-      "title": "27届秋招-运力运营顾问（北京）",
+      "id": "moka_didiglobal_0a0b3694-26f9-4a0b-9bd2-d8d0f88b7554",
+      "title": "27届秋招-运力运营顾问（长春/沈阳）",
       "company": "滴滴",
-      "city": "北京",
+      "city": "沈阳/长春",
       "industry": "网约车平台公司",
       "tags": [
         "全职",
         "网约车平台公司"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/dc53db79-3cb8-43a5-9961-a0373f04c2eb",
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/0a0b3694-26f9-4a0b-9bd2-d8d0f88b7554",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-09-12 11:18:45",
+      "publish_date": "2026-09-21 11:31:28",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -5290,7 +5290,47 @@
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/18bac3cc-14c4-4887-b648-4ca98727c625",
       "search_keyword": null,
       "source": "滴滴官网",
-      "publish_date": "2026-09-12 11:18:28",
+      "publish_date": "2026-09-21 11:30:59",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_bf5c0fa8-443d-4311-9283-2b73c218c7ef",
+      "title": "27届秋招-渠道运营顾问（昆明）",
+      "company": "滴滴",
+      "city": "昆明",
+      "industry": "网约车平台公司",
+      "tags": [
+        "全职",
+        "网约车平台公司"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/bf5c0fa8-443d-4311-9283-2b73c218c7ef",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-09-21 11:29:44",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_dc53db79-3cb8-43a5-9961-a0373f04c2eb",
+      "title": "27届秋招-运力运营顾问（北京）",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "网约车平台公司",
+      "tags": [
+        "全职",
+        "网约车平台公司"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/dc53db79-3cb8-43a5-9961-a0373f04c2eb",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-09-12 11:18:45",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -5458,26 +5498,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_0a0b3694-26f9-4a0b-9bd2-d8d0f88b7554",
-      "title": "27届秋招-运力运营顾问（长春/沈阳）",
-      "company": "滴滴",
-      "city": "沈阳/长春",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/0a0b3694-26f9-4a0b-9bd2-d8d0f88b7554",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-01 12:28:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_a5b5ace2-a65d-4544-b32e-3e6e9b06e2ed",
       "title": "27届秋招-运力运营顾问（苏州）",
       "company": "滴滴",
@@ -5568,26 +5588,6 @@
         "网约车平台公司"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8f317aee-a6a3-4d10-b3e1-71d5e8c0c84e",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-01 12:28:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_bf5c0fa8-443d-4311-9283-2b73c218c7ef",
-      "title": "27届秋招-渠道运营顾问（昆明）",
-      "company": "滴滴",
-      "city": "昆明",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/bf5c0fa8-443d-4311-9283-2b73c218c7ef",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-09-01 12:28:22",
@@ -6136,6 +6136,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_tuhu_187ad013-f863-42b8-94c7-d435d7347c32",
+      "title": "策略运营-商品方向（2027届校招）",
+      "company": "途虎养车",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/tuhu/28398#/job/187ad013-f863-42b8-94c7-d435d7347c32",
+      "search_keyword": null,
+      "source": "途虎养车官网",
+      "publish_date": "2026-09-20 20:46:33",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-21",
+      "is_new": true
     },
     {
       "id": "moka_tuhu_e004df9e-0e0d-444c-ac47-270092ceb741",

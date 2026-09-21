@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20 14:50:51",
-  "job_count": 8,
+  "updated_at": "2026-09-21 14:55:15",
+  "job_count": 6,
   "excluded_count": 0,
   "jobs": [
     {
@@ -20,25 +20,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2094852846817296384",
-      "title": "AI Business Analyst Intern 108039",
-      "company": "腾讯",
-      "city": "帕罗奥多",
-      "industry": "战略与投资",
-      "tags": [
-        "IEG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年09月01日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-02",
       "is_new": false
     },
     {
@@ -73,25 +54,6 @@
       "search_keyword": "AI",
       "source": "腾讯招聘",
       "publish_date": "2026年07月20日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2075480215181766656",
-      "title": "Data & AI Analytics Intern 107767",
-      "company": "腾讯",
-      "city": "新加坡",
-      "industry": "技术",
-      "tags": [
-        "WXG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data---AI-Analytics-Intern_R107767",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年07月09日",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
