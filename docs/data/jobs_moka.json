@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21 14:58:14",
-  "job_count": 349,
+  "updated_at": "2026-09-22 14:52:31",
+  "job_count": 343,
   "excluded_count": 134,
   "jobs": [
     {
@@ -343,25 +343,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
-      "title": "KimiCode 产品实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-31 15:18:07",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-31",
       "is_new": false
     },
     {
@@ -1600,23 +1581,23 @@
       "is_new": false
     },
     {
-      "id": "moka_zhihu_0e98f24a-01cb-47c3-a95e-e35d28dbd8d0",
+      "id": "moka_zhihu_57ec7c63-f256-4ac1-9877-16d53e989d53",
       "title": "达人运营",
       "company": "知乎",
       "city": "北京",
       "industry": null,
       "tags": [
-        "实习"
+        "全职"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/0e98f24a-01cb-47c3-a95e-e35d28dbd8d0",
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/57ec7c63-f256-4ac1-9877-16d53e989d53",
       "search_keyword": null,
       "source": "知乎官网",
-      "publish_date": "2026-07-28 00:00",
+      "publish_date": "2026-09-18 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
+      "first_seen": "2026-09-22",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_44b6dae6-7c3e-44f7-9079-89ec59028b10",
@@ -4035,6 +4016,44 @@
       "is_new": false
     },
     {
+      "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
+      "title": "【2027校招】游戏战斗策划（钢岚）",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/c21728d2-767f-4643-9311-590739368f66",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-09-15 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-16",
+      "is_new": false
+    },
+    {
+      "id": "moka_zlongame_9515e7a4-996f-437e-a5b3-f8dc3d4de590",
+      "title": "【2027校招】游戏关卡策划（天地劫）",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/9515e7a4-996f-437e-a5b3-f8dc3d4de590",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-09-16 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-16",
+      "is_new": false
+    },
+    {
       "id": "moka_zlongame_452ddd07-9e40-4dd3-9075-2f5d2b1533f7",
       "title": "【2027校招】游戏系统策划",
       "company": "紫龙游戏",
@@ -4146,44 +4165,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zlongame_9515e7a4-996f-437e-a5b3-f8dc3d4de590",
-      "title": "【2027校招】游戏关卡策划（天地劫）",
-      "company": "紫龙游戏",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/9515e7a4-996f-437e-a5b3-f8dc3d4de590",
-      "search_keyword": null,
-      "source": "紫龙游戏官网",
-      "publish_date": "2026-09-16 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-16",
-      "is_new": false
-    },
-    {
-      "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
-      "title": "【2027校招】游戏战斗策划（钢岚）",
-      "company": "紫龙游戏",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/c21728d2-767f-4643-9311-590739368f66",
-      "search_keyword": null,
-      "source": "紫龙游戏官网",
-      "publish_date": "2026-09-15 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-16",
       "is_new": false
     },
     {
@@ -5398,26 +5379,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_8c753e1f-1f17-48b8-aa02-767f05ac220f",
-      "title": "27届秋招-产品与用户运营顾问（平台司机部）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8c753e1f-1f17-48b8-aa02-767f05ac220f",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-03 11:26:35",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-19",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_4e14c6ad-e1e9-4d94-a71e-0d6cd015d1f1",
       "title": "27届秋招-产品与用户运营顾问（网约车）",
       "company": "滴滴",
@@ -5518,46 +5479,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_752e6fbd-529a-462e-aefc-427c78643cc7",
-      "title": "27届秋招-产品与用户运营顾问（快送）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/752e6fbd-529a-462e-aefc-427c78643cc7",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-01 12:28:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_27bd51cf-7e0a-4921-9a6b-84cddaa44792",
-      "title": "27届秋招-产品与用户运营顾问（交易策略）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/27bd51cf-7e0a-4921-9a6b-84cddaa44792",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-01 12:28:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_2cdcecd3-1262-4d0d-bf72-816b8792ae3f",
       "title": "27届秋招-运力运营顾问（青岛）",
       "company": "滴滴",
@@ -5588,26 +5509,6 @@
         "网约车平台公司"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/8f317aee-a6a3-4d10-b3e1-71d5e8c0c84e",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-09-01 12:28:22",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_d479d146-06b3-439d-bd72-a93880c57f85",
-      "title": "27届秋招-产品与用户运营顾问（平台乘客部）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "网约车平台公司",
-      "tags": [
-        "全职",
-        "网约车平台公司"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/d479d146-06b3-439d-bd72-a93880c57f85",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-09-01 12:28:22",
@@ -6038,26 +5939,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_2266f5f7-bb73-4e6b-a0f1-38ba44f36e4f",
-      "title": "27届秋招-AI商业分析师（国际化外卖-用增）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "国际化事业部",
-      "tags": [
-        "全职",
-        "国际化事业部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/2266f5f7-bb73-4e6b-a0f1-38ba44f36e4f",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_e3b37531-f9ca-4ae7-af1a-adbc79166ca1",
       "title": "27届秋招-产品与用户运营专员-增长产品运营",
       "company": "滴滴",
@@ -6154,7 +6035,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_tuhu_e004df9e-0e0d-444c-ac47-270092ceb741",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21 14:55:15",
-  "job_count": 6,
+  "updated_at": "2026-09-22 14:49:18",
+  "job_count": 5,
   "excluded_count": 0,
   "jobs": [
     {
@@ -54,25 +54,6 @@
       "search_keyword": "AI",
       "source": "腾讯招聘",
       "publish_date": "2026年07月20日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2056636102109999104",
-      "title": "Game AI Product Management Intern 107504",
-      "company": "腾讯",
-      "city": "奥克兰",
-      "industry": "产品",
-      "tags": [
-        "IEG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/New-Zealand-Auckland/Game-AI-Product-Management-Intern_R107504-1",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年09月03日",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
