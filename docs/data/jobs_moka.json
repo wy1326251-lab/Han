@@ -1,8 +1,46 @@
 {
-  "updated_at": "2026-09-22 14:52:31",
-  "job_count": 343,
+  "updated_at": "2026-09-23 14:32:40",
+  "job_count": 332,
   "excluded_count": 134,
   "jobs": [
+    {
+      "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
+      "title": "Kimi 海外创意增长实习生",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f287f352-5561-4d86-bb85-552b0283854c",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-09-23 14:04:58",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-23",
+      "is_new": true
+    },
+    {
+      "id": "moka_moonshot_569f5aad-3f68-41ba-ab5d-720e4148bda7",
+      "title": "体验运营实习生（体验分析方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/569f5aad-3f68-41ba-ab5d-720e4148bda7",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-09-23 14:04:48",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-23",
+      "is_new": true
+    },
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
       "title": "AI 产品运营实习生",
@@ -61,25 +99,6 @@
       "is_new": false
     },
     {
-      "id": "moka_moonshot_7ce273cb-3ac2-415e-88ef-5ae81ae58219",
-      "title": "海外KOl增长运营实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/7ce273cb-3ac2-415e-88ef-5ae81ae58219",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-13 14:14:18",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_moonshot_e008269e-bb88-48bc-a3ed-9e10b737b53c",
       "title": "动态视觉设计实习生（Motion Design Intern）",
       "company": "月之暗面(Kimi)",
@@ -92,120 +111,6 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-08-13 13:46:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_fade7234-e9ab-47bd-9844-401b8fedbf01",
-      "title": "编导/制片实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/fade7234-e9ab-47bd-9844-401b8fedbf01",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-13 12:26:47",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_6f3f3929-8c41-41a1-8b18-fc5e156a986d",
-      "title": "Kimi增长创意实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/6f3f3929-8c41-41a1-8b18-fc5e156a986d",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-13 11:54:09",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_fd8052c6-6a51-410c-b22f-63402a7527f6",
-      "title": "内容创作实习生（文字方向）",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/fd8052c6-6a51-410c-b22f-63402a7527f6",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-13 11:53:09",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_c8636c89-ee15-4479-8da0-c57c5f81cc68",
-      "title": "内容运营实习生（视频方向）",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c8636c89-ee15-4479-8da0-c57c5f81cc68",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-13 11:52:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_4fb26d6e-4239-42de-8215-43b62ac0dd84",
-      "title": "海外用户运营实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/4fb26d6e-4239-42de-8215-43b62ac0dd84",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-10 12:04:18",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_35204ec6-1243-4a8d-ac4f-99fd26dd5c65",
-      "title": "服务体验运营实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/35204ec6-1243-4a8d-ac4f-99fd26dd5c65",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-10 12:00:26",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -517,63 +422,6 @@
       "is_new": false
     },
     {
-      "id": "moka_moonshot_fc379303-3f49-4603-bfb4-d9aca39cf334",
-      "title": "Kimi Showcase运营 实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/fc379303-3f49-4603-bfb4-d9aca39cf334",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-07-06 18:16:50",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_48ddac92-5a72-4538-a705-cdde81073f56",
-      "title": "SEO & GEO 增长实习生（AI 方向）",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/48ddac92-5a72-4538-a705-cdde81073f56",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-07-03 14:29:35",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_807e5092-aff4-443a-89cd-4dcf3ed09f51",
-      "title": "用户增长投放数据实习生｜Kimi",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/807e5092-aff4-443a-89cd-4dcf3ed09f51",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-07-02 16:21:25",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_moonshot_8afd0f3a-b3e4-40a8-a900-0588ab774f92",
       "title": "AI Agent 产品实习生",
       "company": "月之暗面(Kimi)",
@@ -586,63 +434,6 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-06-29 16:43:55",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_56ac6d58-8956-4225-ac16-32d8105bb3b2",
-      "title": "海外内容营销实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/56ac6d58-8956-4225-ac16-32d8105bb3b2",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-06-25 22:49:38",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_5abf3d0d-d3f4-4264-aacb-adf1421c9e6e",
-      "title": "AI 增长运营实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5abf3d0d-d3f4-4264-aacb-adf1421c9e6e",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-06-18 18:45:53",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_344dfcd6-d902-4b00-856d-f2da1cd5562b",
-      "title": "Kimi增长设计实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/344dfcd6-d902-4b00-856d-f2da1cd5562b",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-06-18 16:38:44",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -1487,7 +1278,7 @@
     },
     {
       "id": "moka_tuya_2cd82b61-428f-46ae-9e74-4db0d14fe5c6",
-      "title": "AI服务运营实习生（27年校招）",
+      "title": "AI服务运营实习生（27届）",
       "company": "涂鸦智能",
       "city": "西湖区",
       "industry": null,
@@ -1581,6 +1372,25 @@
       "is_new": false
     },
     {
+      "id": "moka_zhihu_b9b066bf-8908-4132-8069-135fab5ac661",
+      "title": "AI产品经理",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/b9b066bf-8908-4132-8069-135fab5ac661",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-09-23 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-23",
+      "is_new": true
+    },
+    {
       "id": "moka_zhihu_57ec7c63-f256-4ac1-9877-16d53e989d53",
       "title": "达人运营",
       "company": "知乎",
@@ -1597,7 +1407,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_44b6dae6-7c3e-44f7-9079-89ec59028b10",
@@ -2482,25 +2292,6 @@
       "search_keyword": null,
       "source": "鹰角网络官网",
       "publish_date": "2026-08-04 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_hypergryph_259bb536-848b-4e82-9adb-da32417008ab",
-      "title": "技术美术-渲染方向",
-      "company": "鹰角网络",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/hypergryph/26326#/job/259bb536-848b-4e82-9adb-da32417008ab",
-      "search_keyword": null,
-      "source": "鹰角网络官网",
-      "publish_date": "2026-07-30 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4017,7 +3808,7 @@
     },
     {
       "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
-      "title": "【2027校招】游戏战斗策划（钢岚）",
+      "title": "【2027校招】游戏战斗策划（战棋，钢岚）",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
@@ -4036,7 +3827,7 @@
     },
     {
       "id": "moka_zlongame_9515e7a4-996f-437e-a5b3-f8dc3d4de590",
-      "title": "【2027校招】游戏关卡策划（天地劫）",
+      "title": "【2027校招】游戏关卡策划（战棋，天地劫）",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
@@ -4168,13 +3959,32 @@
       "is_new": false
     },
     {
+      "id": "moka_zlongame_246c43ab-2b71-4b02-9699-5a6f63c37b42",
+      "title": "【实习岗】平面设计师",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/246c43ab-2b71-4b02-9699-5a6f63c37b42",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-09-22 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-23",
+      "is_new": true
+    },
+    {
       "id": "moka_zlongame_96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
       "title": "【实习岗】策划见习生",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
       "tags": [
-        "全职"
+        "实习"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
       "search_keyword": null,
@@ -4193,7 +4003,7 @@
       "city": null,
       "industry": null,
       "tags": [
-        "全职"
+        "实习"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/cbae409e-b99b-479e-8fc4-8d26aa5f932f",
       "search_keyword": null,
@@ -4228,7 +4038,7 @@
       "id": "moka_zlongame_1ff13959-2885-4254-8c16-2df22d523f23",
       "title": "【实习岗】游戏原画设计师（角色）",
       "company": "紫龙游戏",
-      "city": "上海",
+      "city": null,
       "industry": null,
       "tags": [
         "实习"
@@ -5516,26 +5326,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_78d9a2f6-95cc-4294-8a1e-404e021d955f",
-      "title": "27届秋招-国际客资运营专员（国际化金融）",
-      "company": "滴滴",
-      "city": "北京/上海",
-      "industry": "国际化事业部",
-      "tags": [
-        "全职",
-        "国际化事业部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/78d9a2f6-95cc-4294-8a1e-404e021d955f",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-27 14:22:38",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-27",
       "is_new": false
     },
     {
