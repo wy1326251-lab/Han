@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-23 14:32:40",
-  "job_count": 332,
-  "excluded_count": 134,
+  "updated_at": "2026-09-24 14:48:12",
+  "job_count": 329,
+  "excluded_count": 133,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -20,7 +20,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_569f5aad-3f68-41ba-ab5d-720e4148bda7",
@@ -39,13 +39,13 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
       "title": "AI 产品运营实习生",
       "company": "月之暗面(Kimi)",
-      "city": "上海",
+      "city": "北京",
       "industry": null,
       "tags": [
         "实习"
@@ -1388,7 +1388,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_57ec7c63-f256-4ac1-9877-16d53e989d53",
@@ -3808,7 +3808,7 @@
     },
     {
       "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
-      "title": "【2027校招】游戏战斗策划（战棋，钢岚）",
+      "title": "【2027校招】游戏战斗策划（钢岚，战棋）",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
@@ -3827,7 +3827,7 @@
     },
     {
       "id": "moka_zlongame_9515e7a4-996f-437e-a5b3-f8dc3d4de590",
-      "title": "【2027校招】游戏关卡策划（战棋，天地劫）",
+      "title": "【2027校招】游戏关卡策划（天地劫，战棋）",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
@@ -3975,7 +3975,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zlongame_96f0d7c7-4dd3-4609-867e-2297d6fcc68a",
@@ -4355,44 +4355,6 @@
         "全职"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/8186ca6b-693b-4033-aa56-0259a8fb2388",
-      "search_keyword": null,
-      "source": "金山办公WPS官网",
-      "publish_date": "2026-09-03 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_wps_690364b2-22e9-4f79-8439-9a9dd8a9b629",
-      "title": "政企营销（AI应用专项）-面向2027届-广州",
-      "company": "金山办公WPS",
-      "city": "广州",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/690364b2-22e9-4f79-8439-9a9dd8a9b629",
-      "search_keyword": null,
-      "source": "金山办公WPS官网",
-      "publish_date": "2026-09-03 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_wps_18e7ef00-1329-4766-baf0-b9f023c29e8b",
-      "title": "营销（AI应用专项）-面向2027届-北京",
-      "company": "金山办公WPS",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/18e7ef00-1329-4766-baf0-b9f023c29e8b",
       "search_keyword": null,
       "source": "金山办公WPS官网",
       "publish_date": "2026-09-03 00:00",
@@ -4802,6 +4764,44 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_4d5c14bb-5ae4-4fde-adf8-06802c546154",
+      "title": "服装设计师（广州）-童装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-23 15:19:44",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "title": "服装设计师（广州）-女装-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-23 15:19:44",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
       "id": "moka_shein_13e71de0-6050-4ccc-bdf4-859872ffb7fc",
       "title": "安全运营专员（肇庆）-2027届",
       "company": "SHEIN",
@@ -4859,25 +4859,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_4d5c14bb-5ae4-4fde-adf8-06802c546154",
-      "title": "服装设计师（广州）-童装-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-18 15:33:12",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
       "title": "供应商管理专员（广州）-营销&KOL运营方向-2027届",
       "company": "SHEIN",
@@ -4894,25 +4875,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_59ea8b2e-3504-46e7-bc07-04c7b43765d9",
-      "title": "服装设计师（广州）-女装-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/59ea8b2e-3504-46e7-bc07-04c7b43765d9",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-18 15:33:12",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
       "is_new": false
     },
     {
@@ -5027,25 +4989,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-12",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_564a0061-5ef7-484e-9948-87274eb5ebbc",
-      "title": "平面设计实习生（上海）",
-      "company": "SHEIN",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/564a0061-5ef7-484e-9948-87274eb5ebbc",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-08-28 16:15:31",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-31",
       "is_new": false
     },
     {
