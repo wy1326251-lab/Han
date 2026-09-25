@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 14:43:56",
+  "updated_at": "2026-09-25 14:35:45",
   "job_count": 281,
   "excluded_count": 44,
   "jobs": [
@@ -241,7 +241,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-24",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78038",
@@ -4841,7 +4841,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-24",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_78644",
@@ -5361,7 +5361,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-24",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_77770",

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24 14:48:12",
-  "job_count": 329,
-  "excluded_count": 133,
+  "updated_at": "2026-09-25 14:39:10",
+  "job_count": 328,
+  "excluded_count": 132,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -3375,26 +3375,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-19",
-      "is_new": false
-    },
-    {
-      "id": "moka_yoozoo_e7382b41-f882-4138-bd0b-964b37a07749",
-      "title": "互动影游剪辑实习生",
-      "company": "游族网络",
-      "city": null,
-      "industry": "用户服务中心",
-      "tags": [
-        "实习",
-        "用户服务中心"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/e7382b41-f882-4138-bd0b-964b37a07749",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-09-15 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-18",
       "is_new": false
     },
     {

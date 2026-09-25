@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24 14:44:51",
-  "job_count": 36,
+  "updated_at": "2026-09-25 14:36:28",
+  "job_count": 35,
   "excluded_count": 199,
   "jobs": [
     {
@@ -339,25 +339,6 @@
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13147",
-      "title": "AIGC技术美术",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13147",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 17:59:47",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
