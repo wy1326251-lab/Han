@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27 15:08:00",
-  "job_count": 328,
+  "updated_at": "2026-09-28 15:32:29",
+  "job_count": 326,
   "excluded_count": 132,
   "jobs": [
     {
@@ -1410,25 +1410,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zhihu_44b6dae6-7c3e-44f7-9079-89ec59028b10",
-      "title": "AI内容运营实习生",
-      "company": "知乎",
-      "city": "深圳",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/44b6dae6-7c3e-44f7-9079-89ec59028b10",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-09-10 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-11",
-      "is_new": false
-    },
-    {
       "id": "moka_zhihu_3bf1b32a-e80c-4dd2-aa39-a7890b712579",
       "title": "增长运营",
       "company": "知乎",
@@ -1574,25 +1555,6 @@
       "search_keyword": null,
       "source": "知乎官网",
       "publish_date": "2026-07-08 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_c2178e76-bb08-4776-8323-85bf9dfad652",
-      "title": "大模型数据运营（27届）",
-      "company": "知乎",
-      "city": "成都",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/c2178e76-bb08-4776-8323-85bf9dfad652",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-08-07 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
