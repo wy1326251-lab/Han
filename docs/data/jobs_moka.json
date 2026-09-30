@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29 15:30:05",
-  "job_count": 329,
+  "updated_at": "2026-09-30 15:20:34",
+  "job_count": 332,
   "excluded_count": 133,
   "jobs": [
     {
@@ -761,7 +761,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-29",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_step_46dcf396-74a1-4f27-9847-71c834352d64",
@@ -3159,6 +3159,26 @@
       "is_new": false
     },
     {
+      "id": "moka_shengqu_220ac68b-f92f-4cbc-9e43-989fa263d3ee",
+      "title": "2027届秋招-游戏创意设计师（视频）",
+      "company": "盛趣游戏",
+      "city": "上海",
+      "industry": "盛趣游戏",
+      "tags": [
+        "全职",
+        "盛趣游戏"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/220ac68b-f92f-4cbc-9e43-989fa263d3ee",
+      "search_keyword": null,
+      "source": "盛趣游戏官网",
+      "publish_date": "2026-09-30 10:14:32",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-30",
+      "is_new": true
+    },
+    {
       "id": "moka_yoozoo_6455a703-4b99-434e-a317-5727083bd631",
       "title": "数据开发（AI方向）",
       "company": "游族网络",
@@ -3764,7 +3784,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-29",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
@@ -4534,6 +4554,44 @@
       "is_new": false
     },
     {
+      "id": "moka_zuoyebang_7b76040e-7b56-44f6-99b3-e12f4d2e75a7",
+      "title": "视频剪辑-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/7b76040e-7b56-44f6-99b3-e12f4d2e75a7",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-09-30 14:37:15",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-30",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_8dc4cec5-c253-4d66-bd7e-490b84b56b87",
+      "title": "达人运营-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/8dc4cec5-c253-4d66-bd7e-490b84b56b87",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-09-30 14:37:15",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-30",
+      "is_new": true
+    },
+    {
       "id": "moka_zuoyebang_a72bf197-18d8-45f7-8012-ba9ead00342e",
       "title": "直播主播-27秋招",
       "company": "作业帮",
@@ -4550,7 +4608,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-29",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_d87de46b-5d4f-4b99-9387-39fbe336a984",
@@ -4569,7 +4627,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-29",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_cc0aea69-7607-47a5-a029-79ee36d5ea1a",
@@ -4588,7 +4646,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-29",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_9c2f58dd-dceb-4153-ad81-5be8f5df85da",
@@ -4759,7 +4817,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-29",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
