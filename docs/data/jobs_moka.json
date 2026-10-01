@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 15:20:34",
+  "updated_at": "2026-10-01 15:43:29",
   "job_count": 332,
   "excluded_count": 133,
   "jobs": [
@@ -3176,7 +3176,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_yoozoo_6455a703-4b99-434e-a317-5727083bd631",
@@ -4570,7 +4570,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_8dc4cec5-c253-4d66-bd7e-490b84b56b87",
@@ -4589,7 +4589,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_a72bf197-18d8-45f7-8012-ba9ead00342e",
@@ -4807,7 +4807,7 @@
       "city": "南山区",
       "industry": null,
       "tags": [
-        "全职"
+        "实习"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/700a785c-ac36-41d2-8125-3e22e3e84ca8",
       "search_keyword": null,
