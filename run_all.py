@@ -7,11 +7,16 @@ GitHub 每天自动运行的也是这个文件。
 设计上有意让它"不容易整个失败"：某一个网站临时抽风、改版或者超时了，
 只会跳过那一个来源并留下记录，其他来源照常抓，不会因为一处出错就
 让当天一条数据都更新不了。
+
+每次跑完会把每个来源成没成功、抓到几个写进 docs/data/run_status.json，
+Mac 上的体检（health-check.py）读这份记录：有来源失败或抓到 0 个就标黄。
+这样"个别来源坏了但整体算成功"也能被看见。
 """
 
 from __future__ import annotations
 
 import importlib
+import json
 import sys
 import traceback
 from datetime import datetime
@@ -21,6 +26,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent / "scraper"))
 
 import common  # noqa: E402
+
+STATUS_FILE = Path(__file__).resolve().parent / "docs" / "data" / "run_status.json"
 
 # 每个来源写成 (显示名称, 模块名, 该模块 run() 需要的参数)
 SOURCES = [
@@ -38,6 +45,7 @@ def main() -> int:
     total_jobs = 0
     total_new = 0
     failed = []
+    sources = []   # 每个来源这次的结果，最后写进 run_status.json
 
     for label, module_name, args_of in SOURCES:
         print(f"----- {label} -----")
@@ -48,13 +56,17 @@ def main() -> int:
             total_jobs += result["job_count"]
             total_new += new_count
             print(f"{label}：抓到 {result['job_count']} 个，其中新职位 {new_count} 个\n")
-        except Exception:
+            sources.append({"name": label, "ok": True, "job_count": result["job_count"], "new_count": new_count})
+        except Exception as e:
             failed.append(label)
+            sources.append({"name": label, "ok": False, "job_count": 0, "new_count": 0,
+                            "error": f"{type(e).__name__}: {e}"[:200]})
             print(f"{label}：抓取失败，跳过。原因如下：")
             traceback.print_exc()
             print()
 
     print("===== 抓取结束 =====")
+    write_status(sources)
     print(f"合计 {total_jobs} 个职位，其中今天新出现的 {total_new} 个")
     if failed:
         print(f"以下来源今天没抓成功：{'、'.join(failed)}")
@@ -65,6 +77,16 @@ def main() -> int:
         print("所有来源都失败了，可能是网络问题或者网站集体改版，需要检查。")
         return 1
     return 0
+
+
+def write_status(sources: list[dict]) -> None:
+    """记下这次每个来源的结果。写不了也不影响抓取本身。"""
+    try:
+        STATUS_FILE.parent.mkdir(parents=True, exist_ok=True)
+        data = {"run_at": datetime.now().astimezone().isoformat(timespec="seconds"), "sources": sources}
+        STATUS_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    except OSError as e:
+        print(f"来源记录没写成（不影响抓取）：{e}")
 
 
 if __name__ == "__main__":
