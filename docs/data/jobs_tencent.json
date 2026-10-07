@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-06 21:07:24",
-  "job_count": 5,
+  "updated_at": "2026-10-07 15:44:18",
+  "job_count": 6,
   "excluded_count": 1,
   "jobs": [
+    {
+      "id": "tencent_2107672308637417472",
+      "title": "AI Compute Intern 108149",
+      "company": "腾讯",
+      "city": "新加坡",
+      "industry": "技术",
+      "tags": [
+        "Overseas Functional System"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/AI-Compute-Intern_R108149",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年10月06日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-07",
+      "is_new": true
+    },
     {
       "id": "tencent_1985607970624524288",
       "title": "ゲームAIリサーチインターン｜Game AI Research Intern 106377",
