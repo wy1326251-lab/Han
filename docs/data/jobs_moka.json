@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07 15:47:03",
-  "job_count": 332,
-  "excluded_count": 133,
+  "updated_at": "2026-10-08 15:58:51",
+  "job_count": 330,
+  "excluded_count": 135,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -3159,6 +3159,26 @@
       "is_new": false
     },
     {
+      "id": "moka_shengqu_1081a8c8-1de6-40f9-8e60-fa5e029a0970",
+      "title": "2027届秋招实习-系统策划（传世端游）",
+      "company": "盛趣游戏",
+      "city": "上海",
+      "industry": "盛趣游戏",
+      "tags": [
+        "全职",
+        "盛趣游戏"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/1081a8c8-1de6-40f9-8e60-fa5e029a0970",
+      "search_keyword": null,
+      "source": "盛趣游戏官网",
+      "publish_date": "2026-10-08 15:33:31",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-08",
+      "is_new": true
+    },
+    {
       "id": "moka_shengqu_220ac68b-f92f-4cbc-9e43-989fa263d3ee",
       "title": "2027届秋招-游戏创意设计师（视频）",
       "company": "盛趣游戏",
@@ -3376,46 +3396,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-05",
-      "is_new": false
-    },
-    {
-      "id": "moka_yoozoo_decb2e14-ffe1-4ff1-9174-e5b7506d5fbe",
-      "title": "角色美术（原画AI方向）",
-      "company": "游族网络",
-      "city": null,
-      "industry": "美术组",
-      "tags": [
-        "全职",
-        "美术组"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/decb2e14-ffe1-4ff1-9174-e5b7506d5fbe",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-04-02 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_yoozoo_0ddc48b5-ffe8-4c81-b5ec-5d58ac092a58",
-      "title": "游戏运营",
-      "company": "游族网络",
-      "city": null,
-      "industry": "游族网络",
-      "tags": [
-        "全职",
-        "游族网络"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/0ddc48b5-ffe8-4c81-b5ec-5d58ac092a58",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-06-15 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -4984,25 +4964,6 @@
       "search_keyword": null,
       "source": "SHEIN官网",
       "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_7af35ecb-612c-4903-a745-9799142d14a5",
-      "title": "平台运营专员（南京）-大促活动策略-2027届",
-      "company": "SHEIN",
-      "city": "雨花台区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/7af35ecb-612c-4903-a745-9799142d14a5",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-03 23:50:41",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
