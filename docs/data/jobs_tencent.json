@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08 15:56:02",
-  "job_count": 6,
+  "updated_at": "2026-10-09 15:53:27",
+  "job_count": 5,
   "excluded_count": 1,
   "jobs": [
     {
@@ -54,25 +54,6 @@
       "search_keyword": "AI",
       "source": "腾讯招聘",
       "publish_date": "2026年07月28日",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "tencent_2066556381242245120",
-      "title": "Cloud & AI Sales Intern 107662",
-      "company": "腾讯",
-      "city": "伦敦",
-      "industry": "销售、服务与支持",
-      "tags": [
-        "CSIG"
-      ],
-      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Associate-Account-Representative--Intern_R107662",
-      "search_keyword": "AI",
-      "source": "腾讯招聘",
-      "publish_date": "2026年07月20日",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
