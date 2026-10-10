@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09 15:56:23",
-  "job_count": 330,
+  "updated_at": "2026-10-10 15:45:15",
+  "job_count": 329,
   "excluded_count": 135,
   "jobs": [
     {
@@ -39,63 +39,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-23",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
-      "title": "AI 产品运营实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-09-11 17:58:02",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
-      "title": "AI harness 产品实习生",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-09-02 21:30:50",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-31",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_f68a944c-ddff-44a9-9ed1-018b0d006afe",
-      "title": "设计实习生",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f68a944c-ddff-44a9-9ed1-018b0d006afe",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-08-26 17:05:21",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-27",
       "is_new": false
     },
     {
@@ -194,18 +137,37 @@
       "is_new": false
     },
     {
-      "id": "moka_moonshot_529591c4-cac4-47a1-b122-a15088e5459e",
-      "title": "Agent Development Engineer（实习）",
+      "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+      "title": "AI harness 产品实习生",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-10-10 14:05:03",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-31",
+      "is_new": false
+    },
+    {
+      "id": "moka_moonshot_f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
+      "title": "AI 产品运营实习生",
       "company": "月之暗面(Kimi)",
       "city": "北京",
       "industry": null,
       "tags": [
         "实习"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/529591c4-cac4-47a1-b122-a15088e5459e",
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
-      "publish_date": "2025-12-02 19:52:15",
+      "publish_date": "2026-09-11 17:58:02",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -320,6 +282,25 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-08-26 17:07:18",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-27",
+      "is_new": false
+    },
+    {
+      "id": "moka_moonshot_f68a944c-ddff-44a9-9ed1-018b0d006afe",
+      "title": "设计实习生",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f68a944c-ddff-44a9-9ed1-018b0d006afe",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-08-26 17:05:21",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -662,6 +643,25 @@
       "search_keyword": null,
       "source": "月之暗面(Kimi)官网",
       "publish_date": "2026-01-29 14:47:52",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "moka_moonshot_529591c4-cac4-47a1-b122-a15088e5459e",
+      "title": "Agent Development Engineer（实习）",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/529591c4-cac4-47a1-b122-a15088e5459e",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2025-12-02 19:52:15",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -1764,7 +1764,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_68b27427-aa2a-4ec3-ae74-839043d4d61e",
@@ -3078,6 +3078,46 @@
       "is_new": false
     },
     {
+      "id": "moka_shengqu_1081a8c8-1de6-40f9-8e60-fa5e029a0970",
+      "title": "2027届秋招实习-系统策划（传世端游）",
+      "company": "盛趣游戏",
+      "city": "上海",
+      "industry": "盛趣游戏",
+      "tags": [
+        "全职",
+        "盛趣游戏"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/1081a8c8-1de6-40f9-8e60-fa5e029a0970",
+      "search_keyword": null,
+      "source": "盛趣游戏官网",
+      "publish_date": "2026-10-10 10:49:58",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-08",
+      "is_new": false
+    },
+    {
+      "id": "moka_shengqu_220ac68b-f92f-4cbc-9e43-989fa263d3ee",
+      "title": "2027届秋招-游戏创意设计师（视频）",
+      "company": "盛趣游戏",
+      "city": "上海",
+      "industry": "盛趣游戏",
+      "tags": [
+        "全职",
+        "盛趣游戏"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/220ac68b-f92f-4cbc-9e43-989fa263d3ee",
+      "search_keyword": null,
+      "source": "盛趣游戏官网",
+      "publish_date": "2026-10-10 10:49:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-30",
+      "is_new": false
+    },
+    {
       "id": "moka_shengqu_b1023dad-0fe4-4b71-83fb-ad8d4b60fce5",
       "title": "2027届秋招-战斗策划（永恒之塔手游）",
       "company": "盛趣游戏",
@@ -3175,46 +3215,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_shengqu_1081a8c8-1de6-40f9-8e60-fa5e029a0970",
-      "title": "2027届秋招实习-系统策划（传世端游）",
-      "company": "盛趣游戏",
-      "city": "上海",
-      "industry": "盛趣游戏",
-      "tags": [
-        "全职",
-        "盛趣游戏"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/1081a8c8-1de6-40f9-8e60-fa5e029a0970",
-      "search_keyword": null,
-      "source": "盛趣游戏官网",
-      "publish_date": "2026-10-08 15:33:31",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-10-08",
-      "is_new": false
-    },
-    {
-      "id": "moka_shengqu_220ac68b-f92f-4cbc-9e43-989fa263d3ee",
-      "title": "2027届秋招-游戏创意设计师（视频）",
-      "company": "盛趣游戏",
-      "city": "上海",
-      "industry": "盛趣游戏",
-      "tags": [
-        "全职",
-        "盛趣游戏"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/220ac68b-f92f-4cbc-9e43-989fa263d3ee",
-      "search_keyword": null,
-      "source": "盛趣游戏官网",
-      "publish_date": "2026-09-30 10:14:32",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-30",
       "is_new": false
     },
     {
@@ -4796,7 +4796,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_700a785c-ac36-41d2-8125-3e22e3e84ca8",
@@ -4913,25 +4913,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
-      "title": "供应商管理专员（广州）-营销&KOL运营方向-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/2ec4f8eb-2967-43ba-a8e9-707d7fee5d62",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-18 15:33:12",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_249aab0b-f7e0-493e-81f5-ce5fe48c5b6a",
       "title": "女装设计企划（广州）-2027届",
       "company": "SHEIN",
@@ -5005,7 +4986,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_bf64a736-8552-4d38-8bac-b97ec7b0ec45",
@@ -5050,10 +5031,10 @@
       "title": "27届秋招-AI Operation Analyst（国际化外卖）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/3972818a-f7bb-442c-9bd9-fa2dfbe76aef",
       "search_keyword": null,
@@ -5190,10 +5171,10 @@
       "title": "27届秋招-AI产品助理（国际化外卖本地生活方向）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/57c820bb-6086-4a95-bfda-24b249123914",
       "search_keyword": null,
@@ -5490,10 +5471,10 @@
       "title": "27届秋招-产品用户运营分析师（国际化出行-西语/英语）",
       "company": "滴滴",
       "city": "杭州/北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/0068bc02-c105-41e9-9974-9532c7778bdd",
       "search_keyword": null,
@@ -5510,10 +5491,10 @@
       "title": "27届秋招-产品用户运营分析师（国际化出行-葡语/英语）",
       "company": "滴滴",
       "city": "杭州/北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/9c676981-0237-4fca-9241-1701b6697d67",
       "search_keyword": null,
@@ -5550,10 +5531,10 @@
       "title": "27届秋招-用户增长运营分析师（国际化外卖）",
       "company": "滴滴",
       "city": "北京/上海",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ab4a1333-a550-401d-a8e8-f45a5bb089bc",
       "search_keyword": null,
@@ -5630,10 +5611,10 @@
       "title": "27届秋招-AI产品助理 （国际化外卖-广告策略）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/88aa5d14-8f5b-4da4-ad7c-b51095659549",
       "search_keyword": null,
@@ -5650,10 +5631,10 @@
       "title": "27届秋招-国际化运营分析师（国际化外卖-西语）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ad999e41-1233-4f58-b7ed-174c9b93b6f7",
       "search_keyword": null,
@@ -5670,10 +5651,10 @@
       "title": "27届秋招-国际化运营分析师（国际化外卖）",
       "company": "滴滴",
       "city": "北京/杭州",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/e7caa9d5-9e1d-41b4-8975-2a4b978e03a8",
       "search_keyword": null,
@@ -5730,10 +5711,10 @@
       "title": "27届秋招-国际化运营分析师（国际化外卖-葡语）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/84a3b703-c978-4dce-bd9f-6c93764c8468",
       "search_keyword": null,
@@ -5750,10 +5731,10 @@
       "title": "27届秋招-AI产品助理（国际化外卖-新业务）",
       "company": "滴滴",
       "city": "北京",
-      "industry": "国际化事业部",
+      "industry": "国际化事业群",
       "tags": [
         "全职",
-        "国际化事业部"
+        "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/60cb1018-984b-43de-9eb7-b7a57182f36d",
       "search_keyword": null,
