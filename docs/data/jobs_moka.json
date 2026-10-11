@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-10 15:45:15",
-  "job_count": 329,
-  "excluded_count": 135,
+  "updated_at": "2026-10-11 15:47:29",
+  "job_count": 331,
+  "excluded_count": 136,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -1389,6 +1389,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_c8c21abb-c883-45e3-b5e6-971b26532725",
+      "title": "AI 数据合成平台开发实习生（28届）",
+      "company": "知乎",
+      "city": "深圳",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/c8c21abb-c883-45e3-b5e6-971b26532725",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-10-10 00:00",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-11",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_b9b066bf-8908-4132-8069-135fab5ac661",
@@ -4778,6 +4797,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_f9b54292-c909-4f81-b117-4b24259d1c0a",
+      "title": "项目管理专员（广州）-运营策略-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/f9b54292-c909-4f81-b117-4b24259d1c0a",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-10-11 14:45:50",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-11",
+      "is_new": true
     },
     {
       "id": "moka_shein_e6567172-0d07-493c-9105-e6ecd22ff247",
