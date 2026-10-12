@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11 15:47:29",
-  "job_count": 331,
+  "updated_at": "2026-10-12 15:59:06",
+  "job_count": 328,
   "excluded_count": 136,
   "jobs": [
     {
@@ -1407,7 +1407,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-11",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_b9b066bf-8908-4132-8069-135fab5ac661",
@@ -3652,25 +3652,6 @@
       "is_new": false
     },
     {
-      "id": "moka_37_0d95e979-d76c-410d-a880-746843453996",
-      "title": "系统策划（北京）",
-      "company": "三七互娱",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/37/58016#/job/0d95e979-d76c-410d-a880-746843453996",
-      "search_keyword": null,
-      "source": "三七互娱官网",
-      "publish_date": "2026-08-13 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_37_5300b506-365c-457a-bf61-545452ff39ff",
       "title": "海外游戏运营",
       "company": "三七互娱",
@@ -3824,7 +3805,7 @@
     },
     {
       "id": "moka_zlongame_452ddd07-9e40-4dd3-9075-2f5d2b1533f7",
-      "title": "【2027校招】游戏系统策划",
+      "title": "【2027校招】游戏系统策划（梦幻模拟战）",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
@@ -4815,7 +4796,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-11",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_e6567172-0d07-493c-9105-e6ecd22ff247",
@@ -5575,46 +5556,6 @@
         "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ab4a1333-a550-401d-a8e8-f45a5bb089bc",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_24b7aabb-5714-4d34-8cb5-b1f48c10f545",
-      "title": "27届秋招-策略运营专员",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/24b7aabb-5714-4d34-8cb5-b1f48c10f545",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_c8f0d53b-3694-437e-8632-efb42f258524",
-      "title": "27届秋招-智能运营专员",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/c8f0d53b-3694-437e-8632-efb42f258524",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
