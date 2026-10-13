@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12 15:55:54",
-  "job_count": 5,
+  "updated_at": "2026-10-13 16:14:11",
+  "job_count": 6,
   "excluded_count": 1,
   "jobs": [
     {
@@ -59,6 +59,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "tencent_2109559751338803200",
+      "title": "Tencent Cloud Sales Intern, Cloud & AI 108239",
+      "company": "腾讯",
+      "city": "法兰克福",
+      "industry": "销售、服务与支持",
+      "tags": [
+        "CSIG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Germany-Frankfurt/Tencent-Cloud-Sales-Intern--Cloud---AI_R108239",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年10月12日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-13",
+      "is_new": true
     },
     {
       "id": "tencent_2107053227215339520",

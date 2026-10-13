@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12 15:59:06",
-  "job_count": 328,
-  "excluded_count": 136,
+  "updated_at": "2026-10-13 16:16:59",
+  "job_count": 325,
+  "excluded_count": 138,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -3357,26 +3357,6 @@
       "is_new": false
     },
     {
-      "id": "moka_yoozoo_660663ae-f3a3-4dfe-985e-d3e5ae65a57c",
-      "title": "游戏用户运营实习生",
-      "company": "游族网络",
-      "city": null,
-      "industry": "运营部",
-      "tags": [
-        "实习",
-        "运营部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/660663ae-f3a3-4dfe-985e-d3e5ae65a57c",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-09-18 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-19",
-      "is_new": false
-    },
-    {
       "id": "moka_yoozoo_84c70a20-953a-4a3d-af87-47cbb6f25019",
       "title": "游戏音效设计实习生",
       "company": "游族网络",
@@ -4707,7 +4687,7 @@
       "id": "moka_zuoyebang_685c7e6b-ae3c-4e38-8bed-5a322a906342",
       "title": "海外投放（AI业务）[北京]-27秋招",
       "company": "作业帮",
-      "city": "上海/北京",
+      "city": "北京",
       "industry": null,
       "tags": [
         "全职"
@@ -5526,26 +5506,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_4471ffdc-f548-4894-8c09-e9d208f67093",
-      "title": "27届秋招-服务设计专员",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/4471ffdc-f548-4894-8c09-e9d208f67093",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_ab4a1333-a550-401d-a8e8-f45a5bb089bc",
       "title": "27届秋招-用户增长运营分析师（国际化外卖）",
       "company": "滴滴",
@@ -5556,26 +5516,6 @@
         "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ab4a1333-a550-401d-a8e8-f45a5bb089bc",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_9627d985-ee75-48cf-a361-b456a9031177",
-      "title": "27届秋招-产品与用户运营专员-流量运营与业务增长",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/9627d985-ee75-48cf-a361-b456a9031177",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
