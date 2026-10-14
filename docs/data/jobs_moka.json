@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13 16:16:59",
-  "job_count": 325,
-  "excluded_count": 138,
+  "updated_at": "2026-10-14 14:42:15",
+  "job_count": 328,
+  "excluded_count": 141,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -1676,44 +1676,6 @@
       "is_new": false
     },
     {
-      "id": "moka_meitu_5f0cb9cf-c9ed-4673-986d-75ad9f9e20e6",
-      "title": "海外市场运营实习生（日本市场）",
-      "company": "美图",
-      "city": null,
-      "industry": "影像产品事业群",
-      "tags": [
-        "影像产品事业群"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/5f0cb9cf-c9ed-4673-986d-75ad9f9e20e6",
-      "search_keyword": null,
-      "source": "美图官网",
-      "publish_date": "2026-08-12 11:07:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_meitu_f301a674-82e8-412f-9bc3-f72a289e2023",
-      "title": "海外AI创意增长实习生",
-      "company": "美图",
-      "city": null,
-      "industry": "影像产品事业群",
-      "tags": [
-        "影像产品事业群"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/f301a674-82e8-412f-9bc3-f72a289e2023",
-      "search_keyword": null,
-      "source": "美图官网",
-      "publish_date": "2026-07-23 16:59:58",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_meitu_6ae7860b-2176-4387-8420-6b727d3b3450",
       "title": "美图校园大使（运营方向）",
       "company": "美图",
@@ -2088,6 +2050,57 @@
       "is_campus_official": true,
       "first_seen": "2026-08-26",
       "is_new": false
+    },
+    {
+      "id": "moka_mgtv_133f6ce4-08c4-4a70-b0b9-ec60bea665cd",
+      "title": "AI产品经理（平台技术中心）",
+      "company": "芒果TV",
+      "city": null,
+      "industry": null,
+      "tags": [],
+      "link": "https://hr.mgtv.com/campus-recruitment/mgtv/172671#/job/133f6ce4-08c4-4a70-b0b9-ec60bea665cd",
+      "search_keyword": null,
+      "source": "芒果TV官网",
+      "publish_date": "2026-09-17 15:23:32",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "moka_mgtv_cfbaa39c-e05e-49e4-b9aa-20009cbe3456",
+      "title": "AI产品经理（智能研究中心）",
+      "company": "芒果TV",
+      "city": null,
+      "industry": null,
+      "tags": [],
+      "link": "https://hr.mgtv.com/campus-recruitment/mgtv/172671#/job/cfbaa39c-e05e-49e4-b9aa-20009cbe3456",
+      "search_keyword": null,
+      "source": "芒果TV官网",
+      "publish_date": "2026-09-17 15:23:13",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "moka_mgtv_cc412e72-1e52-4724-bef9-32eb84798555",
+      "title": "AI产品经理（智能媒资中心）",
+      "company": "芒果TV",
+      "city": null,
+      "industry": null,
+      "tags": [],
+      "link": "https://hr.mgtv.com/campus-recruitment/mgtv/172671#/job/cc412e72-1e52-4724-bef9-32eb84798555",
+      "search_keyword": null,
+      "source": "芒果TV官网",
+      "publish_date": "2026-09-17 15:23:07",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-14",
+      "is_new": true
     },
     {
       "id": "moka_hypergryph_52c7d293-350e-4242-8f90-b3d6a96778e1",
@@ -4513,6 +4526,44 @@
       "is_new": false
     },
     {
+      "id": "moka_zuoyebang_3543e135-7343-4452-9fb3-5446cb2890a3",
+      "title": "视频编导（高中）-27实习",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/3543e135-7343-4452-9fb3-5446cb2890a3",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-14 11:02:02",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_b84c7b6b-676e-4d98-ad8e-097d63c690d2",
+      "title": "新媒体运营（企业文化方向）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/b84c7b6b-676e-4d98-ad8e-097d63c690d2",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-14 10:48:25",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-14",
+      "is_new": true
+    },
+    {
       "id": "moka_zuoyebang_7b76040e-7b56-44f6-99b3-e12f4d2e75a7",
       "title": "视频剪辑-27秋招",
       "company": "作业帮",
@@ -4590,7 +4641,7 @@
     },
     {
       "id": "moka_zuoyebang_cc0aea69-7607-47a5-a029-79ee36d5ea1a",
-      "title": "视频编导-27秋招",
+      "title": "视频编导（初中）-27秋招",
       "company": "作业帮",
       "city": "北京",
       "industry": null,
@@ -5895,9 +5946,9 @@
     },
     {
       "id": "moka_cambricon_7d8d13db-f884-4e63-bd95-ffcb13a529f0",
-      "title": "AI解决方案实习生-27届",
+      "title": "AI解决方案实习生-日常实习",
       "company": "寒武纪",
-      "city": "上海/北京",
+      "city": "北京",
       "industry": null,
       "tags": [],
       "link": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/7d8d13db-f884-4e63-bd95-ffcb13a529f0",
@@ -5905,7 +5956,7 @@
       "source": "寒武纪官网",
       "publish_date": "2026-02-24 00:00",
       "salary": null,
-      "offers_fulltime": true,
+      "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
