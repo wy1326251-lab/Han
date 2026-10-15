@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14 14:42:15",
-  "job_count": 328,
+  "updated_at": "2026-10-15 14:26:03",
+  "job_count": 327,
   "excluded_count": 141,
   "jobs": [
     {
@@ -2066,7 +2066,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_mgtv_cfbaa39c-e05e-49e4-b9aa-20009cbe3456",
@@ -2083,7 +2083,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_mgtv_cc412e72-1e52-4724-bef9-32eb84798555",
@@ -2100,7 +2100,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_hypergryph_52c7d293-350e-4242-8f90-b3d6a96778e1",
@@ -4542,7 +4542,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_b84c7b6b-676e-4d98-ad8e-097d63c690d2",
@@ -4561,7 +4561,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-14",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_7b76040e-7b56-44f6-99b3-e12f4d2e75a7",
@@ -4789,25 +4789,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zuoyebang_6b6dcdd1-8f44-473f-890c-148f116f9c58",
-      "title": "素材运营（海外业务）[北京/上海]-27秋招",
-      "company": "作业帮",
-      "city": "上海/北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/6b6dcdd1-8f44-473f-890c-148f116f9c58",
-      "search_keyword": null,
-      "source": "作业帮官网",
-      "publish_date": "2026-08-10 10:10:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {

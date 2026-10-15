@@ -1,17 +1,17 @@
 {
-  "run_at": "2026-10-14T06:42:15+00:00",
+  "run_at": "2026-10-15T06:26:03+00:00",
   "sources": [
     {
       "name": "实习僧",
       "ok": true,
-      "job_count": 321,
-      "new_count": 23
+      "job_count": 329,
+      "new_count": 36
     },
     {
       "name": "网易招聘",
       "ok": true,
-      "job_count": 299,
-      "new_count": 6
+      "job_count": 302,
+      "new_count": 9
     },
     {
       "name": "腾讯招聘",
@@ -28,8 +28,8 @@
     {
       "name": "Moka平台(各公司官网校招)",
       "ok": true,
-      "job_count": 328,
-      "new_count": 5
+      "job_count": 327,
+      "new_count": 0
     }
   ]
 }
