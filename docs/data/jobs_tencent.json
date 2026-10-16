@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15 14:23:05",
-  "job_count": 6,
+  "updated_at": "2026-10-16 14:21:27",
+  "job_count": 8,
   "excluded_count": 1,
   "jobs": [
     {
@@ -59,6 +59,44 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "tencent_2110692200223518720",
+      "title": "AI Product Manager Intern, Game Development 108258",
+      "company": "腾讯",
+      "city": "阿姆斯特丹",
+      "industry": "产品",
+      "tags": [
+        "IEG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/AI-Product-Manager-Intern--Game-Development_R108258",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年10月15日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-16",
+      "is_new": true
+    },
+    {
+      "id": "tencent_2110692196108910592",
+      "title": "Game Development Tools Intern (AI Focus) 108251",
+      "company": "腾讯",
+      "city": "伦敦",
+      "industry": "技术",
+      "tags": [
+        "IEG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年10月15日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-16",
+      "is_new": true
     },
     {
       "id": "tencent_2109559751338803200",

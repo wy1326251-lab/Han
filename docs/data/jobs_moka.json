@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15 14:26:03",
+  "updated_at": "2026-10-16 14:24:19",
   "job_count": 327,
-  "excluded_count": 141,
+  "excluded_count": 142,
   "jobs": [
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
@@ -4241,6 +4241,25 @@
       "is_new": false
     },
     {
+      "id": "moka_wps_e578341f-16f6-4ff6-8512-a75bbc708b20",
+      "title": "AI办公创意设计师",
+      "company": "金山办公WPS",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/wps/41436#/job/e578341f-16f6-4ff6-8512-a75bbc708b20",
+      "search_keyword": null,
+      "source": "金山办公WPS官网",
+      "publish_date": "2026-10-16 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-16",
+      "is_new": true
+    },
+    {
       "id": "moka_wps_5663fd68-3ec6-4921-b804-bca2d1e8edc6",
       "title": "海外市场运营专员-面向2027届",
       "company": "金山办公WPS",
@@ -5668,26 +5687,6 @@
         "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/84a3b703-c978-4dce-bd9f-6c93764c8468",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_60cb1018-984b-43de-9eb7-b7a57182f36d",
-      "title": "27届秋招-AI产品助理（国际化外卖-新业务）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "国际化事业群",
-      "tags": [
-        "全职",
-        "国际化事业群"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/60cb1018-984b-43de-9eb7-b7a57182f36d",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
