@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16 14:24:19",
-  "job_count": 327,
+  "updated_at": "2026-10-17 14:09:14",
+  "job_count": 325,
   "excluded_count": 142,
   "jobs": [
     {
@@ -4257,7 +4257,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_wps_5663fd68-3ec6-4921-b804-bca2d1e8edc6",
@@ -4827,44 +4827,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-11",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_e6567172-0d07-493c-9105-e6ecd22ff247",
-      "title": "平面设计实习生",
-      "company": "SHEIN",
-      "city": "雨花台区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/e6567172-0d07-493c-9105-e6ecd22ff247",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-10-09 15:54:02",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-10-09",
-      "is_new": false
-    },
-    {
-      "id": "moka_shein_700a785c-ac36-41d2-8125-3e22e3e84ca8",
-      "title": "亚马逊运营实习生",
-      "company": "SHEIN",
-      "city": "南山区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/700a785c-ac36-41d2-8125-3e22e3e84ca8",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-29 14:40:30",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-29",
       "is_new": false
     },
     {
