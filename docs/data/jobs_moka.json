@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-18 14:33:40",
-  "job_count": 326,
+  "updated_at": "2026-10-19 14:48:49",
+  "job_count": 327,
   "excluded_count": 142,
   "jobs": [
+    {
+      "id": "moka_moonshot_8b97d540-493d-4b3c-bcc6-d8ec003e701d",
+      "title": "体验运营实习生（Harness业务方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8b97d540-493d-4b3c-bcc6-d8ec003e701d",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-10-19 11:57:40",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-19",
+      "is_new": true
+    },
     {
       "id": "moka_moonshot_6f3f3929-8c41-41a1-8b18-fc5e156a986d",
       "title": "Kimi增长创意实习生",
@@ -20,7 +39,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_f287f352-5561-4d86-bb85-552b0283854c",
