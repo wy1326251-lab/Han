@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20 14:37:21",
-  "job_count": 327,
-  "excluded_count": 142,
+  "updated_at": "2026-10-21 14:36:25",
+  "job_count": 323,
+  "excluded_count": 141,
   "jobs": [
     {
       "id": "moka_moonshot_8b97d540-493d-4b3c-bcc6-d8ec003e701d",
@@ -1449,7 +1449,7 @@
     },
     {
       "id": "moka_zhihu_b9b066bf-8908-4132-8069-135fab5ac661",
-      "title": "AI产品经理",
+      "title": "AI产品经理-27届",
       "company": "知乎",
       "city": "北京",
       "industry": null,
@@ -1461,7 +1461,7 @@
       "source": "知乎官网",
       "publish_date": "2026-09-23 00:00",
       "salary": null,
-      "offers_fulltime": false,
+      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-09-23",
       "is_new": false
@@ -3388,26 +3388,6 @@
       "is_new": false
     },
     {
-      "id": "moka_yoozoo_c299cdb5-da38-4385-aa0e-5a4e51d0a7df",
-      "title": "游戏运营实习生",
-      "company": "游族网络",
-      "city": null,
-      "industry": "苍玄项目组",
-      "tags": [
-        "实习",
-        "苍玄项目组"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c299cdb5-da38-4385-aa0e-5a4e51d0a7df",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-09-08 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-19",
-      "is_new": false
-    },
-    {
       "id": "moka_yoozoo_84c70a20-953a-4a3d-af87-47cbb6f25019",
       "title": "游戏音效设计实习生",
       "company": "游族网络",
@@ -4830,25 +4810,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zuoyebang_f02e7e11-0a1d-486b-a57a-0220e4849c58",
-      "title": "AI产品经理（硬件业务）-27秋招",
-      "company": "作业帮",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/f02e7e11-0a1d-486b-a57a-0220e4849c58",
-      "search_keyword": null,
-      "source": "作业帮官网",
-      "publish_date": "2026-08-10 10:10:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-14",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_f9b54292-c909-4f81-b117-4b24259d1c0a",
       "title": "项目管理专员（广州）-运营策略-2027届",
       "company": "SHEIN",
@@ -5018,6 +4979,25 @@
       "is_campus_official": true,
       "first_seen": "2026-09-04",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_7fe7c488-6a98-4c26-9292-bf142a2e7b2b",
+      "title": "项目管理专员（广州）-营销策略运营-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/7fe7c488-6a98-4c26-9292-bf142a2e7b2b",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-09-07 19:54:11",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-21",
+      "is_new": true
     },
     {
       "id": "moka_shein_7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
@@ -5194,26 +5174,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_4e3859db-c146-4de3-ae55-ea1561c97dff",
-      "title": "27届秋招-产品与用户运营专员-活跃用户运营",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/4e3859db-c146-4de3-ae55-ea1561c97dff",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-31 14:11:35",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-31",
       "is_new": false
     },
     {
@@ -5627,46 +5587,6 @@
         "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/e7caa9d5-9e1d-41b4-8975-2a4b978e03a8",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_e3b37531-f9ca-4ae7-af1a-adbc79166ca1",
-      "title": "27届秋招-产品与用户运营专员-增长产品运营",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/e3b37531-f9ca-4ae7-af1a-adbc79166ca1",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_cf86fb85-dd09-4b27-a61e-97f009db41de",
-      "title": "27届秋招-产品与用户运营专员-体验服务发展平台",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "用户平台部",
-      "tags": [
-        "全职",
-        "用户平台部"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/cf86fb85-dd09-4b27-a61e-97f009db41de",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",

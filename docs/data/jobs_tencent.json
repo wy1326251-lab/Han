@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20 14:34:28",
-  "job_count": 8,
+  "updated_at": "2026-10-21 14:33:17",
+  "job_count": 9,
   "excluded_count": 1,
   "jobs": [
     {
@@ -21,6 +21,25 @@
       "is_campus_official": true,
       "first_seen": "2026-10-07",
       "is_new": false
+    },
+    {
+      "id": "tencent_2112489061397737472",
+      "title": "Generative AI Research Intern 108261",
+      "company": "腾讯",
+      "city": "伦敦",
+      "industry": "技术",
+      "tags": [
+        "IEG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年10月20日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-21",
+      "is_new": true
     },
     {
       "id": "tencent_1985607970624524288",
