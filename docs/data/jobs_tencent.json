@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21 14:33:17",
-  "job_count": 9,
+  "updated_at": "2026-10-22 14:34:57",
+  "job_count": 10,
   "excluded_count": 1,
   "jobs": [
     {
@@ -39,7 +39,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "tencent_1985607970624524288",
@@ -78,6 +78,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "tencent_2112866534513881088",
+      "title": "AI-Native Game Design Intern 108252",
+      "company": "腾讯",
+      "city": "伦敦",
+      "industry": "产品",
+      "tags": [
+        "IEG"
+      ],
+      "link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Native-Game-Design-Intern_R108252-1",
+      "search_keyword": "AI",
+      "source": "腾讯招聘",
+      "publish_date": "2026年10月21日",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-22",
+      "is_new": true
     },
     {
       "id": "tencent_2110692200223518720",

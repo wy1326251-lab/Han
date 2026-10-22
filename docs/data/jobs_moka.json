@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21 14:36:25",
-  "job_count": 323,
-  "excluded_count": 141,
+  "updated_at": "2026-10-22 14:37:52",
+  "job_count": 324,
+  "excluded_count": 143,
   "jobs": [
     {
       "id": "moka_moonshot_8b97d540-493d-4b3c-bcc6-d8ec003e701d",
@@ -1427,6 +1427,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_cdeb354b-9245-478e-96fa-0ff2508b3c36",
+      "title": "分销内容运营",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/cdeb354b-9245-478e-96fa-0ff2508b3c36",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-10-21 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-22",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_c8c21abb-c883-45e3-b5e6-971b26532725",
@@ -3292,10 +3311,10 @@
       "title": "数据开发（AI方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "红岸实验室",
+      "industry": "AI创新院 AI Innovation Institute",
       "tags": [
         "实习",
-        "红岸实验室"
+        "AI创新院 AI Innovation Institute"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/6455a703-4b99-434e-a317-5727083bd631",
       "search_keyword": null,
@@ -3312,10 +3331,10 @@
       "title": "广告视频设计实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "广告中心",
+      "industry": "发行平台 Publishing Division",
       "tags": [
         "实习",
-        "广告中心"
+        "发行平台 Publishing Division"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/36728451-875e-4110-8ed8-1cf37c6c7d03",
       "search_keyword": null,
@@ -3332,10 +3351,10 @@
       "title": "数据产品经理（AI方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "红岸实验室",
+      "industry": "AI创新院 AI Innovation Institute",
       "tags": [
         "实习",
-        "红岸实验室"
+        "AI创新院 AI Innovation Institute"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/a35b0231-5eba-47e9-a314-b1811161a5f7",
       "search_keyword": null,
@@ -3352,10 +3371,10 @@
       "title": "数值策划",
       "company": "游族网络",
       "city": null,
-      "industry": "代号：Ball",
+      "industry": "饭团工作室",
       "tags": [
         "实习",
-        "代号：Ball"
+        "饭团工作室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
       "search_keyword": null,
@@ -3372,10 +3391,10 @@
       "title": "品牌视频部实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "品牌设计中心",
+      "industry": "发行平台 Publishing Division",
       "tags": [
         "实习",
-        "品牌设计中心"
+        "发行平台 Publishing Division"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/fd60960f-7ff7-4c9d-862e-14e976e1bc26",
       "search_keyword": null,
@@ -3392,10 +3411,10 @@
       "title": "游戏音效设计实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "美术",
+      "industry": "少年三国志 Junior Three Kingdom",
       "tags": [
         "实习",
-        "美术"
+        "少年三国志 Junior Three Kingdom"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/84c70a20-953a-4a3d-af87-47cbb6f25019",
       "search_keyword": null,
@@ -3412,10 +3431,10 @@
       "title": "策划实习生（AI方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "策划",
+      "industry": "饭团工作室",
       "tags": [
         "实习",
-        "策划"
+        "饭团工作室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/aa2b49bf-b951-49dc-9286-c07f1ce16241",
       "search_keyword": null,
@@ -3432,10 +3451,10 @@
       "title": "游戏运营实习生（产品运营方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "苍玄项目组",
+      "industry": "苍玄项目组 Cangxuan Project Team",
       "tags": [
         "实习",
-        "苍玄项目组"
+        "苍玄项目组 Cangxuan Project Team"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/db05441d-d5fe-43ea-8604-1a7d268a5c6c",
       "search_keyword": null,
@@ -3452,10 +3471,10 @@
       "title": "动效实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "回响项目组",
+      "industry": "回响项目组 Echo Team",
       "tags": [
         "实习",
-        "回响项目组"
+        "回响项目组 Echo Team"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/f203d1e2-0744-46ea-ac9c-bf120e670771",
       "search_keyword": null,
@@ -3472,10 +3491,10 @@
       "title": "AI大模型开发",
       "company": "游族网络",
       "city": null,
-      "industry": "红岸实验室",
+      "industry": "AI创新院 AI Innovation Institute",
       "tags": [
         "实习",
-        "红岸实验室"
+        "AI创新院 AI Innovation Institute"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/167e2b55-b0c2-4a16-8074-4e93368cd62d",
       "search_keyword": null,
@@ -3492,10 +3511,10 @@
       "title": "新媒体运营实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "品牌公关部",
+      "industry": "品牌公共事务中心 Branding Public Affairs Center",
       "tags": [
         "实习",
-        "品牌公关部"
+        "品牌公共事务中心 Branding Public Affairs Center"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/7bf6d0c8-4744-48a4-8f18-47ff203668ff",
       "search_keyword": null,
@@ -3512,10 +3531,10 @@
       "title": "运营实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "GOT PC",
+      "industry": "饭团工作室",
       "tags": [
         "实习",
-        "GOT PC"
+        "饭团工作室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/76cb7fc5-d669-4222-bdfc-7113ee75df0a",
       "search_keyword": null,
@@ -3532,10 +3551,10 @@
       "title": "界面动效实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "少年三国志II",
+      "industry": "R.E.D项目组 R.E.D Project Team",
       "tags": [
         "实习",
-        "少年三国志II"
+        "R.E.D项目组 R.E.D Project Team"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/ba9c4774-0891-42a1-b71e-b73c24bc6ef2",
       "search_keyword": null,
@@ -3552,10 +3571,10 @@
       "title": "系统策划",
       "company": "游族网络",
       "city": null,
-      "industry": "GOT PC",
+      "industry": "饭团工作室",
       "tags": [
         "实习",
-        "GOT PC"
+        "饭团工作室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/20189753-c9ee-46c0-af1a-c0860cb81678",
       "search_keyword": null,
@@ -4997,7 +5016,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
