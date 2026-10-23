@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22 14:37:52",
-  "job_count": 324,
+  "updated_at": "2026-10-23 14:35:28",
+  "job_count": 325,
   "excluded_count": 143,
   "jobs": [
     {
@@ -173,6 +173,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_moonshot_67d863ac-8854-4b26-b167-79ea6bef55b0",
+      "title": "Coding Agent 研发实习生｜Kimi Code",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/67d863ac-8854-4b26-b167-79ea6bef55b0",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-10-22 19:40:27",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-23",
+      "is_new": true
     },
     {
       "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
@@ -1445,7 +1464,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-22",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_c8c21abb-c883-45e3-b5e6-971b26532725",
@@ -1784,6 +1803,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_huya_9162369f-eb85-414e-ab6a-cc384d7a2653",
+      "title": "(2027届)社媒账号运营",
+      "company": "虎牙",
+      "city": null,
+      "industry": "2027届校园招聘",
+      "tags": [
+        "2027届校园招聘"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/huya/4112#/job/9162369f-eb85-414e-ab6a-cc384d7a2653",
+      "search_keyword": null,
+      "source": "虎牙官网",
+      "publish_date": "2026-10-23 11:17:09",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-23",
+      "is_new": true
     },
     {
       "id": "moka_huya_78b8c990-af32-4407-8b52-ecc1d745c3bc",
@@ -3187,26 +3225,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shengqu_220ac68b-f92f-4cbc-9e43-989fa263d3ee",
-      "title": "2027届秋招-游戏创意设计师（视频）",
-      "company": "盛趣游戏",
-      "city": "上海",
-      "industry": "盛趣游戏",
-      "tags": [
-        "全职",
-        "盛趣游戏"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/220ac68b-f92f-4cbc-9e43-989fa263d3ee",
-      "search_keyword": null,
-      "source": "盛趣游戏官网",
-      "publish_date": "2026-10-10 10:49:47",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-30",
-      "is_new": false
-    },
-    {
       "id": "moka_shengqu_b1023dad-0fe4-4b71-83fb-ad8d4b60fce5",
       "title": "2027届秋招-战斗策划（永恒之塔手游）",
       "company": "盛趣游戏",
@@ -3311,10 +3329,10 @@
       "title": "数据开发（AI方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "AI创新院 AI Innovation Institute",
+      "industry": "红岸实验室",
       "tags": [
         "实习",
-        "AI创新院 AI Innovation Institute"
+        "红岸实验室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/6455a703-4b99-434e-a317-5727083bd631",
       "search_keyword": null,
@@ -3331,10 +3349,10 @@
       "title": "广告视频设计实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "发行平台 Publishing Division",
+      "industry": "广告中心",
       "tags": [
         "实习",
-        "发行平台 Publishing Division"
+        "广告中心"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/36728451-875e-4110-8ed8-1cf37c6c7d03",
       "search_keyword": null,
@@ -3351,10 +3369,10 @@
       "title": "数据产品经理（AI方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "AI创新院 AI Innovation Institute",
+      "industry": "红岸实验室",
       "tags": [
         "实习",
-        "AI创新院 AI Innovation Institute"
+        "红岸实验室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/a35b0231-5eba-47e9-a314-b1811161a5f7",
       "search_keyword": null,
@@ -3391,10 +3409,10 @@
       "title": "品牌视频部实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "发行平台 Publishing Division",
+      "industry": "品牌设计中心",
       "tags": [
         "实习",
-        "发行平台 Publishing Division"
+        "品牌设计中心"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/fd60960f-7ff7-4c9d-862e-14e976e1bc26",
       "search_keyword": null,
@@ -3411,10 +3429,10 @@
       "title": "游戏音效设计实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "少年三国志 Junior Three Kingdom",
+      "industry": "美术",
       "tags": [
         "实习",
-        "少年三国志 Junior Three Kingdom"
+        "美术"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/84c70a20-953a-4a3d-af87-47cbb6f25019",
       "search_keyword": null,
@@ -3431,10 +3449,10 @@
       "title": "策划实习生（AI方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "饭团工作室",
+      "industry": "代号：Ball",
       "tags": [
         "实习",
-        "饭团工作室"
+        "代号：Ball"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/aa2b49bf-b951-49dc-9286-c07f1ce16241",
       "search_keyword": null,
@@ -3451,10 +3469,10 @@
       "title": "游戏运营实习生（产品运营方向）",
       "company": "游族网络",
       "city": null,
-      "industry": "苍玄项目组 Cangxuan Project Team",
+      "industry": "苍玄项目组",
       "tags": [
         "实习",
-        "苍玄项目组 Cangxuan Project Team"
+        "苍玄项目组"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/db05441d-d5fe-43ea-8604-1a7d268a5c6c",
       "search_keyword": null,
@@ -3471,10 +3489,10 @@
       "title": "动效实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "回响项目组 Echo Team",
+      "industry": "回响项目组",
       "tags": [
         "实习",
-        "回响项目组 Echo Team"
+        "回响项目组"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/f203d1e2-0744-46ea-ac9c-bf120e670771",
       "search_keyword": null,
@@ -3491,10 +3509,10 @@
       "title": "AI大模型开发",
       "company": "游族网络",
       "city": null,
-      "industry": "AI创新院 AI Innovation Institute",
+      "industry": "红岸实验室",
       "tags": [
         "实习",
-        "AI创新院 AI Innovation Institute"
+        "红岸实验室"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/167e2b55-b0c2-4a16-8074-4e93368cd62d",
       "search_keyword": null,
@@ -3511,10 +3529,10 @@
       "title": "新媒体运营实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "品牌公共事务中心 Branding Public Affairs Center",
+      "industry": "品牌公关部",
       "tags": [
         "实习",
-        "品牌公共事务中心 Branding Public Affairs Center"
+        "品牌公关部"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/7bf6d0c8-4744-48a4-8f18-47ff203668ff",
       "search_keyword": null,
@@ -3531,10 +3549,10 @@
       "title": "运营实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "饭团工作室",
+      "industry": "GOT PC",
       "tags": [
         "实习",
-        "饭团工作室"
+        "GOT PC"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/76cb7fc5-d669-4222-bdfc-7113ee75df0a",
       "search_keyword": null,
@@ -3551,10 +3569,10 @@
       "title": "界面动效实习生",
       "company": "游族网络",
       "city": null,
-      "industry": "R.E.D项目组 R.E.D Project Team",
+      "industry": "少年三国志II",
       "tags": [
         "实习",
-        "R.E.D项目组 R.E.D Project Team"
+        "少年三国志II"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/ba9c4774-0891-42a1-b71e-b73c24bc6ef2",
       "search_keyword": null,
@@ -4640,7 +4658,7 @@
     },
     {
       "id": "moka_zuoyebang_8dc4cec5-c253-4d66-bd7e-490b84b56b87",
-      "title": "达人运营-27秋招",
+      "title": "直播渠道商务-27秋招",
       "company": "作业帮",
       "city": "北京",
       "industry": null,
