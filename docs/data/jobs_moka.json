@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 14:35:28",
+  "updated_at": "2026-10-24 14:26:11",
   "job_count": 325,
   "excluded_count": 143,
   "jobs": [
@@ -191,7 +191,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
@@ -1821,7 +1821,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_huya_78b8c990-af32-4407-8b52-ecc1d745c3bc",
@@ -4847,25 +4847,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_f9b54292-c909-4f81-b117-4b24259d1c0a",
-      "title": "项目管理专员（广州）-运营策略-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/f9b54292-c909-4f81-b117-4b24259d1c0a",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-10-11 14:45:50",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-10-11",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
       "title": "服装质量运营专员（广州）-2027届",
       "company": "SHEIN",
@@ -4877,7 +4858,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-09-29 10:56:34",
+      "publish_date": "2026-10-23 15:23:58",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4896,11 +4877,30 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-09-29 10:56:34",
+      "publish_date": "2026-10-23 15:23:58",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-04",
+      "is_new": false
+    },
+    {
+      "id": "moka_shein_f9b54292-c909-4f81-b117-4b24259d1c0a",
+      "title": "项目管理专员（广州）-运营策略-2027届",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/f9b54292-c909-4f81-b117-4b24259d1c0a",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-10-11 14:45:50",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-11",
       "is_new": false
     },
     {

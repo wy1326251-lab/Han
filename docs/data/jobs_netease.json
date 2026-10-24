@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23 14:31:31",
-  "job_count": 291,
+  "updated_at": "2026-10-24 14:22:55",
+  "job_count": 292,
   "excluded_count": 49,
   "jobs": [
     {
@@ -382,6 +382,26 @@
       "is_campus_official": true,
       "first_seen": "2026-10-10",
       "is_new": false
+    },
+    {
+      "id": "netease_79517",
+      "title": "内容运营实习生（北京）",
+      "company": "网易云音乐",
+      "city": "北京市",
+      "industry": "运营",
+      "tags": [
+        "本科",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=79517&lang=zh",
+      "search_keyword": "视频剪辑",
+      "source": "网易招聘",
+      "publish_date": "2026-10-23 18:14:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-24",
+      "is_new": true
     },
     {
       "id": "netease_79119",
@@ -2184,26 +2204,6 @@
       "is_new": false
     },
     {
-      "id": "netease_79255",
-      "title": "内容推广策划实习生",
-      "company": "网易游戏（互娱）",
-      "city": "广州市",
-      "industry": "市场",
-      "tags": [
-        "本科",
-        "不限"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=79255&lang=zh",
-      "search_keyword": "内容策划",
-      "source": "网易招聘",
-      "publish_date": "2026-10-18 22:07:33",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-10-13",
-      "is_new": false
-    },
-    {
       "id": "netease_78956",
       "title": "公关传播实习生（MMO游戏）",
       "company": "网易游戏（互娱）",
@@ -2821,7 +2821,27 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-23",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "netease_78177",
+      "title": "浪潮内容编辑",
+      "company": "网易传媒",
+      "city": "北京市",
+      "industry": "内容",
+      "tags": [
+        "本科",
+        "0-3年"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78177&lang=zh",
+      "search_keyword": "内容策划",
+      "source": "网易招聘",
+      "publish_date": "2026-08-17 14:25:45",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": false
     },
     {
       "id": "netease_63992",
@@ -2861,26 +2881,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-27",
-      "is_new": false
-    },
-    {
-      "id": "netease_78177",
-      "title": "浪潮内容编辑",
-      "company": "网易传媒",
-      "city": "北京市",
-      "industry": "内容",
-      "tags": [
-        "本科",
-        "0-3年"
-      ],
-      "link": "https://hr.163.com/job-detail.html?id=78177&lang=zh",
-      "search_keyword": "内容策划",
-      "source": "网易招聘",
-      "publish_date": "2026-08-17 14:25:45",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-18",
       "is_new": false
     },
     {
@@ -3242,6 +3242,26 @@
       "is_campus_official": true,
       "first_seen": "2026-09-08",
       "is_new": false
+    },
+    {
+      "id": "netease_78838",
+      "title": "战斗策划日常实习生（猫和老鼠）",
+      "company": "网易游戏（互娱）",
+      "city": "杭州市",
+      "industry": "游戏策划",
+      "tags": [
+        "不限",
+        "不限"
+      ],
+      "link": "https://hr.163.com/job-detail.html?id=78838&lang=zh",
+      "search_keyword": "内容策划",
+      "source": "网易招聘",
+      "publish_date": "2026-10-18 22:07:42",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-24",
+      "is_new": true
     },
     {
       "id": "netease_78806",
@@ -4036,7 +4056,7 @@
       "link": "https://hr.163.com/job-detail.html?id=50960&lang=zh",
       "search_keyword": "AI产品",
       "source": "网易招聘",
-      "publish_date": "2026-09-28 16:55:47",
+      "publish_date": "2026-10-23 14:57:37",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -5161,7 +5181,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-23",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "netease_79148",
