@@ -1,17 +1,17 @@
 {
-  "run_at": "2026-10-25T06:46:42+00:00",
+  "run_at": "2026-10-26T06:53:24+00:00",
   "sources": [
     {
       "name": "实习僧",
       "ok": true,
       "job_count": 315,
-      "new_count": 8
+      "new_count": 20
     },
     {
       "name": "网易招聘",
       "ok": true,
-      "job_count": 292,
-      "new_count": 0
+      "job_count": 291,
+      "new_count": 5
     },
     {
       "name": "腾讯招聘",
