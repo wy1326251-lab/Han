@@ -1,8 +1,160 @@
 {
-  "updated_at": "2026-10-27 14:49:57",
+  "updated_at": "2026-10-28 15:26:31",
   "job_count": 35,
-  "excluded_count": 199,
+  "excluded_count": 198,
   "jobs": [
+    {
+      "id": "kuaishou_13825",
+      "title": "AI商业化产品经理-PDE",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13825",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-14 18:35:37",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-21",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13210",
+      "title": "游戏关卡策划",
+      "company": "快手",
+      "city": "杭州",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13210",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-29",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13229",
+      "title": "平台产品经理-大模型AIGC",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13229",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-09-03",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13500",
+      "title": "策略产品经理-大模型数据",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13500",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-12 14:02:10",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13272",
+      "title": "AI Agent 产品经理",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13272",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-25",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13732",
+      "title": "AI产品经理-导购方向",
+      "company": "快手",
+      "city": "杭州",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13732",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-13 22:12:21",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-21",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13255",
+      "title": "内容运营-运动",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13255",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-09 18:03:16",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-18",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_13772",
+      "title": "多模态训练数据质量专家-音视频方向",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/13772",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-08-14 11:53:08",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
     {
       "id": "kuaishou_13265",
       "title": "游戏数值策划",
@@ -118,25 +270,6 @@
       "is_new": false
     },
     {
-      "id": "kuaishou_13825",
-      "title": "AI商业化产品经理-PDE",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13825",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-14 18:35:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-21",
-      "is_new": false
-    },
-    {
       "id": "kuaishou_13324",
       "title": "市场营销与策划",
       "company": "快手",
@@ -156,25 +289,6 @@
       "is_new": false
     },
     {
-      "id": "kuaishou_13210",
-      "title": "游戏关卡策划",
-      "company": "快手",
-      "city": "杭州",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13210",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-29",
-      "is_new": false
-    },
-    {
       "id": "kuaishou_13595",
       "title": "游戏营销策划",
       "company": "快手",
@@ -191,25 +305,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13229",
-      "title": "平台产品经理-大模型AIGC",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13229",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-03",
       "is_new": false
     },
     {
@@ -270,113 +365,18 @@
       "is_new": false
     },
     {
-      "id": "kuaishou_13500",
-      "title": "策略产品经理-大模型数据",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13500",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-12 14:02:10",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13272",
-      "title": "AI Agent 产品经理",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13272",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-25",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13732",
-      "title": "AI产品经理-导购方向",
-      "company": "快手",
-      "city": "杭州",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13732",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-13 22:12:21",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-21",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13255",
-      "title": "内容运营-运动",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13255",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-09 18:03:16",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-18",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_13772",
-      "title": "多模态训练数据质量专家-音视频方向",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/13772",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-08-14 11:53:08",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11502",
-      "title": "【留用实习】市场营销与策划",
+      "id": "kuaishou_12371",
+      "title": "【留用实习】HR-AI超级个体方向",
       "company": "快手",
       "city": "北京",
       "industry": null,
       "tags": [
         "实习"
       ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11502",
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/12371",
       "search_keyword": null,
       "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
+      "publish_date": "2026-03-18 11:42:04",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,
@@ -396,6 +396,82 @@
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-03-12 20:04:53",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11501",
+      "title": "【留用实习】市场推广与策划",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11501",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-20",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11453",
+      "title": "【留用实习】平台产品经理-AI平台",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11453",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11450",
+      "title": "【留用实习】内容运营-运动",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11450",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11502",
+      "title": "【留用实习】市场营销与策划",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11502",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,
@@ -469,63 +545,6 @@
         "实习"
       ],
       "link": "https://campus.kuaishou.cn/#/campus/job-info/11609",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11501",
-      "title": "【留用实习】市场推广与策划",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11501",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-20",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11453",
-      "title": "【留用实习】平台产品经理-AI平台",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11453",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11450",
-      "title": "【留用实习】内容运营-运动",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11450",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-03-06 20:21:50",
@@ -643,25 +662,6 @@
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_12371",
-      "title": "【留用实习】HR-AI超级个体方向",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/12371",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-18 11:42:04",
       "salary": null,
       "offers_fulltime": true,
       "is_campus_official": true,

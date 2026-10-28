@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-27 14:52:43",
-  "job_count": 322,
+  "updated_at": "2026-10-28 15:29:28",
+  "job_count": 333,
   "excluded_count": 143,
   "jobs": [
+    {
+      "id": "moka_moonshot_244f9191-1fcc-4db6-a0dc-6c165796cc5f",
+      "title": "AI数据开发实习生",
+      "company": "月之暗面(Kimi)",
+      "city": "上海",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/244f9191-1fcc-4db6-a0dc-6c165796cc5f",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-10-27 22:10:12",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
     {
       "id": "moka_moonshot_8b97d540-493d-4b3c-bcc6-d8ec003e701d",
       "title": "体验运营实习生（Harness业务方向）",
@@ -24,7 +43,7 @@
     },
     {
       "id": "moka_moonshot_6f3f3929-8c41-41a1-8b18-fc5e156a986d",
-      "title": "Kimi增长创意实习生",
+      "title": "增长创意实习生",
       "company": "月之暗面(Kimi)",
       "city": "北京",
       "industry": null,
@@ -173,6 +192,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_moonshot_08fd410e-1b44-4e3b-b15e-265d0fa18699",
+      "title": "全球金融AI方案实习生",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/08fd410e-1b44-4e3b-b15e-265d0fa18699",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-10-27 21:19:29",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
     },
     {
       "id": "moka_moonshot_67d863ac-8854-4b26-b167-79ea6bef55b0",
@@ -1446,6 +1484,44 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_zhihu_95403327-d4b9-4041-a4a0-d903b335d66d",
+      "title": "市场运营实习生（AI 方向）",
+      "company": "知乎",
+      "city": "深圳",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/95403327-d4b9-4041-a4a0-d903b335d66d",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-10-28 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zhihu_ab7eba42-6c0d-4ccc-960e-622b0e4a59e9",
+      "title": "小说版权运营",
+      "company": "知乎",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/ab7eba42-6c0d-4ccc-960e-622b0e4a59e9",
+      "search_keyword": null,
+      "source": "知乎官网",
+      "publish_date": "2026-10-28 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
     },
     {
       "id": "moka_zhihu_cdeb354b-9245-478e-96fa-0ff2508b3c36",
@@ -2818,25 +2894,6 @@
       "search_keyword": null,
       "source": "鹰角网络官网",
       "publish_date": "2026-07-29 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_hypergryph_487a757b-e814-4367-838f-661198c12118",
-      "title": "海外用户运营",
-      "company": "鹰角网络",
-      "city": "上海",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/hypergryph/26326#/job/487a757b-e814-4367-838f-661198c12118",
-      "search_keyword": null,
-      "source": "鹰角网络官网",
-      "publish_date": "2026-07-30 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -4543,8 +4600,141 @@
       "is_new": false
     },
     {
+      "id": "moka_zuoyebang_94d881ab-8397-4142-a82d-3688242728a7",
+      "title": "素材运营（海外广告）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/94d881ab-8397-4142-a82d-3688242728a7",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_fcfaeefd-6092-495d-87c8-d994603cf127",
+      "title": "视频编导（投放）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/fcfaeefd-6092-495d-87c8-d994603cf127",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_732fd0b8-1651-45d1-b952-cea36ecaf8c5",
+      "title": "设计实习生（动效设计）-27转正实习",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/732fd0b8-1651-45d1-b952-cea36ecaf8c5",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_f6fbbfb7-8263-4281-9927-2a667445325d",
+      "title": "设计实习生（原画设计）-27转正实习",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/f6fbbfb7-8263-4281-9927-2a667445325d",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_3f558ec5-532d-43b7-b901-1ca4f9773379",
+      "title": "视觉设计实习生（素养）-27转正实习",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/3f558ec5-532d-43b7-b901-1ca4f9773379",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_cd431abc-9b9e-495e-b233-1f1f607da34c",
+      "title": " AI产品设计实习生-27转正实习",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/cd431abc-9b9e-495e-b233-1f1f607da34c",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_0e765ddf-886e-4246-ab5a-0f96292b765f",
+      "title": "设计实习生（书籍设计）-27转正实习",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/0e765ddf-886e-4246-ab5a-0f96292b765f",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-10-27 17:46:45",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
+    },
+    {
       "id": "moka_zuoyebang_3543e135-7343-4452-9fb3-5446cb2890a3",
-      "title": "新媒体运营（视频编导）-27实习",
+      "title": "新媒体运营（视频编导）-27转正实习",
       "company": "作业帮",
       "city": "北京",
       "industry": null,
@@ -4556,7 +4746,7 @@
       "source": "作业帮官网",
       "publish_date": "2026-10-14 11:02:02",
       "salary": null,
-      "offers_fulltime": false,
+      "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-14",
       "is_new": false
@@ -4788,6 +4978,25 @@
       "is_campus_official": true,
       "first_seen": "2026-08-28",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_fe5789c5-5c49-4858-a812-9cb98fe38972",
+      "title": "商家资金运营实习生",
+      "company": "SHEIN",
+      "city": "雨花台区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/fe5789c5-5c49-4858-a812-9cb98fe38972",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-10-27 16:06:55",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-28",
+      "is_new": true
     },
     {
       "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
