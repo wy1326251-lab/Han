@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-28 15:29:28",
-  "job_count": 333,
-  "excluded_count": 143,
+  "updated_at": "2026-10-29 15:43:27",
+  "job_count": 342,
+  "excluded_count": 142,
   "jobs": [
     {
       "id": "moka_moonshot_244f9191-1fcc-4db6-a0dc-6c165796cc5f",
@@ -20,25 +20,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
-    },
-    {
-      "id": "moka_moonshot_8b97d540-493d-4b3c-bcc6-d8ec003e701d",
-      "title": "体验运营实习生（Harness业务方向）",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8b97d540-493d-4b3c-bcc6-d8ec003e701d",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-10-19 11:57:40",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-10-19",
       "is_new": false
     },
     {
@@ -118,44 +99,6 @@
       "is_new": false
     },
     {
-      "id": "moka_moonshot_24952815-e0f3-403c-b01c-b796cb2abc43",
-      "title": "Kimi品牌设计实习生（Brand Design Intern）",
-      "company": "月之暗面(Kimi)",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/24952815-e0f3-403c-b01c-b796cb2abc43",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-07-27 22:13:41",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_moonshot_d2e41303-71be-44f2-bcde-199d2e15d9d2",
-      "title": "国际化-产品运营实习生（小语种方向）",
-      "company": "月之暗面(Kimi)",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/d2e41303-71be-44f2-bcde-199d2e15d9d2",
-      "search_keyword": null,
-      "source": "月之暗面(Kimi)官网",
-      "publish_date": "2026-07-17 14:16:36",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_moonshot_5fd59e02-c6f7-4673-8e4d-723d03b12710",
       "title": "Research Scientist / Engineer – Agentic RL",
       "company": "月之暗面(Kimi)",
@@ -210,7 +153,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_67d863ac-8854-4b26-b167-79ea6bef55b0",
@@ -229,6 +172,25 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-23",
+      "is_new": false
+    },
+    {
+      "id": "moka_moonshot_8b97d540-493d-4b3c-bcc6-d8ec003e701d",
+      "title": "体验运营实习生（Harness业务方向）",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8b97d540-493d-4b3c-bcc6-d8ec003e701d",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-10-19 11:57:40",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-19",
       "is_new": false
     },
     {
@@ -1467,25 +1429,6 @@
       "is_new": false
     },
     {
-      "id": "moka_agora_181042cb-85df-49ef-a317-4f2a0836a207",
-      "title": "AI产品经理实习生(对话式 AI / Voice Agent 方向)",
-      "company": "声网Agora",
-      "city": null,
-      "industry": "产品部（Product）",
-      "tags": [
-        "产品部（Product）"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/agora/4789#/job/181042cb-85df-49ef-a317-4f2a0836a207",
-      "search_keyword": null,
-      "source": "声网Agora官网",
-      "publish_date": "2026-08-12 17:08:03",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_zhihu_95403327-d4b9-4041-a4a0-d903b335d66d",
       "title": "市场运营实习生（AI 方向）",
       "company": "知乎",
@@ -1502,7 +1445,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_ab7eba42-6c0d-4ccc-960e-622b0e4a59e9",
@@ -1521,7 +1464,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zhihu_cdeb354b-9245-478e-96fa-0ff2508b3c36",
@@ -1807,6 +1750,234 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
+    },
+    {
+      "id": "moka_meitu_a3d78c7d-dc8e-4a4d-8e1f-b3cb7bdc7090",
+      "title": "全球化产品运营 / Global Product Operations - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/a3d78c7d-dc8e-4a4d-8e1f-b3cb7bdc7090",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 15:36:48",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_5f582676-cee1-47b0-a472-d485b9750288",
+      "title": "全球化产品运营 / Global Product Operations - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/5f582676-cee1-47b0-a472-d485b9750288",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 15:36:13",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_1d511d94-3689-487e-8b33-c52f4631ebfe",
+      "title": "全球化产品运营 / Global Product Operations - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/1d511d94-3689-487e-8b33-c52f4631ebfe",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 15:35:26",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_737a264c-7e78-46d5-8538-ba6311cc21d0",
+      "title": "全球化用户增长运营 / Global User Growth - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/737a264c-7e78-46d5-8538-ba6311cc21d0",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 15:34:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_fcaa2d15-000c-4cc5-bcb0-cf93141a5256",
+      "title": "全球化用户增长运营 / Global User Growth - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/fcaa2d15-000c-4cc5-bcb0-cf93141a5256",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 15:34:15",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_5ae35641-7fbf-40c2-8ad1-2e3767b4569a",
+      "title": " 产品经理｜B端AI创意工具方向 / Product Manager | AI Creative Tools for Businesses -2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/5ae35641-7fbf-40c2-8ad1-2e3767b4569a",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 15:33:04",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_82edd1c8-b365-4525-99b6-4764f0b3b229",
+      "title": " 产品经理｜B端AI创意工具方向 / Product Manager | AI Creative Tools for Businesses -2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/82edd1c8-b365-4525-99b6-4764f0b3b229",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 14:01:42",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_eddae328-075a-4704-a3cb-26730b6eeab7",
+      "title": "产品经理｜C端影像与AI创作方向 / Product Manager | Consumer AI Photo & Video - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/eddae328-075a-4704-a3cb-26730b6eeab7",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 14:01:09",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_115b2f54-beb1-4b46-bb5a-e5eea1499c39",
+      "title": "产品经理｜C端影像与AI创作方向 / Product Manager | Consumer AI Photo & Video - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/115b2f54-beb1-4b46-bb5a-e5eea1499c39",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 13:59:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_f2dcc7b0-c83f-4f53-8bb5-22dbf2c4576b",
+      "title": "全球化用户增长运营 / Global User Growth（深圳/Shenzhen） - 2027 校招 Campus recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/f2dcc7b0-c83f-4f53-8bb5-22dbf2c4576b",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 13:27:58",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_0fbc3041-8642-4a52-803e-c8da0543870e",
+      "title": "全球化产品运营 / Global Product Operations - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/0fbc3041-8642-4a52-803e-c8da0543870e",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 13:14:15",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
+      "id": "moka_meitu_f0f0d895-0389-46a1-a766-8cd5c3cff335",
+      "title": "产品经理｜C端影像与AI创作方向 / Product Manager | Consumer AI Photo & Video - 2027 校招 / Graduate recruitment",
+      "company": "美图",
+      "city": null,
+      "industry": "影像产品事业群",
+      "tags": [
+        "影像产品事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/meitu/54138#/job/f0f0d895-0389-46a1-a766-8cd5c3cff335",
+      "search_keyword": null,
+      "source": "美图官网",
+      "publish_date": "2026-10-29 13:01:40",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
     },
     {
       "id": "moka_meitu_6ae7860b-2176-4387-8420-6b727d3b3450",
@@ -3325,6 +3496,26 @@
       "is_new": false
     },
     {
+      "id": "moka_yoozoo_f83a34e9-3d6b-44ed-9f8c-9bf6e6cc6a99",
+      "title": "AI游戏制作实习生（玩法与内容方向）",
+      "company": "游族网络",
+      "city": null,
+      "industry": "AI 实验室",
+      "tags": [
+        "实习",
+        "AI 实验室"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/f83a34e9-3d6b-44ed-9f8c-9bf6e6cc6a99",
+      "search_keyword": null,
+      "source": "游族网络官网",
+      "publish_date": "2026-10-29 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
       "id": "moka_yoozoo_6455a703-4b99-434e-a317-5727083bd631",
       "title": "数据开发（AI方向）",
       "company": "游族网络",
@@ -4616,26 +4807,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
-    },
-    {
-      "id": "moka_zuoyebang_fcfaeefd-6092-495d-87c8-d994603cf127",
-      "title": "视频编导（投放）-27秋招",
-      "company": "作业帮",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/fcfaeefd-6092-495d-87c8-d994603cf127",
-      "search_keyword": null,
-      "source": "作业帮官网",
-      "publish_date": "2026-10-27 17:46:45",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_732fd0b8-1651-45d1-b952-cea36ecaf8c5",
@@ -4654,7 +4826,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_f6fbbfb7-8263-4281-9927-2a667445325d",
@@ -4673,7 +4845,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_3f558ec5-532d-43b7-b901-1ca4f9773379",
@@ -4692,7 +4864,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_cd431abc-9b9e-495e-b233-1f1f607da34c",
@@ -4711,7 +4883,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_0e765ddf-886e-4246-ab5a-0f96292b765f",
@@ -4730,7 +4902,7 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zuoyebang_3543e135-7343-4452-9fb3-5446cb2890a3",
@@ -4980,6 +5152,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_d862d092-a809-4287-a3aa-de7ecbf1eac2",
+      "title": "AI 治理与安全审计实习生",
+      "company": "SHEIN",
+      "city": "雨花台区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/d862d092-a809-4287-a3aa-de7ecbf1eac2",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-10-29 10:31:14",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-29",
+      "is_new": true
+    },
+    {
       "id": "moka_shein_fe5789c5-5c49-4858-a812-9cb98fe38972",
       "title": "商家资金运营实习生",
       "company": "SHEIN",
@@ -4996,7 +5187,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_8bddae11-e68b-4dd0-af9d-6a846dad4b84",
@@ -5151,25 +5342,6 @@
       "is_new": false
     },
     {
-      "id": "moka_shein_6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
-      "title": "商品企划专员（广州）-品牌&策略运营-2027届",
-      "company": "SHEIN",
-      "city": "番禺区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/6e9364b2-a745-4cc2-b02b-3b2ad05ddde0",
-      "search_keyword": null,
-      "source": "SHEIN官网",
-      "publish_date": "2026-09-07 19:54:11",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-04",
-      "is_new": false
-    },
-    {
       "id": "moka_shein_7fe7c488-6a98-4c26-9292-bf142a2e7b2b",
       "title": "项目管理专员（广州）-营销策略运营-2027届",
       "company": "SHEIN",
@@ -5243,6 +5415,46 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-12",
+      "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_84a3b703-c978-4dce-bd9f-6c93764c8468",
+      "title": "27届秋招-国际化运营分析师（国际化外卖-葡语）",
+      "company": "滴滴",
+      "city": "北京",
+      "industry": "国际化事业群",
+      "tags": [
+        "全职",
+        "国际化事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/84a3b703-c978-4dce-bd9f-6c93764c8468",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-10-28 15:53:36",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "moka_didiglobal_9c676981-0237-4fca-9241-1701b6697d67",
+      "title": "27届秋招-产品用户运营分析师（国际化出行-葡语/英语）",
+      "company": "滴滴",
+      "city": "杭州/北京",
+      "industry": "国际化事业群",
+      "tags": [
+        "全职",
+        "国际化事业群"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/9c676981-0237-4fca-9241-1701b6697d67",
+      "search_keyword": null,
+      "source": "滴滴官网",
+      "publish_date": "2026-10-28 15:53:09",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
@@ -5686,26 +5898,6 @@
       "is_new": false
     },
     {
-      "id": "moka_didiglobal_9c676981-0237-4fca-9241-1701b6697d67",
-      "title": "27届秋招-产品用户运营分析师（国际化出行-葡语/英语）",
-      "company": "滴滴",
-      "city": "杭州/北京",
-      "industry": "国际化事业群",
-      "tags": [
-        "全职",
-        "国际化事业群"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/9c676981-0237-4fca-9241-1701b6697d67",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_didiglobal_ab4a1333-a550-401d-a8e8-f45a5bb089bc",
       "title": "27届秋招-用户增长运营分析师（国际化外卖）",
       "company": "滴滴",
@@ -5776,26 +5968,6 @@
         "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/e7caa9d5-9e1d-41b4-8975-2a4b978e03a8",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_84a3b703-c978-4dce-bd9f-6c93764c8468",
-      "title": "27届秋招-国际化运营分析师（国际化外卖-葡语）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "国际化事业群",
-      "tags": [
-        "全职",
-        "国际化事业群"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/84a3b703-c978-4dce-bd9f-6c93764c8468",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
