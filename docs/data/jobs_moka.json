@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30 15:44:21",
-  "job_count": 341,
+  "updated_at": "2026-10-31 15:32:15",
+  "job_count": 340,
   "excluded_count": 143,
   "jobs": [
     {
@@ -1768,7 +1768,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_meitu_4bd7bf26-760e-4a7d-8fea-01f0705daa1a",
@@ -1787,7 +1787,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_meitu_34c4b2b7-d537-4a5c-8ed3-23d5b01734c8",
@@ -1806,7 +1806,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-30",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_meitu_a3d78c7d-dc8e-4a4d-8e1f-b3cb7bdc7090",
@@ -3776,26 +3776,6 @@
       "is_new": false
     },
     {
-      "id": "moka_yoozoo_20189753-c9ee-46c0-af1a-c0860cb81678",
-      "title": "系统策划",
-      "company": "游族网络",
-      "city": null,
-      "industry": "饭团工作室",
-      "tags": [
-        "实习",
-        "饭团工作室"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/20189753-c9ee-46c0-af1a-c0860cb81678",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2025-01-20 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
       "id": "moka_37_fa7c6826-4170-402a-935b-bdf86fddb363",
       "title": "系统策划",
       "company": "三七互娱",
@@ -3986,23 +3966,42 @@
       "is_new": false
     },
     {
-      "id": "moka_zlongame_cbb021ad-e22b-446f-9ec2-8e869e84345e",
-      "title": "【2027校招】游戏战斗策划（AI Native 方向）",
+      "id": "moka_zlongame_e08995a9-71c7-4a4c-8720-12bc90eade64",
+      "title": "【2027校招】游戏系统策划（天地劫，战棋）",
       "company": "紫龙游戏",
       "city": null,
       "industry": null,
       "tags": [
         "全职"
       ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/cbb021ad-e22b-446f-9ec2-8e869e84345e",
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/e08995a9-71c7-4a4c-8720-12bc90eade64",
       "search_keyword": null,
       "source": "紫龙游戏官网",
-      "publish_date": "2026-07-09 00:00",
+      "publish_date": "2026-10-29 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
-      "first_seen": "2026-09-29",
+      "first_seen": "2026-10-30",
       "is_new": false
+    },
+    {
+      "id": "moka_zlongame_db28be00-8347-4506-945a-c5c58aa42588",
+      "title": "【2027校招】游戏战斗策划（天地劫，战棋）",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/db28be00-8347-4506-945a-c5c58aa42588",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-10-30 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-10-31",
+      "is_new": true
     },
     {
       "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
@@ -4155,25 +4154,6 @@
       "is_campus_official": true,
       "first_seen": "2026-08-14",
       "is_new": false
-    },
-    {
-      "id": "moka_zlongame_e08995a9-71c7-4a4c-8720-12bc90eade64",
-      "title": "【2027校招】游戏系统策划（天地劫，战棋）",
-      "company": "紫龙游戏",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/e08995a9-71c7-4a4c-8720-12bc90eade64",
-      "search_keyword": null,
-      "source": "紫龙游戏官网",
-      "publish_date": "2026-10-29 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-10-30",
-      "is_new": true
     },
     {
       "id": "moka_zlongame_246c43ab-2b71-4b02-9699-5a6f63c37b42",
