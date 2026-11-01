@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 15:32:15",
+  "updated_at": "2026-11-01 16:07:17",
   "job_count": 340,
   "excluded_count": 143,
   "jobs": [
@@ -4001,7 +4001,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-10-31",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zlongame_c21728d2-767f-4643-9311-590739368f66",
