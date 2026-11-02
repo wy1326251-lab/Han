@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01 16:07:17",
-  "job_count": 340,
+  "updated_at": "2026-11-02 16:13:48",
+  "job_count": 339,
   "excluded_count": 143,
   "jobs": [
     {
@@ -1753,7 +1753,7 @@
     },
     {
       "id": "moka_meitu_3b5f226e-5b8b-440a-9813-4d14e33271b0",
-      "title": "产品经理（C端影像与AI创作方向 ）｜ Product Manager (Consumer AI Photo & Video)",
+      "title": "产品经理（C端影像与AI创作方向 ）｜ Product Manager (Consumer AI Imaging)",
       "company": "美图",
       "city": null,
       "industry": "影像产品事业群",
@@ -1905,7 +1905,7 @@
     },
     {
       "id": "moka_meitu_115b2f54-beb1-4b46-bb5a-e5eea1499c39",
-      "title": "产品经理（C端影像与AI创作方向）｜ Product Manager (Consumer AI Photo & Video)",
+      "title": "产品经理（C端影像与AI创作方向）｜ Product Manager (Consumer AI Imaging)",
       "company": "美图",
       "city": null,
       "industry": "影像产品事业群",
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "moka_meitu_f0f0d895-0389-46a1-a766-8cd5c3cff335",
-      "title": "产品经理（C端影像与AI创作方向 ）｜ Product Manager (Consumer AI Photo & Video)",
+      "title": "产品经理（C端影像与AI创作方向 ）｜ Product Manager (Consumer AI Imaging)",
       "company": "美图",
       "city": null,
       "industry": "影像产品事业群",
@@ -5053,25 +5053,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-08-28",
-      "is_new": false
-    },
-    {
-      "id": "moka_zuoyebang_8ad95dd4-3ace-4193-afe2-1f2d2e84b17f",
-      "title": "AI产品经理（直播产品）-27秋招",
-      "company": "作业帮",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/8ad95dd4-3ace-4193-afe2-1f2d2e84b17f",
-      "search_keyword": null,
-      "source": "作业帮官网",
-      "publish_date": "2026-08-10 10:10:37",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
       "is_new": false
     },
     {
