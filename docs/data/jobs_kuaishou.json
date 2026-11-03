@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 16:11:06",
+  "updated_at": "2026-11-03 16:28:52",
   "job_count": 35,
   "excluded_count": 198,
   "jobs": [
@@ -384,6 +384,120 @@
       "is_new": false
     },
     {
+      "id": "kuaishou_11448",
+      "title": "【留用实习】内容运营-音乐",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11448",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11446",
+      "title": "【留用实习】内容运营-二次元",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11446",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11445",
+      "title": "【留用实习】内容运营",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11445",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11311",
+      "title": "【留用实习】策略运营-内容",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11311",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11248",
+      "title": "【留用实习】AIGC技术美术",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11248",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
+      "id": "kuaishou_11245",
+      "title": "【留用实习】AI Agent产品经理",
+      "company": "快手",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://campus.kuaishou.cn/#/campus/job-info/11245",
+      "search_keyword": null,
+      "source": "快手校招",
+      "publish_date": "2026-03-06 20:21:50",
+      "salary": null,
+      "offers_fulltime": true,
+      "is_campus_official": true,
+      "first_seen": "2026-08-14",
+      "is_new": false
+    },
+    {
       "id": "kuaishou_12371",
       "title": "【留用实习】HR-AI超级个体方向",
       "company": "快手",
@@ -545,120 +659,6 @@
         "实习"
       ],
       "link": "https://campus.kuaishou.cn/#/campus/job-info/11609",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11448",
-      "title": "【留用实习】内容运营-音乐",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11448",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11446",
-      "title": "【留用实习】内容运营-二次元",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11446",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11445",
-      "title": "【留用实习】内容运营",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11445",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11311",
-      "title": "【留用实习】策略运营-内容",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11311",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11248",
-      "title": "【留用实习】AIGC技术美术",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11248",
-      "search_keyword": null,
-      "source": "快手校招",
-      "publish_date": "2026-03-06 20:21:50",
-      "salary": null,
-      "offers_fulltime": true,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "kuaishou_11245",
-      "title": "【留用实习】AI Agent产品经理",
-      "company": "快手",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://campus.kuaishou.cn/#/campus/job-info/11245",
       "search_keyword": null,
       "source": "快手校招",
       "publish_date": "2026-03-06 20:21:50",

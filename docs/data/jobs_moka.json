@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-02 16:13:48",
-  "job_count": 339,
-  "excluded_count": 143,
+  "updated_at": "2026-11-03 16:31:44",
+  "job_count": 337,
+  "excluded_count": 142,
   "jobs": [
+    {
+      "id": "moka_moonshot_50596607-03f8-49c7-b2f3-a273fdca2361",
+      "title": "Agent Product Builder & Strategy Intern",
+      "company": "月之暗面(Kimi)",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/50596607-03f8-49c7-b2f3-a273fdca2361",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-11-03 15:35:13",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
     {
       "id": "moka_moonshot_244f9191-1fcc-4db6-a0dc-6c165796cc5f",
       "title": "AI数据开发实习生",
@@ -1296,25 +1315,6 @@
       "is_new": false
     },
     {
-      "id": "moka_tuya_f901216d-dbde-41b8-8a25-5092902ed46c",
-      "title": "视觉设计实习生（品牌方向）",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/f901216d-dbde-41b8-8a25-5092902ed46c",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2026-09-04 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-16",
-      "is_new": false
-    },
-    {
       "id": "moka_tuya_95e478ab-4cf1-45c0-bb29-6ff278c06e59",
       "title": "AIOT产品经理实习生（空间智能）",
       "company": "涂鸦智能",
@@ -1334,25 +1334,6 @@
       "is_new": false
     },
     {
-      "id": "moka_tuya_8ee1f44d-d30a-4c21-9c9f-eec4aeebd229",
-      "title": "视觉设计实习生（运营设计方向）",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/8ee1f44d-d30a-4c21-9c9f-eec4aeebd229",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2026-09-07 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-07",
-      "is_new": false
-    },
-    {
       "id": "moka_tuya_2cd82b61-428f-46ae-9e74-4db0d14fe5c6",
       "title": "AI服务运营实习生（27届）",
       "company": "涂鸦智能",
@@ -1369,63 +1350,6 @@
       "offers_fulltime": true,
       "is_campus_official": true,
       "first_seen": "2026-09-01",
-      "is_new": false
-    },
-    {
-      "id": "moka_tuya_850d8fa6-64a4-44dd-87c6-fe547674cc35",
-      "title": "AI硬件产品经理（智慧家电）",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/850d8fa6-64a4-44dd-87c6-fe547674cc35",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2025-12-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": false
-    },
-    {
-      "id": "moka_tuya_4b832789-d45d-46d8-941d-57b9868a534b",
-      "title": "AI硬件产品经理（IPC&视频）",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/4b832789-d45d-46d8-941d-57b9868a534b",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2025-12-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
-      "is_new": false
-    },
-    {
-      "id": "moka_tuya_dd94335c-8bce-48ac-837b-6c533598a5d7",
-      "title": "AI硬件产品经理（电工能源）",
-      "company": "涂鸦智能",
-      "city": "西湖区",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/tuya/147434#/job/dd94335c-8bce-48ac-837b-6c533598a5d7",
-      "search_keyword": null,
-      "source": "涂鸦智能官网",
-      "publish_date": "2025-12-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-15",
       "is_new": false
     },
     {
@@ -1616,25 +1540,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-03",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_9bad2161-d151-4591-8cb8-5ce24818c07e",
-      "title": "领域策略运营-27届",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/9bad2161-d151-4591-8cb8-5ce24818c07e",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-08-11 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-26",
       "is_new": false
     },
     {
@@ -4156,6 +4061,25 @@
       "is_new": false
     },
     {
+      "id": "moka_zlongame_cbb021ad-e22b-446f-9ec2-8e869e84345e",
+      "title": "【2027校招】游戏战斗策划（AI Native 方向）",
+      "company": "紫龙游戏",
+      "city": null,
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/cbb021ad-e22b-446f-9ec2-8e869e84345e",
+      "search_keyword": null,
+      "source": "紫龙游戏官网",
+      "publish_date": "2026-07-09 00:00",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
       "id": "moka_zlongame_246c43ab-2b71-4b02-9699-5a6f63c37b42",
       "title": "【实习岗】平面设计师",
       "company": "紫龙游戏",
@@ -5113,6 +5037,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_db663a0d-47f4-40ce-ac89-58c6defb79de",
+      "title": "电商运营实习生（彩妆类目 东南亚&美区）",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/db663a0d-47f4-40ce-ac89-58c6defb79de",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-11-03 14:10:19",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-03",
+      "is_new": true
+    },
+    {
       "id": "moka_shein_d862d092-a809-4287-a3aa-de7ecbf1eac2",
       "title": "AI 治理与安全审计实习生",
       "company": "SHEIN",
@@ -5301,6 +5244,25 @@
       "is_campus_official": true,
       "first_seen": "2026-10-21",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_7a503fd1-cc48-4258-b070-78255703c199",
+      "title": "视觉策划实习生",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/7a503fd1-cc48-4258-b070-78255703c199",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-11-02 17:40:49",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-03",
+      "is_new": true
     },
     {
       "id": "moka_shein_7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
