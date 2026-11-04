@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-03 16:31:44",
-  "job_count": 337,
-  "excluded_count": 142,
+  "updated_at": "2026-11-04 16:05:42",
+  "job_count": 336,
+  "excluded_count": 141,
   "jobs": [
     {
       "id": "moka_moonshot_50596607-03f8-49c7-b2f3-a273fdca2361",
@@ -20,7 +20,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_244f9191-1fcc-4db6-a0dc-6c165796cc5f",
@@ -1502,44 +1502,6 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-09-10",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_a8105dfa-a845-4e6f-a15d-dc41d7962a50",
-      "title": "漫剧内容制片",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/a8105dfa-a845-4e6f-a15d-dc41d7962a50",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-09-04 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-05",
-      "is_new": false
-    },
-    {
-      "id": "moka_zhihu_eda3cdd9-6778-4ddd-95b6-519aca1c9be5",
-      "title": "内容策划运营实习生",
-      "company": "知乎",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/eda3cdd9-6778-4ddd-95b6-519aca1c9be5",
-      "search_keyword": null,
-      "source": "知乎官网",
-      "publish_date": "2026-08-27 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-03",
       "is_new": false
     },
     {
@@ -4077,7 +4039,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_zlongame_246c43ab-2b71-4b02-9699-5a6f63c37b42",
@@ -4714,6 +4676,44 @@
       "is_new": false
     },
     {
+      "id": "moka_zuoyebang_10660269-af29-477d-939b-cd31dbae828b",
+      "title": "视频编导（达播）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/10660269-af29-477d-939b-cd31dbae828b",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-11-04 11:47:50",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-04",
+      "is_new": true
+    },
+    {
+      "id": "moka_zuoyebang_401895bb-54e1-4352-b86d-8b116a7196b3",
+      "title": "视频编导（千川）-27秋招",
+      "company": "作业帮",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "全职"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/401895bb-54e1-4352-b86d-8b116a7196b3",
+      "search_keyword": null,
+      "source": "作业帮官网",
+      "publish_date": "2026-11-04 11:47:03",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-04",
+      "is_new": true
+    },
+    {
       "id": "moka_zuoyebang_94d881ab-8397-4142-a82d-3688242728a7",
       "title": "素材运营（海外广告）-27秋招",
       "company": "作业帮",
@@ -4942,25 +4942,6 @@
       "is_new": false
     },
     {
-      "id": "moka_zuoyebang_cc0aea69-7607-47a5-a029-79ee36d5ea1a",
-      "title": "视频编导（初中）-27秋招",
-      "company": "作业帮",
-      "city": "北京",
-      "industry": null,
-      "tags": [
-        "全职"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/job/cc0aea69-7607-47a5-a029-79ee36d5ea1a",
-      "search_keyword": null,
-      "source": "作业帮官网",
-      "publish_date": "2026-09-28 17:39:14",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-29",
-      "is_new": false
-    },
-    {
       "id": "moka_zuoyebang_1304da50-00ed-40e2-9a1e-4835c5f49da2",
       "title": "企业AI产品经理-27秋招",
       "company": "作业帮",
@@ -5037,6 +5018,25 @@
       "is_new": false
     },
     {
+      "id": "moka_shein_9853be65-d65e-4b8b-a4f1-40b7af3d8e47",
+      "title": "平面设计实习生",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/9853be65-d65e-4b8b-a4f1-40b7af3d8e47",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-11-03 20:53:05",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-04",
+      "is_new": true
+    },
+    {
       "id": "moka_shein_db663a0d-47f4-40ce-ac89-58c6defb79de",
       "title": "电商运营实习生（彩妆类目 东南亚&美区）",
       "company": "SHEIN",
@@ -5053,7 +5053,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_d862d092-a809-4287-a3aa-de7ecbf1eac2",
@@ -5262,7 +5262,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_shein_7bbaeee0-ed71-4493-9eea-7c1d58635a2e",
@@ -5812,26 +5812,6 @@
         "国际化事业群"
       ],
       "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/ab4a1333-a550-401d-a8e8-f45a5bb089bc",
-      "search_keyword": null,
-      "source": "滴滴官网",
-      "publish_date": "2026-08-13 10:19:54",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_didiglobal_88aa5d14-8f5b-4da4-ad7c-b51095659549",
-      "title": "27届秋招-AI产品助理 （国际化外卖-广告策略）",
-      "company": "滴滴",
-      "city": "北京",
-      "industry": "国际化事业群",
-      "tags": [
-        "全职",
-        "国际化事业群"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/didiglobal/96064#/job/88aa5d14-8f5b-4da4-ad7c-b51095659549",
       "search_keyword": null,
       "source": "滴滴官网",
       "publish_date": "2026-08-13 10:19:54",
