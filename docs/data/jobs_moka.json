@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-05 16:25:39",
-  "job_count": 332,
+  "updated_at": "2026-11-06 16:28:47",
+  "job_count": 333,
   "excluded_count": 138,
   "jobs": [
+    {
+      "id": "moka_moonshot_20d8a1a8-269b-447a-b974-4e89cff9e5df",
+      "title": "KIMI Agent Eval Intern｜视觉/3D/Robotics方向",
+      "company": "月之暗面(Kimi)",
+      "city": "北京",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/20d8a1a8-269b-447a-b974-4e89cff9e5df",
+      "search_keyword": null,
+      "source": "月之暗面(Kimi)官网",
+      "publish_date": "2026-11-05 19:39:57",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
     {
       "id": "moka_moonshot_75a6838e-3444-402e-a451-1557e9fef093",
       "title": "Agent Builder & Harness Engineer（实习）",
@@ -20,7 +39,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-05",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_50596607-03f8-49c7-b2f3-a273fdca2361",
@@ -324,7 +343,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-05",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "moka_moonshot_ac794113-4a1c-410f-9d31-f46c30d28a06",
@@ -3430,26 +3449,6 @@
       "is_new": false
     },
     {
-      "id": "moka_yoozoo_c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
-      "title": "数值策划",
-      "company": "游族网络",
-      "city": null,
-      "industry": "饭团工作室",
-      "tags": [
-        "实习",
-        "饭团工作室"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/yoozoo/3728#/job/c5d6da90-4d5b-463b-b7ac-0ab672b20f32",
-      "search_keyword": null,
-      "source": "游族网络官网",
-      "publish_date": "2026-09-18 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-09-19",
-      "is_new": false
-    },
-    {
       "id": "moka_yoozoo_fd60960f-7ff7-4c9d-862e-14e976e1bc26",
       "title": "品牌视频部实习生",
       "company": "游族网络",
@@ -4079,25 +4078,6 @@
       "search_keyword": null,
       "source": "紫龙游戏官网",
       "publish_date": "2026-07-31 00:00",
-      "salary": null,
-      "offers_fulltime": false,
-      "is_campus_official": true,
-      "first_seen": "2026-08-14",
-      "is_new": false
-    },
-    {
-      "id": "moka_zlongame_c4df2f18-90ff-409e-9a21-5cd9d57c0830",
-      "title": "【实习岗】游戏UI动效",
-      "company": "紫龙游戏",
-      "city": null,
-      "industry": null,
-      "tags": [
-        "实习"
-      ],
-      "link": "https://app.mokahr.com/campus-recruitment/zlongame/140110#/job/c4df2f18-90ff-409e-9a21-5cd9d57c0830",
-      "search_keyword": null,
-      "source": "紫龙游戏官网",
-      "publish_date": "2026-05-22 00:00",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -5016,7 +4996,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-11-04 16:42:10",
+      "publish_date": "2026-11-06 10:24:34",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -5035,7 +5015,7 @@
       "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/4d5c14bb-5ae4-4fde-adf8-06802c546154",
       "search_keyword": null,
       "source": "SHEIN官网",
-      "publish_date": "2026-11-04 16:42:10",
+      "publish_date": "2026-11-06 10:24:34",
       "salary": null,
       "offers_fulltime": false,
       "is_campus_official": true,
@@ -5174,6 +5154,44 @@
       "is_campus_official": true,
       "first_seen": "2026-09-04",
       "is_new": false
+    },
+    {
+      "id": "moka_shein_6aa34250-7b4a-4592-895e-a52bd04c3150",
+      "title": "实习生-AI复色",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/6aa34250-7b4a-4592-895e-a52bd04c3150",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-11-06 11:57:47",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-06",
+      "is_new": true
+    },
+    {
+      "id": "moka_shein_a151e25c-36c8-4dd5-9be7-2ebb670b9f2e",
+      "title": "AI训练实习生",
+      "company": "SHEIN",
+      "city": "番禺区",
+      "industry": null,
+      "tags": [
+        "实习"
+      ],
+      "link": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/a151e25c-36c8-4dd5-9be7-2ebb670b9f2e",
+      "search_keyword": null,
+      "source": "SHEIN官网",
+      "publish_date": "2026-11-06 11:56:43",
+      "salary": null,
+      "offers_fulltime": false,
+      "is_campus_official": true,
+      "first_seen": "2026-11-06",
+      "is_new": true
     },
     {
       "id": "moka_shein_7a503fd1-cc48-4258-b070-78255703c199",
