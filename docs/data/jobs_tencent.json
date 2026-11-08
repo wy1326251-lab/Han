@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 15:46:16",
+  "updated_at": "2026-11-08 15:53:50",
   "job_count": 11,
   "excluded_count": 1,
   "jobs": [
@@ -172,7 +172,7 @@
       "offers_fulltime": false,
       "is_campus_official": true,
       "first_seen": "2026-11-07",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "tencent_2082410876329181184",
